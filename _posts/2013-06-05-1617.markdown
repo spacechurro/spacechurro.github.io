@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1617
+wordpress_url: http://noesbueno.com/archives/1617
+date: '2013-06-05 09:25:41 -0500'
+date_gmt: '2013-06-05 14:25:41 -0500'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2013/06/dollar-shave-club-introduces-butt-wipes-for-men/">Dollar Shave Club Introduces Butt Wipes For Men</a></p>
+---

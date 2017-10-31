@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1172
+wordpress_url: http://noesbueno.com/?p=1172
+date: '2011-07-08 15:06:23 -0500'
+date_gmt: '2011-07-08 20:06:23 -0500'
+body: |
+  <p><a href="http://www.avclub.com/chicago/articles/the-socialists-fernando-rabiela,58634/">The Socialists get an article in The Onion's A.V. Club</a> - They're playing <a href="http://www.westfestchicago.com/">West Fest</a> at 1pm tomorrow.  Stop on through.</p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1224
+wordpress_url: http://noesbueno.com/archives/1224
+date: '2011-08-23 14:01:26 -0500'
+date_gmt: '2011-08-23 19:01:26 -0500'
+body: |
+  <p><a href="http://supersonicelectronic.com/post/9294689435">Wasted Rita.</a></p>
+---

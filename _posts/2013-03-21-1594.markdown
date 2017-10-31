@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1594
+wordpress_url: http://noesbueno.com/?p=1594
+date: '2013-03-21 17:45:23 -0500'
+date_gmt: '2013-03-21 22:45:23 -0500'
+body: |
+  <p><a href="http://panelsyndicate.com/">THE PRIVATE EYE</a> - A pay-what you want comic series by Marcos Martin Brian K. Vaughan.</p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 907
+wordpress_url: http://noesbueno.com/archives/907
+date: '2010-12-13 19:00:49 -0600'
+date_gmt: '2010-12-14 00:00:49 -0600'
+body: |
+  <p><a href="http://www.epicponyz.com/2010/12/michael-jackson-boy-behind-mask.html">Michael Jackson: Boy Behind the Mask</a></p>
+---

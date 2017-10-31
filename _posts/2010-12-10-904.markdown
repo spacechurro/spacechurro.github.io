@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 904
+wordpress_url: http://noesbueno.com/archives/904
+date: '2010-12-10 12:00:45 -0600'
+date_gmt: '2010-12-10 17:00:45 -0600'
+body: |
+  <p><a href="http://ratsoff.tumblr.com/post/2143956286">Emoticon of the Day: John Lennon</a></p>
+---

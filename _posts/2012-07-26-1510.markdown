@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1510
+wordpress_url: http://noesbueno.com/archives/1510
+date: '2012-07-26 11:12:34 -0500'
+date_gmt: '2012-07-26 16:12:34 -0500'
+body: |
+  <p><a href="http://feedproxy.google.com/~r/LostAtEMinor/~3/Fkjfvx5pcFw/">Pastry cup lets you drink your coffee then eat the cup</a></p>
+---

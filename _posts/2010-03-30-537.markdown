@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 537
+wordpress_url: http://noesbueno.com/archives/537
+date: '2010-03-30 13:33:34 -0500'
+date_gmt: '2010-03-30 18:33:34 -0500'
+body: |
+  <p><a href="http://www.youtube.com/watch?v=kpqdxqoe2F4">LCD manshun</a></p>
+---

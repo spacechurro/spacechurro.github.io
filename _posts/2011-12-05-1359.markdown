@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1359
+wordpress_url: http://noesbueno.com/archives/1359
+date: '2011-12-05 16:14:29 -0600'
+date_gmt: '2011-12-05 21:14:29 -0600'
+body: |
+  <p><a href="http://www.marriedtothesea.com/120511">banking the game</a></p>
+---

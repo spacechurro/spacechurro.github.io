@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 49
+wordpress_url: http://noesbueno.com/archives/49
+date: '2006-01-02 12:07:35 -0600'
+date_gmt: '2006-01-02 17:07:35 -0600'
+body: |
+  <p><a href="http://www.devilducky.com/media/39946/">El puppet show de Pac-Man!</a></p>
+---

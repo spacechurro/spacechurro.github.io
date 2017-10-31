@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1602
+wordpress_url: http://noesbueno.com/?p=1602
+date: '2013-04-12 13:29:39 -0500'
+date_gmt: '2013-04-12 18:29:39 -0500'
+body: |
+  <p><a href="http://harveyjames.tumblr.com/post/46123764908/springfield-is-about-to-eoxopolooodoe-whew-just">Bartkira</a> - "A comics event where every participant takes five pages from the original AKIRA manga, to collectively redraw the entirety of Akira, in our own styles, with characters from The Simpsons".  Here is <a href="http://www.flickr.com/photos/bar-art/8633129528/">The Searcher's take</a>.  So badass... </p>
+---

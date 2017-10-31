@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1170
+wordpress_url: http://noesbueno.com/archives/1170
+date: '2011-07-07 16:00:49 -0500'
+date_gmt: '2011-07-07 21:00:49 -0500'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2011/07/american-lambda/">American Lambda</a></p>
+---

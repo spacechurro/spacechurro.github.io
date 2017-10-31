@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 97
+wordpress_url: http://noesbueno.com/archives/97
+date: '2006-03-27 09:31:11 -0600'
+date_gmt: '2006-03-27 14:31:11 -0600'
+body: |
+  <p><a href="http://redhanded.hobix.com/cult/everyoneIsHereInTheFuture.html">Everyone is Here in the Future</a></p>
+---

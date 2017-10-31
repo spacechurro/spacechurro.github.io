@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1608
+wordpress_url: http://noesbueno.com/archives/1608
+date: '2013-05-01 12:18:10 -0500'
+date_gmt: '2013-05-01 17:18:10 -0500'
+body: |
+  <p><a href="http://badkidsjokes.tumblr.com/post/48427529403">The Ninja</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 880
+wordpress_url: http://noesbueno.com/archives/880
+date: '2010-11-26 14:00:53 -0600'
+date_gmt: '2010-11-26 19:00:53 -0600'
+body: |
+  <p><a href="http://retrospace.tumblr.com/post/1692135218">centipede (by retro-space)</a></p>
+---

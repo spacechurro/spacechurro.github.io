@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 744
+wordpress_url: http://noesbueno.com/archives/744
+date: '2010-08-11 14:00:12 -0500'
+date_gmt: '2010-08-11 19:00:12 -0500'
+body: |
+  <p><a href="http://www.epicponyz.com/2010/08/slimetrooper.html">Slimetrooper</a></p>
+---

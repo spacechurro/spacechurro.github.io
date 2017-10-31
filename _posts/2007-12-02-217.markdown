@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 217
+wordpress_url: http://noesbueno.com/archives/217
+date: '2007-12-02 22:56:49 -0600'
+date_gmt: '2007-12-03 03:56:49 -0600'
+body: |
+  <p><a href="http://www.woostercollective.com/2007/12/shit_were_diggin_sander_plugs_chocolate.html">Sander Plug's Chocolate Bunny</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 894
+wordpress_url: http://noesbueno.com/archives/894
+date: '2010-12-04 22:00:47 -0600'
+date_gmt: '2010-12-05 03:00:47 -0600'
+body: |
+  <p><a href="http://beastieboys.com/post/2086678110">wait, is this what you asked for?</a></p>
+---

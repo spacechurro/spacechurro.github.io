@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1770
+wordpress_url: http://noesbueno.com/archives/1770
+date: '2015-02-01 11:54:35 -0600'
+date_gmt: '2015-02-01 16:54:35 -0600'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2015/01/urkel-san-family-matters-as-an-anime/">Urkel-San: Family Matters As An Anime</a></p>
+---

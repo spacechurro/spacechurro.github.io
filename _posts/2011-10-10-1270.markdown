@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1270
+wordpress_url: http://noesbueno.com/archives/1270
+date: '2011-10-10 17:03:07 -0500'
+date_gmt: '2011-10-10 22:03:07 -0500'
+body: |
+  <p><a href="http://redthreat.wordpress.com/2011/10/07/brenmar-temperature-rising/">Brenmar: Temperature Rising</a></p>
+---

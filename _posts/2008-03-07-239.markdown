@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 239
+wordpress_url: http://noesbueno.com/archives/239
+date: '2008-03-07 10:52:48 -0600'
+date_gmt: '2008-03-07 15:52:48 -0600'
+body: |
+  <p><a href="http://transition.turbulence.org/Works/notmyfather/">You're Not My Father</a> <span class="via">(via <a href="http://www.waxy.org">waxy!</a>)</span></p>
+---

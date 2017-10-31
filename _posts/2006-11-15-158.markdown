@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 158
+wordpress_url: http://noesbueno.com/archives/158
+date: '2006-11-15 09:20:31 -0600'
+date_gmt: '2006-11-15 14:20:31 -0600'
+body: |
+  <p><a href="http://www.youtube.com/watch?v=HzvOuke7UaA&mode=related&search=">deerhoof has a milk man ballet.</a>Â  wtf?</p>
+---

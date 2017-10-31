@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 209
+wordpress_url: http://noesbueno.com/archives/209
+date: '2007-10-05 13:12:39 -0500'
+date_gmt: '2007-10-05 18:12:39 -0500'
+body: |
+  <p>comedy gold: <a href="http://www.beaucoupkevin.com/2007/10/josh-started-it-and-then-it-was-all.html">old batman still with dialogue from Frank Miller's <em>Dark Night Returns</em> and <em>Batman: Year One</em></a> <span class="via">(via <a href="http://drawn.ca">drawn!</a>)</span></p>
+---

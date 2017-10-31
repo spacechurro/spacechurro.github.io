@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 118
+wordpress_url: http://noesbueno.com/archives/118
+date: '2006-05-02 18:58:49 -0500'
+date_gmt: '2006-05-02 23:58:49 -0500'
+body: |
+  <p>wanna know if LOST is a repeat?  <a href="http://www.islostarepeat.com/">islostarepeat.com</a></p>
+---

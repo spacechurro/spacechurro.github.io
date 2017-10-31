@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1349
+wordpress_url: http://noesbueno.com/archives/1349
+date: '2011-11-29 16:02:45 -0600'
+date_gmt: '2011-11-29 21:02:45 -0600'
+body: |
+  <p><a href="http://feedproxy.google.com/~r/LostAtEMinor/~3/AeUKrmY0-lM/">Alarm clock wakes you to the smell of cooking bacon</a></p>
+---

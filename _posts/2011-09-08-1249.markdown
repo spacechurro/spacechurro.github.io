@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1249
+wordpress_url: http://noesbueno.com/archives/1249
+date: '2011-09-08 22:02:16 -0500'
+date_gmt: '2011-09-09 03:02:16 -0500'
+body: |
+  <p><a href="http://ffffound.com/image/ea35735188c779ff0e3586aa9d4af015cc72d07b">Friends of Type</a></p>
+---

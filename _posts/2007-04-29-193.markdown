@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 193
+wordpress_url: http://noesbueno.com/archives/193
+date: '2007-04-29 11:56:45 -0500'
+date_gmt: '2007-04-29 16:56:45 -0500'
+body: |
+  <p><a href="http://www.uncrate.com/men/gear/toys/rc-mario-kart-racer/">R/C Mario Kart Racer</a></p>
+---

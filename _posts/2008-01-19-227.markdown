@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 227
+wordpress_url: http://noesbueno.com/archives/227
+date: '2008-01-19 20:25:25 -0600'
+date_gmt: '2008-01-20 01:25:25 -0600'
+body: |
+  <p><a href="http://www.youtube.com/watch?v=7C6r6fG4k40">Richard Stallman does the soulja boy dance.</a>  GCC that hoe!</p>
+---

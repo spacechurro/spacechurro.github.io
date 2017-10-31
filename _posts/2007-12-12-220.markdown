@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 220
+wordpress_url: http://noesbueno.com/archives/220
+date: '2007-12-12 18:09:33 -0600'
+date_gmt: '2007-12-12 23:09:33 -0600'
+body: |
+  <p><a href="http://youtube.com/watch?v=5MV7Sym8bIQ">Bill Murray's whisper  in 'Lost in Translation' revealed.</a>  I can't really make out what he's saying even after all the signal processing, but its interesting nonetheless. <span class="via">(via <a href="http://www.kottke.org">kottke</a>)</span></p>
+---

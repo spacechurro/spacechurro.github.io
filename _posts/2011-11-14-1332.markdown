@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1332
+wordpress_url: http://noesbueno.com/archives/1332
+date: '2011-11-14 11:13:10 -0600'
+date_gmt: '2011-11-14 16:13:10 -0600'
+body: |
+  <p><a href="http://kottke.org/11/11/amazing-iss-time-lapse">Amazing HD time lapse taken from the International Space Station</a></p>
+---

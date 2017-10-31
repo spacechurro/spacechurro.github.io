@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 87
+wordpress_url: http://noesbueno.com/archives/87
+date: '2006-03-21 09:26:05 -0600'
+date_gmt: '2006-03-21 14:26:05 -0600'
+body: |
+  <p><a href="http://sacks10.blogspot.com/2006/03/and-winners-are.html">Drawing contest entries for Fat Albert characters</a> on Saxton Moore's blog. <span class="via">(via <a href="http://drawn.ca/">Drawn!</a>)</span></p>
+---

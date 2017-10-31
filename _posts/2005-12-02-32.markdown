@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 32
+wordpress_url: http://noesbueno.com/archives/32
+date: '2005-12-02 15:46:21 -0600'
+date_gmt: '2005-12-02 20:46:21 -0600'
+body: |
+  <p>Ricky Gervais, creator of The Office and Extras,  will do a <a href="http://www.guardian.co.uk/rickygervais">series of podcasts for The Guardian</a>, starting Dec 5th. <span class="via">(via <a href="http://www.kottke.org">kottke </a>)</span></p>
+---

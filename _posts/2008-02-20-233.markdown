@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 233
+wordpress_url: http://noesbueno.com/archives/233
+date: '2008-02-20 16:01:41 -0600'
+date_gmt: '2008-02-20 21:01:41 -0600'
+body: |
+  <p><a href="http://www.photobasement.com/41-hilarious-science-fair-experiments/">kids and their science fair experiments</a> <span class="via">(via <a href="http://www.kottke.org">kottke</a>)</span></p>
+---

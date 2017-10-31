@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 879
+wordpress_url: http://noesbueno.com/archives/879
+date: '2010-11-26 13:01:00 -0600'
+date_gmt: '2010-11-26 18:01:00 -0600'
+body: |
+  <p><a href="http://www.epicponyz.com/2010/11/best-turkey-ever.html">Best Turkey Ever</a></p>
+---

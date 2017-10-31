@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1571
+wordpress_url: http://noesbueno.com/archives/1571
+date: '2013-02-01 13:05:23 -0600'
+date_gmt: '2013-02-01 18:05:23 -0600'
+body: |
+  <p><a href="http://kottke.org/13/02/hessian-a-brand-in-a-box">Hessian, a brand in a box</a></p>
+---

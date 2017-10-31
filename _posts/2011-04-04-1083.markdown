@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1083
+wordpress_url: http://noesbueno.com/archives/1083
+date: '2011-04-04 22:00:58 -0500'
+date_gmt: '2011-04-05 03:00:58 -0500'
+body: |
+  <p><a href="http://feedproxy.google.com/~r/wondertonic/~3/O-sW7w7japw/4355188278">Excerpt From My Screenplay: TIME RIFT 6: GOD SAVE THE CYBERQUEEN</a></p>
+---

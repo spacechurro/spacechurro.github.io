@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 877
+wordpress_url: http://noesbueno.com/archives/877
+date: '2010-11-24 17:00:55 -0600'
+date_gmt: '2010-11-24 22:00:55 -0600'
+body: |
+  <p><a href="http://kottke.org/10/11/watch-star-trek-online-for-free">Watch Star Trek online for free</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1544
+wordpress_url: http://noesbueno.com/archives/1544
+date: '2012-10-25 09:49:03 -0500'
+date_gmt: '2012-10-25 14:49:03 -0500'
+body: |
+  <p><a href="http://kottke.org/12/10/why-do-kids-cover-their-eyes-when-theyre-hiding">Why do kids cover their eyes when they're hiding?</a></p>
+---

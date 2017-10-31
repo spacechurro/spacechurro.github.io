@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1036
+wordpress_url: http://noesbueno.com/archives/1036
+date: '2011-03-02 11:59:46 -0600'
+date_gmt: '2011-03-02 16:59:46 -0600'
+body: |
+  <p><a href="http://culturepopped.blogspot.com/2011/03/fear-and-loathing-in-mushroom-kingdom.html">Fear and Loathing In The Mushroom Kingdom</a></p>
+---

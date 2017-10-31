@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 680
+wordpress_url: http://noesbueno.com/archives/680
+date: '2010-06-21 17:00:34 -0500'
+date_gmt: '2010-06-21 22:00:34 -0500'
+body: |
+  <p><a href="http://blog.signalnoise.com/2010/06/21/alt1977-by-alex-varanese/">Alt/1977 by Alex Varanese</a></p>
+---

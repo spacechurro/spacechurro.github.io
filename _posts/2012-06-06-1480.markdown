@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1480
+wordpress_url: http://noesbueno.com/archives/1480
+date: '2012-06-06 11:48:18 -0500'
+date_gmt: '2012-06-06 16:48:18 -0500'
+body: |
+  <p><a href="http://willzone.tumblr.com/post/24483297710">11 minutes a new record.</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 29
+wordpress_url: http://noesbueno.com/?p=29
+date: '2005-11-23 15:58:07 -0600'
+date_gmt: '2005-11-23 20:58:07 -0600'
+body: |
+  <p><a href="http://www.firewheeldesign.com/">Firewheel Design</a> - oooooh!  this site is scrumtralescent. <span class="via">(via <a href="http://sealclub.org/5q/0008/">Dave Shea's 5Q</a>)</span></p>
+---

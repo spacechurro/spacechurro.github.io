@@ -1,0 +1,10 @@
+---
+layout: post
+wordpress_id: 231
+wordpress_url: http://noesbueno.com/archives/231
+date: '2008-01-28 21:15:29 -0600'
+date_gmt: '2008-01-29 02:15:29 -0600'
+body: |
+  <p><a href="http://www.youtube.com/watch?v=soWwa_Xwy7U">Lakai Fully Flared Intro.</a>  Dope skate video intro done by Spike Jonze.  M83 diddles my skittle.</p>
+  <p><span class="via">(via <a href="http://www.kottke.org">kottke</a>)</span></p>
+---

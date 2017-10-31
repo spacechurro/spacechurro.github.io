@@ -1,0 +1,10 @@
+---
+layout: post
+wordpress_id: 753
+wordpress_url: http://noesbueno.com/archives/753
+date: '2010-08-17 20:00:07 -0500'
+date_gmt: '2010-08-18 01:00:07 -0500'
+body: |
+  <p><a href="http://www.whatevs.net/post/967223167">Gun popsicles in coke, licorice, and cherry flavor.<br />
+  Moar</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1624
+wordpress_url: http://noesbueno.com/archives/1624
+date: '2013-07-10 10:06:50 -0500'
+date_gmt: '2013-07-10 15:06:50 -0500'
+body: |
+  <p><a href="http://kottke.org/13/07/getting-the-right-fit">Getting the right fit</a></p>
+---

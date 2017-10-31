@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 78
+wordpress_url: http://noesbueno.com/archives/78
+date: '2006-03-02 17:00:01 -0600'
+date_gmt: '2006-03-02 22:00:01 -0600'
+body: |
+  <p><a href="http://youtube.com/watch?v=_oBBFretjPs">Toy Story 2 meets Requiem for a Dream</a></p>
+---

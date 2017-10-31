@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1334
+wordpress_url: http://noesbueno.com/archives/1334
+date: '2011-11-15 18:14:53 -0600'
+date_gmt: '2011-11-15 23:14:53 -0600'
+body: |
+  <p><a href="http://willzone.tumblr.com/post/12807640520/what-would-happen-if-richard-pryor-worked-in-the">What would happen if Richard Pryor worked in the Star Wars cantina bar?</a></p>
+---

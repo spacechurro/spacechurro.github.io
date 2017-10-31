@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 747
+wordpress_url: http://noesbueno.com/archives/747
+date: '2010-08-13 15:36:19 -0500'
+date_gmt: '2010-08-13 20:36:19 -0500'
+body: |
+  <p><a href="http://retrospace.tumblr.com/post/945271501">Frisbee</a> <span class="via">(via <a href="http://retrospace.tumblr.com/">retrospace zeta</a>)</span></p>
+---

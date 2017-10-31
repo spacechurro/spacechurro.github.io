@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1643
+wordpress_url: http://noesbueno.com/archives/1643
+date: '2013-09-09 12:06:29 -0500'
+date_gmt: '2013-09-09 17:06:29 -0500'
+body: |
+  <p><a href="http://kottke.org/13/09/manipulating-objects-in-photos-in-3d">Manipulating objects in photos in 3D</a></p>
+---

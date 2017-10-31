@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 80
+wordpress_url: http://noesbueno.com/archives/80
+date: '2006-03-07 07:58:03 -0600'
+date_gmt: '2006-03-07 12:58:03 -0600'
+body: |
+  <p><a href="http://redhanded.hobix.com/cult/theLeastSurprised11.html">Ruby fanboys represent</a>.</p>
+---

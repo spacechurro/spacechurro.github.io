@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 501
+wordpress_url: http://noesbueno.com/archives/501
+date: '2010-02-24 19:58:45 -0600'
+date_gmt: '2010-02-25 00:58:45 -0600'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2010/02/nintendo-wii-proton-pack/">Nintendo Wii Proton Pack</a></p>
+---

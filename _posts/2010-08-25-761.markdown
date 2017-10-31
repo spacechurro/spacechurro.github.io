@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 761
+wordpress_url: http://noesbueno.com/archives/761
+date: '2010-08-25 17:00:04 -0500'
+date_gmt: '2010-08-25 22:00:04 -0500'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2010/08/nike-automatic-lacing-system-patent/">Nike: Automatic Lacing System Patent</a></p>
+---

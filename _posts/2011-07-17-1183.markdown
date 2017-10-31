@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1183
+wordpress_url: http://noesbueno.com/archives/1183
+date: '2011-07-17 18:01:00 -0500'
+date_gmt: '2011-07-17 23:01:00 -0500'
+body: |
+  <p><a href="http://www.epicponyz.com/2011/07/dark-knight-rises-explained.html">The Dark Knight Rises Explained</a></p>
+---

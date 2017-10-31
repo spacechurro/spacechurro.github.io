@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 887
+wordpress_url: http://noesbueno.com/archives/887
+date: '2010-12-03 15:00:50 -0600'
+date_gmt: '2010-12-03 20:00:50 -0600'
+body: |
+  <p><a href="http://kottke.org/10/12/the-physical-toll-of-fancy-cocktails">The physical toll of fancy cocktails</a></p>
+---

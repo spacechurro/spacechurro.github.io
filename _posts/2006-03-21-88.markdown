@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 88
+wordpress_url: http://noesbueno.com/archives/88
+date: '2006-03-21 17:34:16 -0600'
+date_gmt: '2006-03-21 22:34:16 -0600'
+body: |
+  <p><a href="http://www.catchdubs.com/old/2006_03_01_index.html#114262429626678020">Great B.I.G. tattoo</a>.  scroll down a bit for the photo</p>
+---

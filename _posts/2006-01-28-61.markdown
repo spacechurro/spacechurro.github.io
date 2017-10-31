@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 61
+wordpress_url: http://noesbueno.com/archives/61
+date: '2006-01-28 01:31:25 -0600'
+date_gmt: '2006-01-28 06:31:25 -0600'
+body: |
+  <p><a href="http://www.thesuperficial.com/archives/2006/01/27/james_lipton_recites_kevin_fed.html">James Lipton recites lyrics to K Fed's PopoZao</a></p>
+---

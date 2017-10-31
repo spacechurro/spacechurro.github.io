@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 952
+wordpress_url: http://noesbueno.com/archives/952
+date: '2011-01-07 13:00:44 -0600'
+date_gmt: '2011-01-07 18:00:44 -0600'
+body: |
+  <p><a href="http://www.epicponyz.com/2011/01/drawing-avatar.html">Drawing the Avatar</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 418
+wordpress_url: http://noesbueno.com/archives/418
+date: '2010-01-18 12:07:55 -0600'
+date_gmt: '2010-01-18 17:07:55 -0600'
+body: |
+  <p><a href="http://wutangvsthebeatles.bandcamp.com/">Wu Tang vs. The Beatles - Enter the Magical Mystery Chambers</a></p>
+---

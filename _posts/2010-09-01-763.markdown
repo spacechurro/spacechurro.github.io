@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 763
+wordpress_url: http://noesbueno.com/archives/763
+date: '2010-09-01 22:59:57 -0500'
+date_gmt: '2010-09-02 03:59:57 -0500'
+body: |
+  <p><a href="http://feedproxy.google.com/~r/OhmygawdPosters/~3/AnED-llYjjk/">Ken Taylor's Star Trek: First Contact Poster  (Onsale Info)</a></p>
+---

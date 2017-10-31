@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 515
+wordpress_url: http://noesbueno.com/archives/515
+date: '2010-03-18 22:58:06 -0500'
+date_gmt: '2010-03-19 03:58:06 -0500'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2010/03/pon-de-salesfloor/">Pon De (Sales)Floor</a></p>
+---

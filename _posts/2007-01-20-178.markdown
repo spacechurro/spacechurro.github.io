@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 178
+wordpress_url: http://noesbueno.com/archives/178
+date: '2007-01-20 10:32:24 -0600'
+date_gmt: '2007-01-20 15:32:24 -0600'
+body: |
+  <p><a href="http://www.comedycentral.com/motherload/player.jhtml?ml_video=80893&ml_collection=&ml_gateway=&ml_gateway_id=&ml_comedian=&ml_runtime=&ml_context=show&ml_origin_url=%2F&ml_playlist=&lnk=&is_large=true">Faux Klingons</a> <span class="via">(via <a href="http://www.airbagindustries.com/">Airbag</a>)</span></p>
+---

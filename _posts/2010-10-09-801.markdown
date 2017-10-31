@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 801
+wordpress_url: http://noesbueno.com/archives/801
+date: '2010-10-09 14:59:38 -0500'
+date_gmt: '2010-10-09 19:59:38 -0500'
+body: |
+  <p><a href="http://www.epicponyz.com/2010/10/jared-leto-cosplay.html">Jared Leto Cosplay</a></p>
+---

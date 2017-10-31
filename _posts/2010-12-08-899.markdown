@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 899
+wordpress_url: http://noesbueno.com/archives/899
+date: '2010-12-08 16:00:45 -0600'
+date_gmt: '2010-12-08 21:00:45 -0600'
+body: |
+  <p><a href="http://kottke.org/10/12/fake-criterion-films">Fake Criterion films</a></p>
+---

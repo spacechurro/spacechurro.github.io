@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1742
+wordpress_url: http://noesbueno.com/archives/1742
+date: '2014-08-22 12:53:34 -0500'
+date_gmt: '2014-08-22 17:53:34 -0500'
+body: |
+  <p><a href="http://kottke.org/14/08/automata">Automata</a></p>
+---

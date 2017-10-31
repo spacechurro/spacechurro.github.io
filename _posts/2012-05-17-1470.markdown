@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1470
+wordpress_url: http://noesbueno.com/archives/1470
+date: '2012-05-17 16:27:15 -0500'
+date_gmt: '2012-05-17 21:27:15 -0500'
+body: |
+  <p><a href="http://kottke.org/12/05/history-of-the-taco">The history of the taco</a></p>
+---

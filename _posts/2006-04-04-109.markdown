@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 109
+wordpress_url: http://noesbueno.com/archives/109
+date: '2006-04-04 18:29:28 -0500'
+date_gmt: '2006-04-04 23:29:28 -0500'
+body: |
+  <p><a href="http://blog.turntablelab.com/2006/04/gnarly.html">Gnarls Barkley will make your wildest dreams come true.</a></p>
+---

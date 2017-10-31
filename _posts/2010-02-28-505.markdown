@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 505
+wordpress_url: http://noesbueno.com/archives/505
+date: '2010-02-28 01:58:38 -0600'
+date_gmt: '2010-02-28 06:58:38 -0600'
+body: |
+  <p><a href="http://hackaday.com/2010/02/09/old-time-music-player-is-brand-new/">Old-time music player is brand new</a></p>
+---

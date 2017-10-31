@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 58
+wordpress_url: http://noesbueno.com/archives/58
+date: '2006-01-20 17:05:53 -0600'
+date_gmt: '2006-01-20 22:05:53 -0600'
+body: |
+  <p>The <a href="http://www.postalservicemusic.net/">Postal Service</a> call out Apple and the directors of their recent ad on <a href="http://www.eliteproductionswi.com/apple-ps.htm">reproducing shots</a> from the 'Such Great Heights' video.  First the <a href="http://www.adweek.com/aw/national/article_display.jsp?vnu_content_id=1001434566">Lugz commercial</a> and now this.  Apple is ghetto.</p>
+---

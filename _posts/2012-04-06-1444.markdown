@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1444
+wordpress_url: http://noesbueno.com/archives/1444
+date: '2012-04-06 10:35:32 -0500'
+date_gmt: '2012-04-06 15:35:32 -0500'
+body: |
+  <p><a href="http://www.epicponyz.com/2012/04/installing-gentoo.html">Installing Gentoo</a></p>
+---

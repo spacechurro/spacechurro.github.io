@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 312
+wordpress_url: http://noesbueno.com/?p=312
+date: '2009-10-25 00:37:36 -0500'
+date_gmt: '2009-10-25 05:37:36 -0500'
+body: |
+  <p><a href="http://www.everythingisterrible.com/2009/10/internet-for-kidz.html">Everything is Terrible's Internet for Kidz</a></p>
+---

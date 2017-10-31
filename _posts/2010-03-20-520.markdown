@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 520
+wordpress_url: http://noesbueno.com/archives/520
+date: '2010-03-20 16:58:02 -0500'
+date_gmt: '2010-03-20 21:58:02 -0500'
+body: |
+  <p><a href="http://feeds.tuaw.com/click.phdo?i=5efe705b1ea8a298c91e8602c1876fdb">Plastikman releases SYNK, an app for his tour</a></p>
+---

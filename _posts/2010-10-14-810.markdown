@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 810
+wordpress_url: http://noesbueno.com/archives/810
+date: '2010-10-14 11:59:39 -0500'
+date_gmt: '2010-10-14 16:59:39 -0500'
+body: |
+  <p><a href="http://www.epicponyz.com/2010/10/nightwolfs-training.html">Nightwolf's Training</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1343
+wordpress_url: http://noesbueno.com/archives/1343
+date: '2011-11-23 12:59:32 -0600'
+date_gmt: '2011-11-23 17:59:32 -0600'
+body: |
+  <p><a href="http://uncrate.com/stuff/rogue-voodoo-doughnut-bacon-maple-ale/">Rogue Voodoo Doughnut Bacon Maple Ale</a></p>
+---

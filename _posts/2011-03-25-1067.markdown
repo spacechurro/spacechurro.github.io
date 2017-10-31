@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1067
+wordpress_url: http://noesbueno.com/archives/1067
+date: '2011-03-25 16:10:11 -0500'
+date_gmt: '2011-03-25 21:10:11 -0500'
+body: |
+  <p><a href="http://thedailywh.at/2011/03/25/omg-adorbz-of-the-day-12/">The Jokester</a></p>
+---

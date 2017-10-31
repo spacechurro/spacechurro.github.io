@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 408
+wordpress_url: http://noesbueno.com/archives/408
+date: '2010-01-11 20:00:13 -0600'
+date_gmt: '2010-01-12 01:00:13 -0600'
+body: |
+  <p><a href="http://www.readwriteweb.com/archives/google_could_soon_augment_old_billboards_in_street.php">Google Plans to Upgrade Old Billboards in Street View</a></p>
+---

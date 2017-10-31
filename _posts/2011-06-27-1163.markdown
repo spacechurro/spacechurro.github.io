@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1163
+wordpress_url: http://noesbueno.com/archives/1163
+date: '2011-06-27 19:00:59 -0500'
+date_gmt: '2011-06-28 00:00:59 -0500'
+body: |
+  <p><a href="http://www.epicponyz.com/2011/06/oreo-sculpting.html">Oreo Sculpting</a></p>
+---

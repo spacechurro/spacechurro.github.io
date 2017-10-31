@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1689
+wordpress_url: http://noesbueno.com/archives/1689
+date: '2014-03-07 13:29:19 -0600'
+date_gmt: '2014-03-07 18:29:19 -0600'
+body: |
+  <p><a href="http://www.fastcompany.com/3026402/oral-history-sex-drugs-apps-and-sxswi">Fast Company's oral history of SXSW Interactive</a></p>
+---

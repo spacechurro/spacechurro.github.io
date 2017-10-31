@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 385
+wordpress_url: http://noesbueno.com/archives/385
+date: '2009-12-04 10:01:01 -0600'
+date_gmt: '2009-12-04 15:01:01 -0600'
+body: |
+  <p><a href="http://www.blogotheque.net/Phoenix,5179">Phoenix on La Blogotheque's Take Away Shows</a></p>
+---

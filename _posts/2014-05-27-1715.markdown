@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1715
+wordpress_url: http://noesbueno.com/archives/1715
+date: '2014-05-27 21:14:07 -0500'
+date_gmt: '2014-05-28 02:14:07 -0500'
+body: |
+  <p><a href="http://culturepopped.blogspot.com/2014/05/fear-and-shrooming-in-mushroom-kingdom.html">Fear And Shrooming In The Mushroom Kingdom</a></p>
+---

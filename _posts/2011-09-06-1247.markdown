@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1247
+wordpress_url: http://noesbueno.com/archives/1247
+date: '2011-09-06 14:01:15 -0500'
+date_gmt: '2011-09-06 19:01:15 -0500'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2011/09/steve-buscemi-on-91201/">Steve Buscemi On 9/12/01</a></p>
+---

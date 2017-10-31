@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1733
+wordpress_url: http://noesbueno.com/archives/1733
+date: '2014-07-24 19:39:58 -0500'
+date_gmt: '2014-07-25 00:39:58 -0500'
+body: |
+  <p><a href="http://kottke.org/14/07/the-imitation-game">The Imitation Game</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1375
+wordpress_url: http://noesbueno.com/archives/1375
+date: '2011-12-13 14:04:44 -0600'
+date_gmt: '2011-12-13 19:04:44 -0600'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2011/12/i-gave-my-kids-a-terrible-present/">I Gave My Kids a Terrible Present</a></p>
+---

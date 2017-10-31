@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1120
+wordpress_url: http://noesbueno.com/archives/1120
+date: '2011-05-03 22:00:28 -0500'
+date_gmt: '2011-05-04 03:00:28 -0500'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2011/05/morrissey-fans-are-lazy/">Morrissey Fans Are Lazy</a></p>
+---

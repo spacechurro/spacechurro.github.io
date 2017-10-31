@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 684
+wordpress_url: http://noesbueno.com/archives/684
+date: '2010-06-22 18:00:35 -0500'
+date_gmt: '2010-06-22 23:00:35 -0500'
+body: |
+  <p><a href="http://www.epicponyz.com/2010/06/wall-e-cosplay.html">WALL-E Cosplay</a></p>
+---

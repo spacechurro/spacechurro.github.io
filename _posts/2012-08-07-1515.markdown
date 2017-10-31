@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1515
+wordpress_url: http://noesbueno.com/archives/1515
+date: '2012-08-07 11:50:12 -0500'
+date_gmt: '2012-08-07 16:50:12 -0500'
+body: |
+  <p><a href="http://www.lostateminor.com/2012/08/07/pizza-slice-bff-necklace/">Pizza Slice BFF Necklace</a></p>
+---

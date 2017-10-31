@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 613
+wordpress_url: http://noesbueno.com/?p=613
+date: '2010-05-14 08:53:53 -0500'
+date_gmt: '2010-05-14 13:53:53 -0500'
+body: |
+  <p><a href="http://best.complex.com/lists/Kon-Amir-Present-The-50-Greatest-Samples-In-Hip-Hop-History/">Kon + Amir Present: The 50 Greatest Samples in Hip Hop History</a> <span class="via">(via <a href="http://blog.turntablelab.com/">ttl</a>)</span></p>
+---

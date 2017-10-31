@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 494
+wordpress_url: http://noesbueno.com/?p=494
+date: '2010-02-23 10:20:00 -0600'
+date_gmt: '2010-02-23 15:20:00 -0600'
+body: |
+  <p><a href="http://www.motherboard.tv/2010/1/18/motherboard-q-a-jean-y-kim-makes-mind-altering-visuals-with-a-game-boy">Motherboard Q+A: Jean Y. Kim Makes Mind Altering Visuals With a Game Boy</a></p>
+---

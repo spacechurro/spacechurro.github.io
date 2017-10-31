@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 162
+wordpress_url: http://noesbueno.com/archives/162
+date: '2006-11-30 22:28:51 -0600'
+date_gmt: '2006-12-01 03:28:51 -0600'
+body: |
+  <p><a href="http://www.gametrailers.com/umwatcher.php?id=23836">The Mii Lebowski</a> - I was disappointed that the Jesus wasn't in it, but it's still very good. <span class="via">(via <a href="http://www.waxy.org">waxy</a>)</span></p>
+---

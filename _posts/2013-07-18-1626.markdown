@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1626
+wordpress_url: http://noesbueno.com/archives/1626
+date: '2013-07-18 10:30:55 -0500'
+date_gmt: '2013-07-18 15:30:55 -0500'
+body: |
+  <p><a href="http://blog.turntablelab.com/prince-klassen/2013/07/introducing-serato-remote/">Introducing: Serato Remote</a></p>
+---

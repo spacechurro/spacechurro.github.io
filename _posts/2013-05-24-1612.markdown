@@ -1,0 +1,8 @@
+---
+layout: post
+wordpress_id: 1612
+wordpress_url: http://noesbueno.com/archives/1612
+date: '2013-05-24 15:22:50 -0500'
+date_gmt: '2013-05-24 20:22:50 -0500'
+body: "<p><a href=\"http://youtube.com/watch?v=6fdr-Fiv92c\">Anamanaguchi - ENDLESS FANTASY</a></p>\n"
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 817
+wordpress_url: http://noesbueno.com/archives/817
+date: '2010-10-21 10:59:30 -0500'
+date_gmt: '2010-10-21 15:59:30 -0500'
+body: |
+  <p><a href="http://feedproxy.google.com/~r/PitchforkLatestNews/~3/1KL40lTuac8/">Daft Punk Join Phoenix at Madison Square Garden</a></p>
+---

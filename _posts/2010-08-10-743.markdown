@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 743
+wordpress_url: http://noesbueno.com/archives/743
+date: '2010-08-10 22:00:10 -0500'
+date_gmt: '2010-08-11 03:00:10 -0500'
+body: |
+  <p><a href="http://feedproxy.google.com/~r/AboutFoursquare/~3/WHh4pef2ZNs/">Track the beers you drink and check in on foursquare at the same time</a></p>
+---

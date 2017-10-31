@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 211
+wordpress_url: http://noesbueno.com/archives/211
+date: '2007-10-28 21:51:44 -0500'
+date_gmt: '2007-10-29 02:51:44 -0500'
+body: |
+  <p><a href="http://www.flickr.com/photos/matsgull/sets/72157602185120037/">A model of Scrooge McDuck's money bin</a> <span class="via">(via <a href="http://www.drawn.ca/">Drawn!</a>)</span></p>
+---

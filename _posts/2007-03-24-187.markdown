@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 187
+wordpress_url: http://noesbueno.com/archives/187
+date: '2007-03-24 10:35:10 -0500'
+date_gmt: '2007-03-24 15:35:10 -0500'
+body: |
+  <p><a href="http://www.dieselsweeties.com/brit/">Britney is cool now</a></p>
+---

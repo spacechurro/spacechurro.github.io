@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1110
+wordpress_url: http://noesbueno.com/archives/1110
+date: '2011-04-27 17:00:37 -0500'
+date_gmt: '2011-04-27 22:00:37 -0500'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2011/04/el-clasico-animated/">El Clasico: Animated</a></p>
+---

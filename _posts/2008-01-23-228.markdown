@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 228
+wordpress_url: http://noesbueno.com/archives/228
+date: '2008-01-23 23:31:16 -0600'
+date_gmt: '2008-01-24 04:31:16 -0600'
+body: |
+  <p><a href="http://www.fistfulayen.com/blog/?p=156">Ghostface isn't happy about you stealing his CD.</a>  I'm sorry, Ghostdini! I didn't mean to hurt you. <span class="via">(via <a href="http://www.waxy.org">waxy!</a>)</span></p>
+---

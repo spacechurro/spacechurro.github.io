@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1779
+wordpress_url: http://noesbueno.com/archives/1779
+date: '2015-05-23 22:24:56 -0500'
+date_gmt: '2015-05-24 03:24:56 -0500'
+body: |
+  <p><a href="http://kottke.org/15/05/a-very-murray-christmas">A Very Murray Christmas</a></p>
+---

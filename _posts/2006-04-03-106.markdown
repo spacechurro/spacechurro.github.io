@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 106
+wordpress_url: http://noesbueno.com/archives/106
+date: '2006-04-03 17:55:43 -0500'
+date_gmt: '2006-04-03 22:55:43 -0500'
+body: |
+  <p><a href="http://www.youtube.com/watch?v=pFlcqWQVVuU">Nintendo Sixty-FOOOOOOOOOOUR!!!!!!</a> <span class="via">(via <a href="http://www.waxy.org">waxy</a>)</span></p>
+---

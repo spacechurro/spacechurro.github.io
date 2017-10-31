@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1694
+wordpress_url: http://noesbueno.com/?p=1694
+date: '2014-03-22 10:43:38 -0500'
+date_gmt: '2014-03-22 15:43:38 -0500'
+body: |
+  <p><a href="http://louhuang.com/2048-numberwang/">2048 Numberwang</a> <span class="via">(via <a href="http://waxy.org">waxy!</a>)</span></p>
+---

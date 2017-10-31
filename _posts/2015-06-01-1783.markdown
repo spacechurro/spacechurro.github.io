@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1783
+wordpress_url: http://noesbueno.com/archives/1783
+date: '2015-06-01 22:46:23 -0500'
+date_gmt: '2015-06-02 03:46:23 -0500'
+body: |
+  <p><a href="http://culturepopped.blogspot.com/2015/05/put-ring-on-it.html">Put A Ring On It!</a></p>
+---

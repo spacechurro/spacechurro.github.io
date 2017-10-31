@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 868
+wordpress_url: http://noesbueno.com/archives/868
+date: '2010-11-21 17:01:03 -0600'
+date_gmt: '2010-11-21 22:01:03 -0600'
+body: |
+  <p><a href="http://culturepopped.blogspot.com/2010/11/why-so-curious-george.html">Why So Curious, George?</a></p>
+---

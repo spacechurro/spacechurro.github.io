@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1026
+wordpress_url: http://noesbueno.com/archives/1026
+date: '2011-02-24 18:59:51 -0600'
+date_gmt: '2011-02-24 23:59:51 -0600'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2011/02/dr-dre-ft-eminem-skylar-grey-%e2%80%93-i-need-a-doctor/">Dr. Dre Ft. Eminem &amp; Skylar Grey ??? I Need A Doctor</a></p>
+---

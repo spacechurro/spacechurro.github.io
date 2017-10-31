@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 521
+wordpress_url: http://noesbueno.com/archives/521
+date: '2010-03-22 08:58:00 -0500'
+date_gmt: '2010-03-22 13:58:00 -0500'
+body: |
+  <p><a href="http://www.picturesforsadchildren.com/index.php?comicID=325">should we eat things that can get nuanced</a></p>
+---

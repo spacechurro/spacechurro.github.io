@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 890
+wordpress_url: http://noesbueno.com/?p=890
+date: '2010-12-04 18:16:32 -0600'
+date_gmt: '2010-12-04 23:16:32 -0600'
+body: |
+  <p><a href="http://www.flickr.com/photos/39576416@N07/5229554859/">C3typo & R2typo</a> <span class="via">(via <a href="http://thedailywh.at/">the daily what</a>)<span></span></span></p>
+---

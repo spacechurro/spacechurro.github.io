@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 125
+wordpress_url: http://noesbueno.com/archives/125
+date: '2006-05-21 19:48:43 -0500'
+date_gmt: '2006-05-22 00:48:43 -0500'
+body: |
+  <p><a href="http://www.cynical-c.com/archives/005182.html">What Do You Mean They Blew Up the Death Star?</a></p>
+---

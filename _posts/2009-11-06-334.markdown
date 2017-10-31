@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 334
+wordpress_url: http://noesbueno.com/archives/334
+date: '2009-11-06 13:00:57 -0600'
+date_gmt: '2009-11-06 18:00:57 -0600'
+body: |
+  <p><a href="http://kottke.org/09/11/denver-to-singapore-in-5-minutes">Denver to Singapore in 5 minutes</a></p>
+---

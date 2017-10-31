@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1236
+wordpress_url: http://noesbueno.com/archives/1236
+date: '2011-08-29 15:01:19 -0500'
+date_gmt: '2011-08-29 20:01:19 -0500'
+body: |
+  <p><a href="http://www.lostateminor.com/2010/06/18/star-wars-characters-as-fashion-icons/">Star Wars characters as fashion icons</a></p>
+---

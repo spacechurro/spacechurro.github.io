@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1584
+wordpress_url: http://noesbueno.com/archives/1584
+date: '2013-02-28 19:02:52 -0600'
+date_gmt: '2013-03-01 00:02:52 -0600'
+body: |
+  <p><a href="http://kottke.org/13/02/the-oreo-separator-machine">The Oreo separator machine</a></p>
+---

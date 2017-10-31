@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1720
+wordpress_url: http://noesbueno.com/archives/1720
+date: '2014-06-11 16:46:42 -0500'
+date_gmt: '2014-06-11 21:46:42 -0500'
+body: |
+  <p><a href="http://kottke.org/14/06/how-to-nerd-out-about-soccer">How to nerd out about soccer</a></p>
+---

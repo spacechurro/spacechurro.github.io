@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1425
+wordpress_url: http://noesbueno.com/archives/1425
+date: '2012-03-01 16:38:49 -0600'
+date_gmt: '2012-03-01 21:38:49 -0600'
+body: |
+  <p><a href="http://www.lostateminor.com/2012/03/01/mutewatch-a-watch-thats-smarter-than-you-are/">Mutewatch: a watch that's smarter than you are</a></p>
+---

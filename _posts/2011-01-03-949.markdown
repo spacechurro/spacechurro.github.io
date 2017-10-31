@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 949
+wordpress_url: http://noesbueno.com/archives/949
+date: '2011-01-03 18:00:46 -0600'
+date_gmt: '2011-01-03 23:00:46 -0600'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2011/01/yardbombing-charging-bull/">Yardbombing Charging Bull</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 925
+wordpress_url: http://noesbueno.com/archives/925
+date: '2010-12-23 15:01:01 -0600'
+date_gmt: '2010-12-23 20:01:01 -0600'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2010/12/i-am-home-alone/">I Am Home Alone</a></p>
+---

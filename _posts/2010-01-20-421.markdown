@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 421
+wordpress_url: http://noesbueno.com/archives/421
+date: '2010-01-20 23:59:50 -0600'
+date_gmt: '2010-01-21 04:59:50 -0600'
+body: |
+  <p><a href="http://75.101.183.223/rd?type=100&user=michaeltapp&buzz=fan-made-perfect-strangers-intro-seattle-wl5&c=718EVU7&u=76CGF7&url=http%3A%2F%2Fbuzzfeed.com%2Fmichaeltapp%2Ffan-made-perfect-strangers-intro-seattle-wl5%2F&rd=http%3A%2F%2Fbuzzfeed.com%2Fmichaeltapp%2Ffan-made-perfect-strangers-intro-seattle-wl5%2F">Fan-Made Perfect Strangers Intro</a></p>
+---

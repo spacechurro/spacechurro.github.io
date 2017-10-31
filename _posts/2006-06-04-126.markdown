@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 126
+wordpress_url: http://noesbueno.com/archives/126
+date: '2006-06-04 08:45:57 -0500'
+date_gmt: '2006-06-04 13:45:57 -0500'
+body: |
+  <p><a href="http://www.yogabbagabba.com/">Yo Gabba Gabba!</a> The new TV show for your hipster kids.</p>
+---

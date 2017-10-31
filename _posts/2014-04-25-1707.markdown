@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1707
+wordpress_url: http://noesbueno.com/archives/1707
+date: '2014-04-25 09:41:57 -0500'
+date_gmt: '2014-04-25 14:41:57 -0500'
+body: |
+  <p><a href="http://kottke.org/14/04/how-to-drink-all-night-without-getting-drunk">How to drink all night without getting drunk</a></p>
+---

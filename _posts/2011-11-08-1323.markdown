@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1323
+wordpress_url: http://noesbueno.com/archives/1323
+date: '2011-11-08 12:48:06 -0600'
+date_gmt: '2011-11-08 17:48:06 -0600'
+body: |
+  <p><a href="http://www.lostateminor.com/2011/11/09/japanese-student-creates-new-font-out-of-leg-hair/">Japanese student creates new font out of leg hair</a></p>
+---

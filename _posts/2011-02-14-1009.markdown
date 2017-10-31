@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1009
+wordpress_url: http://noesbueno.com/archives/1009
+date: '2011-02-14 22:00:02 -0600'
+date_gmt: '2011-02-15 03:00:02 -0600'
+body: |
+  <p><a href="http://www.whatevs.net/post/3300206945">Well this is convenient.</a></p>
+---

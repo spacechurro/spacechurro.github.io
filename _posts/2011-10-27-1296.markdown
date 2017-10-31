@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1296
+wordpress_url: http://noesbueno.com/archives/1296
+date: '2011-10-27 15:03:31 -0500'
+date_gmt: '2011-10-27 20:03:31 -0500'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2011/10/urban-noize-brooklyn-chicago-london-mixtape/">Urban Noize: Brooklyn, Chicago, London (Mixtape)</a></p>
+---

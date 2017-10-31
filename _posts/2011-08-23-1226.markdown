@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1226
+wordpress_url: http://noesbueno.com/?p=1226
+date: '2011-08-23 16:39:18 -0500'
+date_gmt: '2011-08-23 21:39:18 -0500'
+body: |
+  <p><a href="http://www.xlr8r.com/podcast/2011/08/magda"> XLR8R Podcast 211: Magda</a></p>
+---

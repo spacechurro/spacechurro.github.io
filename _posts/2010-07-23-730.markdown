@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 730
+wordpress_url: http://noesbueno.com/archives/730
+date: '2010-07-23 15:00:19 -0500'
+date_gmt: '2010-07-23 20:00:19 -0500'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2010/07/consequences-will-never-be-the-same/">Consequences Will Never Be The Same</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1665
+wordpress_url: http://noesbueno.com/archives/1665
+date: '2013-12-18 10:15:21 -0600'
+date_gmt: '2013-12-18 15:15:21 -0600'
+body: |
+  <p><a href="http://blog.turntablelab.com/prince-klassen/2013/12/the-freshest-live-set-5-0/">The Freshest Live Set 5.0</a></p>
+---

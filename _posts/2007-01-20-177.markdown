@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 177
+wordpress_url: http://noesbueno.com/archives/177
+date: '2007-01-20 10:15:46 -0600'
+date_gmt: '2007-01-20 15:15:46 -0600'
+body: |
+  <p><a href="http://mediamatters.org/items/200701180010">Obama's "dirty little secret"....smoking.</a>Â  Another great piece from FOX news.</p>
+---

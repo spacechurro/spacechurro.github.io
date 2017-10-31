@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1417
+wordpress_url: http://noesbueno.com/archives/1417
+date: '2012-02-07 16:00:58 -0600'
+date_gmt: '2012-02-07 21:00:58 -0600'
+body: |
+  <p><a href="http://uncrate.com/stuff/hankie-notebook/">Hankie Notebook</a></p>
+---

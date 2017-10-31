@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 965
+wordpress_url: http://noesbueno.com/archives/965
+date: '2011-01-13 19:00:38 -0600'
+date_gmt: '2011-01-14 00:00:38 -0600'
+body: |
+  <p><a href="http://feedproxy.google.com/~r/PitchforkLatestNews/~3/kgeSK20gGVg/">Broadcast's Trish Keenan Hospitalized, Seriously Ill</a></p>
+---

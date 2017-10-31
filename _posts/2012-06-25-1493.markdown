@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1493
+wordpress_url: http://noesbueno.com/archives/1493
+date: '2012-06-25 16:24:18 -0500'
+date_gmt: '2012-06-25 21:24:18 -0500'
+body: |
+  <p><a href="http://willzone.tumblr.com/post/25518722754/jl1process">Wu Justice League</a></p>
+---

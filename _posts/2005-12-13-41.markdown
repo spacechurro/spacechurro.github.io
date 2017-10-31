@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 41
+wordpress_url: http://noesbueno.com/archives/41
+date: '2005-12-13 22:04:43 -0600'
+date_gmt: '2005-12-14 03:04:43 -0600'
+body: |
+  <p><a href="http://www.rubyonrails.org/">Ruby on Rails reaches 1.0</a></p>
+---

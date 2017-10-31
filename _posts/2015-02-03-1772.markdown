@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1772
+wordpress_url: http://noesbueno.com/archives/1772
+date: '2015-02-03 09:49:35 -0600'
+date_gmt: '2015-02-03 14:49:35 -0600'
+body: |
+  <p><a href="http://thechangelog.com/date-time-formatting-humans/">Date and time formatting for humans</a></p>
+---

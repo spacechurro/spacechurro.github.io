@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 941
+wordpress_url: http://noesbueno.com/?p=941
+date: '2010-12-30 16:55:47 -0600'
+date_gmt: '2010-12-30 21:55:47 -0600'
+body: |
+  <p><a href="http://www.toothpastefordinner.com/index.php?date=123010">Why you got pockets, baby?</a> <span class="via"> (via <a href="http://ratsoff.tumblr.com/">rats off!</a>)</span></p>
+---

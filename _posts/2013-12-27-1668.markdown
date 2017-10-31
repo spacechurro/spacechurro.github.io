@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1668
+wordpress_url: http://noesbueno.com/archives/1668
+date: '2013-12-27 17:41:28 -0600'
+date_gmt: '2013-12-27 22:41:28 -0600'
+body: |
+  <p><a href="http://youtube.com/watch?v=72RqpItxd8M">KUNG FURY Official Trailer [HD]</a></p>
+---

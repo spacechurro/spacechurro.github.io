@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 335
+wordpress_url: http://noesbueno.com/archives/335
+date: '2009-11-06 20:00:55 -0600'
+date_gmt: '2009-11-07 01:00:55 -0600'
+body: |
+  <p><a href="http://75.101.183.223/rd?type=100&user=awesomer&buzz=dystonia-girl-has-been-magically-cured-cci&c=7ZC2S7&u=72ESJ7&url=http%3A%2F%2Fbuzzfeed.com%2Fawesomer%2Fdystonia-girl-has-been-magically-cured-cci%2F&rd=http%3A%2F%2Fbuzzfeed.com%2Fawesomer%2Fdystonia-girl-has-been-magically-cured-cci%2F">Dystonia Girl Has Been Magically Cured</a></p>
+---

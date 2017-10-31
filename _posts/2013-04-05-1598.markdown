@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1598
+wordpress_url: http://noesbueno.com/archives/1598
+date: '2013-04-05 12:57:50 -0500'
+date_gmt: '2013-04-05 17:57:50 -0500'
+body: |
+  <p><a href="http://kottke.org/13/04/paying-to-be-kidnapped">Paying to be kidnapped</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 91
+wordpress_url: http://noesbueno.com/archives/91
+date: '2006-03-24 17:19:06 -0600'
+date_gmt: '2006-03-24 22:19:06 -0600'
+body: |
+  <p><a href="http://www.prnewswire.com/cgi-bin/stories.pl?ACCT=104&STORY=/www/story/03-23-2006/0004326058&EDATE=">Nintendo to offer classic Genesis & Turbo Grafx 16 games for download on Revolution</a></p>
+---

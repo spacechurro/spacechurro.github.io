@@ -1,0 +1,10 @@
+---
+layout: post
+wordpress_id: 1252
+wordpress_url: http://noesbueno.com/archives/1252
+date: '2011-09-19 11:02:34 -0500'
+date_gmt: '2011-09-19 16:02:34 -0500'
+body: |
+  <p><a href="http://ratsoff.com/post/10291923812">I lol???d.<br />
+  (lukesimcoe? via robotindisguise.)</a></p>
+---

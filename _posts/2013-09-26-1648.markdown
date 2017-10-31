@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1648
+wordpress_url: http://noesbueno.com/archives/1648
+date: '2013-09-26 15:23:36 -0500'
+date_gmt: '2013-09-26 20:23:36 -0500'
+body: |
+  <p><a href="http://www.lostateminor.com/2013/09/26/hello-kitty-launches-banana-beer-for-women/">Hello Kitty launches Banana Beer for women</a></p>
+---

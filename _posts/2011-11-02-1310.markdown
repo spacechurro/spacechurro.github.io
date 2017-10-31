@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1310
+wordpress_url: http://noesbueno.com/?p=1310
+date: '2011-11-02 11:30:13 -0500'
+date_gmt: '2011-11-02 16:30:13 -0500'
+body: |
+  <p><a href="http://nerdcityonline.com/2011/11/02/and-it-begins-again-gta-v-trailer-released/">Grand Theft Auto V Trailer</a>  - The graphics look ridiculous.</p>
+---

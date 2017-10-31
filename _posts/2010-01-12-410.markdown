@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 410
+wordpress_url: http://noesbueno.com/archives/410
+date: '2010-01-12 22:00:04 -0600'
+date_gmt: '2010-01-13 03:00:04 -0600'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2010/01/conan-says-no-to-nbc-shafting/">Conan Says "No" To NBC Shafting</a></p>
+---

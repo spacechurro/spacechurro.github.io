@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1732
+wordpress_url: http://noesbueno.com/archives/1732
+date: '2014-07-17 19:09:37 -0500'
+date_gmt: '2014-07-18 00:09:37 -0500'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2014/07/barcelona-go/">Barcelona GO!</a></p>
+---

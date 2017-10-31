@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 597
+wordpress_url: http://noesbueno.com/archives/597
+date: '2010-05-04 11:00:41 -0500'
+date_gmt: '2010-05-04 16:00:41 -0500'
+body: |
+  <p><a href="http://io9.com/5529877/childs-final-superheroic-wish-is-the-greatest-thing-youll-read-today">Child's Final Superheroic Wish Is The Greatest Thing You'll Read Today [Superheroes]</a></p>
+---

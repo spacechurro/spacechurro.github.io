@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 75
+wordpress_url: http://noesbueno.com/archives/75
+date: '2006-02-23 17:29:51 -0600'
+date_gmt: '2006-02-23 22:29:51 -0600'
+body: |
+  <p><a href="http://diac.cpsr.org/cgi-bin/diac02/pattern.cgi/public?pattern_id=494">cornrows as an example of fractal geometry</a> <span class="via">(via <a href="http://www.collisiondetection.net/">collision detection</a>)</span></p>
+---

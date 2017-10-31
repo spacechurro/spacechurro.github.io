@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1753
+wordpress_url: http://noesbueno.com/archives/1753
+date: '2014-10-25 09:29:13 -0500'
+date_gmt: '2014-10-25 14:29:13 -0500'
+body: |
+  <p><a href="http://www.redbullmusicacademy.com/magazine/mf-doom-comic">The Rise of MF DOOM: An Animated Comic</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 153
+wordpress_url: http://noesbueno.com/archives/153
+date: '2006-10-24 19:47:49 -0500'
+date_gmt: '2006-10-25 00:47:49 -0500'
+body: |
+  <p><a href="http://www.coverpop.com/whitney/"> whitney music box</a> -Â  I bet this could keep pot heads entertainedÂ  for hours. (via <a href="http://bootlog.cl">bootlog</a>)</p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 651
+wordpress_url: http://noesbueno.com/archives/651
+date: '2010-05-28 13:00:50 -0500'
+date_gmt: '2010-05-28 18:00:50 -0500'
+body: |
+  <p><a href="http://www.epicponyz.com/2010/05/nes-stop-motion.html">NES Stop Motion</a></p>
+---

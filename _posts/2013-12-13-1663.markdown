@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1663
+wordpress_url: http://noesbueno.com/archives/1663
+date: '2013-12-13 12:14:06 -0600'
+date_gmt: '2013-12-13 17:14:06 -0600'
+body: |
+  <p><a href="http://kottke.org/13/12/splatter-paintings-of-superheroes">Splatter paintings of superheroes</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1361
+wordpress_url: http://noesbueno.com/archives/1361
+date: '2011-12-05 18:45:16 -0600'
+date_gmt: '2011-12-05 23:45:16 -0600'
+body: |
+  <p><a href="http://ffffound.com/image/17791513100ebf33e6088212e6058ab0fc659139">Radio, Live Transmission.</a></p>
+---

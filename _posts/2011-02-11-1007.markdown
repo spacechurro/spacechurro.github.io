@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1007
+wordpress_url: http://noesbueno.com/archives/1007
+date: '2011-02-11 19:00:04 -0600'
+date_gmt: '2011-02-12 00:00:04 -0600'
+body: |
+  <p><a href="http://www.misscellania.com/miss-cellania/2011/2/7/hardcore.html">Hardcore</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1123
+wordpress_url: http://noesbueno.com/archives/1123
+date: '2011-05-06 14:00:25 -0500'
+date_gmt: '2011-05-06 19:00:25 -0500'
+body: |
+  <p><a href="http://kottke.org/11/05/omar-little-as-the-modern-achilles">Omar Little, postmodern Achilles</a></p>
+---

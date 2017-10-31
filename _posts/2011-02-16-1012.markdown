@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1012
+wordpress_url: http://noesbueno.com/archives/1012
+date: '2011-02-16 12:00:03 -0600'
+date_gmt: '2011-02-16 17:00:03 -0600'
+body: |
+  <p><a href="http://kottke.org/11/02/beatles-mockumentary-from-the-year-3126">Beatles mockumentary from the year 3126</a></p>
+---

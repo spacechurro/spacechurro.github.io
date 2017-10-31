@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 189
+wordpress_url: http://noesbueno.com/archives/189
+date: '2007-03-24 12:39:01 -0500'
+date_gmt: '2007-03-24 17:39:01 -0500'
+body: |
+  <p><a href="http://www.uncrate.com/men/gear/gaming/nyko-wii-charging-station-009789.php">Nyko Wii Charging Station</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 671
+wordpress_url: http://noesbueno.com/archives/671
+date: '2010-06-15 19:00:36 -0500'
+date_gmt: '2010-06-16 00:00:36 -0500'
+body: |
+  <p><a href="http://kottke.org/10/06/somewhere">Somewhere</a></p>
+---

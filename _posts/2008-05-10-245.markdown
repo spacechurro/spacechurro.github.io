@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 245
+wordpress_url: http://noesbueno.com/archives/245
+date: '2008-05-10 17:56:47 -0500'
+date_gmt: '2008-05-10 22:56:47 -0500'
+body: |
+  <p><a href="http://www.youtube.com/watch?v=5oEYMGL0ZtA">Sad Kermit - Needle in the Hay</a> <span class="via">(via <a href="http://www.kottke.org">kottke</a>)</span></p>
+---

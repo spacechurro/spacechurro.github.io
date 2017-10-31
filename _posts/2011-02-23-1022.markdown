@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1022
+wordpress_url: http://noesbueno.com/archives/1022
+date: '2011-02-23 09:59:51 -0600'
+date_gmt: '2011-02-23 14:59:51 -0600'
+body: |
+  <p><a href="http://culturepopped.blogspot.com/2011/02/keeping-up-with-cardassians.html">Keeping Up With The Cardassians</a></p>
+---

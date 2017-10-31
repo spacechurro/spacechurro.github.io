@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 234
+wordpress_url: http://noesbueno.com/archives/234
+date: '2008-02-20 18:28:45 -0600'
+date_gmt: '2008-02-20 23:28:45 -0600'
+body: |
+  <p><a href="http://scootyjojo.com/TRAN.php">tran: the atari musical</a><span class="via"> (via <a href="http://www.deadtech.net/">deadtech</a>)</span></p>
+---

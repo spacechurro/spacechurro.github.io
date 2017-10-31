@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1042
+wordpress_url: http://noesbueno.com/archives/1042
+date: '2011-03-04 17:59:42 -0600'
+date_gmt: '2011-03-04 22:59:42 -0600'
+body: |
+  <p><a href="http://www.engadget.com/2011/03/04/easysign-iphone-app-halts-the-print-sign-email-cycle-trees/">EasySign iPhone app halts the print / sign / email cycle, trees everywhere celebrate</a></p>
+---

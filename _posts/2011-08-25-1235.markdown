@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1235
+wordpress_url: http://noesbueno.com/archives/1235
+date: '2011-08-25 15:01:21 -0500'
+date_gmt: '2011-08-25 20:01:21 -0500'
+body: |
+  <p><a href="http://www.andamosarmados.com/?p=96706">Un Mixtape de Kid Koala.</a></p>
+---

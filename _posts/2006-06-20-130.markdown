@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 130
+wordpress_url: http://noesbueno.com/archives/130
+date: '2006-06-20 17:45:41 -0500'
+date_gmt: '2006-06-20 22:45:41 -0500'
+body: |
+  <p><a href="http://pdl.warnerbros.com/wbmovies/supermanreturns/jor_el/jor_el_large.mov ">Reanimating Marlon Brando as Jor-El for the newest Superman flick.</a> <span class="via">(via <a href="http://www.waxy.org">waxy</a>)</span></p>
+---

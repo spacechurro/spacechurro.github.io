@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 562
+wordpress_url: http://noesbueno.com/archives/562
+date: '2010-04-11 17:57:31 -0500'
+date_gmt: '2010-04-11 22:57:31 -0500'
+body: |
+  <p><a href="http://consumerist.com/2010/04/the-saddest-book-ever-written-microwave-cooking-for-one.html">The Saddest Book Ever Written: Microwave Cooking For One</a></p>
+---

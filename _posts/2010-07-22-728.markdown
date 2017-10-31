@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 728
+wordpress_url: http://noesbueno.com/archives/728
+date: '2010-07-22 16:00:19 -0500'
+date_gmt: '2010-07-22 21:00:19 -0500'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2010/07/new-tron-legacy-trailer/">New Tron Legacy Trailer</a></p>
+---

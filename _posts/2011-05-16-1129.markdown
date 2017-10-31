@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1129
+wordpress_url: http://noesbueno.com/archives/1129
+date: '2011-05-16 13:00:18 -0500'
+date_gmt: '2011-05-16 18:00:18 -0500'
+body: |
+  <p><a href="http://feeds.guardian.co.uk/~r/theguardian/football/rss/~3/lkEDSrCoh7U/diego-maradona-al-wasl-manager">Diego Maradona to return to management with Al Wasl</a></p>
+---

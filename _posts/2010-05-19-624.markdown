@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 624
+wordpress_url: http://noesbueno.com/?p=624
+date: '2010-05-19 15:59:15 -0500'
+date_gmt: '2010-05-19 20:59:15 -0500'
+body: |
+  <p><a href="http://mizage.com/divvy/">Divvy</a> - Dope workspace manager for mac.</p>
+---

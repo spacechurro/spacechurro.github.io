@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 224
+wordpress_url: http://noesbueno.com/archives/224
+date: '2008-01-16 22:27:37 -0600'
+date_gmt: '2008-01-17 03:27:37 -0600'
+body: |
+  <p><a href="http://www.1988stantheman.blogspot.com/">Stan Lee tribute artwork</a><span class="via"> (via <a href="http://drawn.ca/">drawn!</a>)</span></p>
+---

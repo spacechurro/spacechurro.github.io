@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 191
+wordpress_url: http://noesbueno.com/archives/191
+date: '2007-04-05 09:34:48 -0500'
+date_gmt: '2007-04-05 14:34:48 -0500'
+body: |
+  <p><a href="http://www.woostercollective.com/2007/04/casa_del_luchador.html">Casa del Luchador</a></p>
+---

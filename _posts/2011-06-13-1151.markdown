@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1151
+wordpress_url: http://noesbueno.com/archives/1151
+date: '2011-06-13 10:01:06 -0500'
+date_gmt: '2011-06-13 15:01:06 -0500'
+body: |
+  <p><a href="http://culturepopped.blogspot.com/2011/06/muppet-babies-meets-wire.html">Muppet Babies Meets The Wire</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 974
+wordpress_url: http://noesbueno.com/?p=974
+date: '2011-01-20 11:50:31 -0600'
+date_gmt: '2011-01-20 16:50:31 -0600'
+body: |
+  <p><a href="http://www.flickr.com/photos/35699504@N00/sets/72157625718212273/with/5371953732/">Video Games vs. Real Life</a> <span class="via">(via <a href="http://culturepopped.blogspot.com/">Popped Culture</a>)</span></p>
+---

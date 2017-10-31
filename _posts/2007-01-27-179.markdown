@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 179
+wordpress_url: http://noesbueno.com/archives/179
+date: '2007-01-27 12:29:13 -0600'
+date_gmt: '2007-01-27 17:29:13 -0600'
+body: |
+  <p><a href="http://tvinjapan.com/blog/2007/01/27/teriyaki-boyz-video-parodies-youtube-not-officially-availible-on-youtube/">Teriyaki Boyz f. Kanye West - I still love H.E.R.</a> <span class="via">(via <a href="http://www.waxy.org">waxy</a>)</span></p>
+---

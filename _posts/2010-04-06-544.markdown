@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 544
+wordpress_url: http://noesbueno.com/archives/544
+date: '2010-04-06 15:57:34 -0500'
+date_gmt: '2010-04-06 20:57:34 -0500'
+body: |
+  <p><a href="http://lifehacker.com/5510006/look-at-sick-people-to-give-your-immune-system-a-boost">Look at Sick People to Give Your Immune System a Boost [Body Hacks]</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1622
+wordpress_url: http://noesbueno.com/archives/1622
+date: '2013-06-27 20:52:45 -0500'
+date_gmt: '2013-06-28 01:52:45 -0500'
+body: |
+  <p><a href="http://youtube.com/watch?v=t0HlpN-HhNU">Star Trek without the camera shake</a></p>
+---

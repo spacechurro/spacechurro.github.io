@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1139
+wordpress_url: http://noesbueno.com/archives/1139
+date: '2011-05-31 18:01:07 -0500'
+date_gmt: '2011-05-31 23:01:07 -0500'
+body: |
+  <p><a href="http://feeds.ign.com/~r/ignfeeds/comics/~3/fjNo7Z5vrYE/1171634p1.html">More "I Am Captain America" Variants</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1674
+wordpress_url: http://noesbueno.com/archives/1674
+date: '2014-01-14 11:26:08 -0600'
+date_gmt: '2014-01-14 16:26:08 -0600'
+body: |
+  <p><a href="http://blog.turntablelab.com/prince-klassen/2014/01/how-to-scratch-without-a-turntable/">How To Scratch Without A Turntable</a></p>
+---

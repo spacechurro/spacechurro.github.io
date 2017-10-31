@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1014
+wordpress_url: http://noesbueno.com/archives/1014
+date: '2011-02-17 13:00:04 -0600'
+date_gmt: '2011-02-17 18:00:04 -0600'
+body: |
+  <p><a href="http://feedproxy.google.com/~r/nymag/vulture/~3/cuoA3LemxQ4/america_your_new_wonder_woman.html">America, Your New Wonder Woman Is...</a></p>
+---

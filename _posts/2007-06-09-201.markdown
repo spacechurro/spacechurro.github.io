@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 201
+wordpress_url: http://noesbueno.com/archives/201
+date: '2007-06-09 12:32:09 -0500'
+date_gmt: '2007-06-09 17:32:09 -0500'
+body: |
+  <p><a href="http://www.uncrate.com/men/gear/toys/optimash-prime-mr-potato-head-transformer/">Optimash Prime</a></p>
+---

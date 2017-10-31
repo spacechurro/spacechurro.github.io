@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 568
+wordpress_url: http://noesbueno.com/archives/568
+date: '2010-04-16 12:57:19 -0500'
+date_gmt: '2010-04-16 17:57:19 -0500'
+body: |
+  <p><a href="http://godzillahaiku.tumblr.com/post/516600891">40</a></p>
+---

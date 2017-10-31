@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 399
+wordpress_url: http://noesbueno.com/archives/399
+date: '2010-01-10 19:00:07 -0600'
+date_gmt: '2010-01-11 00:00:07 -0600'
+body: |
+  <p><a href="http://maddecent.com/blog/2010/01/09/lighta-vol-1-camo-ufos-mixtape/">LIGHTA VOL.1 - CAMO UFOS MIXTAPE</a></p>
+---

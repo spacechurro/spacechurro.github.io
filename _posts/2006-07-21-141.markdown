@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 141
+wordpress_url: http://noesbueno.com/archives/141
+date: '2006-07-21 17:32:58 -0500'
+date_gmt: '2006-07-21 22:32:58 -0500'
+body: |
+  <p><a href="http://www.flickr.com/photos/smull/146708669/">Bacon Martini.</a> <span class="via">(via <a href="http://www.cynical-c.com/">Cynical-C</a>)</span></p>
+---

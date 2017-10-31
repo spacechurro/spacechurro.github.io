@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1675
+wordpress_url: http://noesbueno.com/archives/1675
+date: '2014-01-14 12:20:51 -0600'
+date_gmt: '2014-01-14 17:20:51 -0600'
+body: |
+  <p><a href="http://www.tinymixtapes.com/news/new-streaming-service-beats-music-to-launch-january-21">New streaming service Beats Music to launch next week, forever causing a fundamental change in the way music industry paradigm shifts are altered</a></p>
+---

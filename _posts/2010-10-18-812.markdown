@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 812
+wordpress_url: http://noesbueno.com/archives/812
+date: '2010-10-18 09:59:43 -0500'
+date_gmt: '2010-10-18 14:59:43 -0500'
+body: |
+  <p><a href="http://www.epicponyz.com/2010/10/tilt-screen-back.html">Tilt the screen back</a></p>
+---

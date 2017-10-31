@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 54
+wordpress_url: http://noesbueno.com/archives/54
+date: '2006-01-10 17:35:08 -0600'
+date_gmt: '2006-01-10 22:35:08 -0600'
+body: |
+  <p><a href="http://www.transbuddha.com/index.php/buddha/live_action_punch_out/">live action Punch-Out!</a></p>
+---

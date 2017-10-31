@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 110
+wordpress_url: http://noesbueno.com/archives/110
+date: '2006-04-06 17:39:58 -0500'
+date_gmt: '2006-04-06 22:39:58 -0500'
+body: |
+  <p><a href="http://news.yahoo.com/s/nm/20060405/sc_nm/mexico_pyramid_dc">Huge 1,500-year-old pyramid discovered under Mexico City</a></p>
+---

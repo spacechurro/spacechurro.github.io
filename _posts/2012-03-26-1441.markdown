@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1441
+wordpress_url: http://noesbueno.com/archives/1441
+date: '2012-03-26 14:45:32 -0500'
+date_gmt: '2012-03-26 19:45:32 -0500'
+body: |
+  <p><a href="http://www.epicponyz.com/2012/03/great-life-hack.html">Great Life Hack</a></p>
+---

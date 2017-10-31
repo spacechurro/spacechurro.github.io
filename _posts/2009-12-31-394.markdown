@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 394
+wordpress_url: http://noesbueno.com/archives/394
+date: '2009-12-31 14:00:25 -0600'
+date_gmt: '2009-12-31 19:00:25 -0600'
+body: |
+  <p><a href="http://kottke.org/09/12/how-a-soccer-ball-is-made">How a soccer ball is made</a></p>
+---

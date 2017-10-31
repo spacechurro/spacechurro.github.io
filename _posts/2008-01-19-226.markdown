@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 226
+wordpress_url: http://noesbueno.com/archives/226
+date: '2008-01-19 13:32:41 -0600'
+date_gmt: '2008-01-19 18:32:41 -0600'
+body: |
+  <p><a href="http://www.theonion.com/content/video/child_bankrupts_make_a_wish_0">Child Bankrupts Make-A-Wish Foundation With Wish For Unlimited Wishes</a></p>
+---

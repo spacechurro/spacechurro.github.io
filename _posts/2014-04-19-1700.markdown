@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1700
+wordpress_url: http://noesbueno.com/?p=1700
+date: '2014-04-19 14:21:12 -0500'
+date_gmt: '2014-04-19 19:21:12 -0500'
+body: |
+  <p><a href="http://aliendovecote.com/uploads/twine/sauna.html#8">HIGH END CUSTOMIZABLE SAUNA EXPERIENCE</a> <span class="via">(via <a href="http://waxy.org/">waxy!</a>)</span></p>
+---

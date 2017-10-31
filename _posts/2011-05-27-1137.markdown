@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1137
+wordpress_url: http://noesbueno.com/archives/1137
+date: '2011-05-27 16:01:05 -0500'
+date_gmt: '2011-05-27 21:01:05 -0500'
+body: |
+  <p><a href="http://www.collisiondetection.net/mt/archives/2011/05/lets_get_this_p.php">&quot;Let's get this party started!&quot; My evening talking to &quot;babygurl01475&quot; ...</a></p>
+---

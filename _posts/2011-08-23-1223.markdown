@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1223
+wordpress_url: http://noesbueno.com/archives/1223
+date: '2011-08-23 14:01:21 -0500'
+date_gmt: '2011-08-23 19:01:21 -0500'
+body: |
+  <p><a href="http://supersonicelectronic.com/post/9089292849">New work by Mike Mitchell.</a></p>
+---

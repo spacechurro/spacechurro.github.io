@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 181
+wordpress_url: http://noesbueno.com/archives/181
+date: '2007-02-03 20:49:20 -0600'
+date_gmt: '2007-02-04 01:49:20 -0600'
+body: |
+  <p><a href="http://www.youtube.com/watch?v=Jx90XuBZdD8">Conan O'Brien beats Serena Williams at Wii Tennis</a> <span class="via">(via <a href="http://www.kottke.org">kottke</a>)</span></p>
+---

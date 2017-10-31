@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1166
+wordpress_url: http://noesbueno.com/archives/1166
+date: '2011-06-28 20:00:56 -0500'
+date_gmt: '2011-06-29 01:00:56 -0500'
+body: |
+  <p><a href="http://feedproxy.google.com/~r/PitchforkLatestNews/~3/iTf2npkjpQ8/">M83 Tease New Album</a></p>
+---

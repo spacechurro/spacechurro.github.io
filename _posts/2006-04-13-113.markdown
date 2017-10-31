@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 113
+wordpress_url: http://noesbueno.com/archives/113
+date: '2006-04-13 17:21:50 -0500'
+date_gmt: '2006-04-13 22:21:50 -0500'
+body: |
+  <p><a href="http://calendar.google.com/">Google Calendar is live</a> <span class="via">(via <a href="http://waxy.org">waxy</a>)</span></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1552
+wordpress_url: http://noesbueno.com/archives/1552
+date: '2012-11-21 20:36:03 -0600'
+date_gmt: '2012-11-22 01:36:03 -0600'
+body: |
+  <p><a href="http://floate.com.au/2012/10/inspiration/">Inspiration is for dabblers.</a></p>
+---

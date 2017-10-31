@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 205
+wordpress_url: http://noesbueno.com/archives/205
+date: '2007-08-10 22:15:54 -0500'
+date_gmt: '2007-08-11 03:15:54 -0500'
+body: |
+  <p><a href="http://www.youtube.com/watch?v=ExRplxd6zXc">Be Kind, Rewind</a> - The new Michel Gondry flick.</p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 731
+wordpress_url: http://noesbueno.com/archives/731
+date: '2010-07-25 22:00:19 -0500'
+date_gmt: '2010-07-26 03:00:19 -0500'
+body: |
+  <p><a href="http://www.whatevs.net/post/854463706">Yep, Keyboard Cat featuring Ron Livingston. Totally normal.</a></p>
+---

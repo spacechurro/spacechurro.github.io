@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1434
+wordpress_url: http://noesbueno.com/archives/1434
+date: '2012-03-14 12:54:49 -0500'
+date_gmt: '2012-03-14 17:54:49 -0500'
+body: |
+  <p><a href="http://nerdcityonline.com/2012/03/13/mil-mascaras-is-your-lastest-wwe-2012-hall-of-fame-inductee/">Mil Mascaras is Your Lastest WWE 2012 Hall of Fame Inductee</a></p>
+---

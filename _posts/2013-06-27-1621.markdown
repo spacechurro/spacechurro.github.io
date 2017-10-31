@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1621
+wordpress_url: http://noesbueno.com/archives/1621
+date: '2013-06-27 10:09:30 -0500'
+date_gmt: '2013-06-27 15:09:30 -0500'
+body: |
+  <p><a href="http://kottke.org/13/06/you-listen-to-this-man-every-day">You listen to this man every day</a></p>
+---

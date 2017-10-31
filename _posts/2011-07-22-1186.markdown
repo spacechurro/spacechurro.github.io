@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1186
+wordpress_url: http://noesbueno.com/archives/1186
+date: '2011-07-22 13:00:52 -0500'
+date_gmt: '2011-07-22 18:00:52 -0500'
+body: |
+  <p><a href="http://kottke.org/11/07/free-beats">Free beats</a></p>
+---

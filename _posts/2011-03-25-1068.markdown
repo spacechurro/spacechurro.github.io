@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1068
+wordpress_url: http://noesbueno.com/archives/1068
+date: '2011-03-25 16:59:21 -0500'
+date_gmt: '2011-03-25 21:59:21 -0500'
+body: |
+  <p><a href="http://feedproxy.google.com/~r/RubyInside/~3/d-zEDKuig4s/why-the-lucky-stiffs-delightful-foreword-for-beginning-ruby-4550.html">Why The Lucky Stiff???s Delightful Foreword for Beginning Ruby</a></p>
+---

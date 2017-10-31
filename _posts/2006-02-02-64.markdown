@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 64
+wordpress_url: http://noesbueno.com/archives/64
+date: '2006-02-02 17:39:48 -0600'
+date_gmt: '2006-02-02 22:39:48 -0600'
+body: |
+  <p><a href="http://www.caligraft.com">caligraft.com</a> - Ricard Marxer PiÃƒÂ±ÃƒÂ³n uses OpenGL and Java to make some pretty cool letter forms. <span class="via">(via <a href="http://typographi.com/">Typographica</a>)</span></p>
+---

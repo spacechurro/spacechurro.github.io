@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1177
+wordpress_url: http://noesbueno.com/archives/1177
+date: '2011-07-11 16:46:16 -0500'
+date_gmt: '2011-07-11 21:46:16 -0500'
+body: |
+  <p><a href="http://distinguishedbaloney.tumblr.com/post/7387153913/robotindisguise-scumbag-r2d2">Scumbag R2D2</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1525
+wordpress_url: http://noesbueno.com/archives/1525
+date: '2012-09-05 16:12:57 -0500'
+date_gmt: '2012-09-05 21:12:57 -0500'
+body: |
+  <p><a href="http://www.murderbot.net/chrissy-murderbot-boiler-room-la-set/">Chrissy Murderbot Boiler Room LA Set</a></p>
+---

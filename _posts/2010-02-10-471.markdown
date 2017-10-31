@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 471
+wordpress_url: http://noesbueno.com/?p=471
+date: '2010-02-10 00:14:00 -0600'
+date_gmt: '2010-02-10 05:14:00 -0600'
+body: |
+  <p><a href="http://www.lifelounge.com/blog/A-to-B.aspx">dope 60s and 70s concept cars</a> <span class="via">(via <a href="http://flufftronix.com/">flufftronix</a>)</span></p>
+---

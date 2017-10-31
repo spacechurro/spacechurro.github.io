@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 63
+wordpress_url: http://noesbueno.com/archives/63
+date: '2006-02-01 17:06:00 -0600'
+date_gmt: '2006-02-01 22:06:00 -0600'
+body: |
+  <p><a href="http://www.youtube.com/w/Janet-Reno-Singing-%27Respect%27?v=zQqwTlppIN4&search=janet%20reno">Janet Reno sings Respect</a></p>
+---

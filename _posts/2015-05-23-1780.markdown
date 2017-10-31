@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1780
+wordpress_url: http://noesbueno.com/archives/1780
+date: '2015-05-23 22:28:26 -0500'
+date_gmt: '2015-05-24 03:28:26 -0500'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2015/05/taylor-swift-shake-it-off-rotoscoped/">Taylor Swift - Shake it Off (Rotoscoped)</a></p>
+---

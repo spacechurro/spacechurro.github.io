@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 39
+wordpress_url: http://noesbueno.com/archives/39
+date: '2005-12-12 17:07:08 -0600'
+date_gmt: '2005-12-12 22:07:08 -0600'
+body: |
+  <p><a href="http://blog.del.icio.us/blog/2005/12/yahoo.html">yahoo! snags del.ico.us</a> - I think they're gonna buy <a href="http://last.fm">last.fm</a> next.  You heard it hear first.</p>
+---

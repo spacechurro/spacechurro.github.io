@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1191
+wordpress_url: http://noesbueno.com/archives/1191
+date: '2011-07-24 21:00:51 -0500'
+date_gmt: '2011-07-25 02:00:51 -0500'
+body: |
+  <p><a href="http://nerdcityonline.com/2011/07/20/trailer-for-the-amazing-spider-man/">Trailer For The Amazing Spider-Man</a></p>
+---

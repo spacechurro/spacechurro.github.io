@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 668
+wordpress_url: http://noesbueno.com/archives/668
+date: '2010-06-14 11:00:39 -0500'
+date_gmt: '2010-06-14 16:00:39 -0500'
+body: |
+  <p><a href="http://www.whatevs.net/post/688437572">Oooooooooooh.</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 56
+wordpress_url: http://noesbueno.com/archives/56
+date: '2006-01-16 10:01:46 -0600'
+date_gmt: '2006-01-16 15:01:46 -0600'
+body: |
+  <p>What kind of taxes should you pay on income earned from selling virtual goods for games like Everquest? Julian Dibbel <a href="http://www.legalaffairs.org/issues/January-February-2006/feature_dibbell_janfeb06.msp">tries to figure it out</a>. <span class="via">(via <a href="http://www.collisiondetection.net/">collision detection</a>)</span></p>
+---

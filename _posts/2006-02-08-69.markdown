@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 69
+wordpress_url: http://noesbueno.com/archives/69
+date: '2006-02-08 09:55:57 -0600'
+date_gmt: '2006-02-08 14:55:57 -0600'
+body: |
+  <p><a href="http://www.aintitcool.com/Nacho_large_vid.html">Nacho Libre</a>  - The trailer is up for the new flick from Jared Hess, who also wrote and directed Napoleon Dynamite.  It looks flipping amazing.</p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1261
+wordpress_url: http://noesbueno.com/archives/1261
+date: '2011-10-05 14:02:58 -0500'
+date_gmt: '2011-10-05 19:02:58 -0500'
+body: |
+  <p><a href="http://distinguishedbaloney.tumblr.com/post/11063251134">cycarlops</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1338
+wordpress_url: http://noesbueno.com/archives/1338
+date: '2011-11-22 11:01:58 -0600'
+date_gmt: '2011-11-22 16:01:58 -0600'
+body: |
+  <p><a href="http://www.epicponyz.com/2011/11/misidentifying-cosplay.html">Misidentifying Cosplay</a></p>
+---

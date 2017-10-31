@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1256
+wordpress_url: http://noesbueno.com/archives/1256
+date: '2011-09-27 13:02:46 -0500'
+date_gmt: '2011-09-27 18:02:46 -0500'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2011/09/bad-lip-reading-rick-perry/">Bad Lip Reading: Rick Perry</a></p>
+---

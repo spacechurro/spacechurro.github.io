@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 688
+wordpress_url: http://noesbueno.com/?p=688
+date: '2010-06-24 12:05:04 -0500'
+date_gmt: '2010-06-24 17:05:04 -0500'
+body: |
+  <p><a href="http://blog.turntablelab.com/2010/06/carte_blanche_tour.html">Carte Blanche Tour</a> - I like this mix.  Ayres and Blu Jemz will be at <a href="http://www.evil-olive.com/">Evil Olive</a> tomorrow night (6/25).  Should be good.</p>
+---

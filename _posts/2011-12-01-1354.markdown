@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1354
+wordpress_url: http://noesbueno.com/?p=1354
+date: '2011-12-01 13:04:19 -0600'
+date_gmt: '2011-12-01 18:04:19 -0600'
+body: |
+  <p><a href="http://textsfrombennett.tumblr.com/">Texts from Bennett</a> <span class="via">(via <a href="http://distinguishedbaloney.tumblr.com">Distinguished Baloney</a>)</span></p>
+---

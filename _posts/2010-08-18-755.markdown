@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 755
+wordpress_url: http://noesbueno.com/archives/755
+date: '2010-08-18 01:00:11 -0500'
+date_gmt: '2010-08-18 06:00:11 -0500'
+body: |
+  <p><a href="http://soupsoup.tumblr.com/post/949228656">Scallop BLT</a></p>
+---

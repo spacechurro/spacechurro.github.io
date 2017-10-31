@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1685
+wordpress_url: http://noesbueno.com/archives/1685
+date: '2014-02-12 20:56:32 -0600'
+date_gmt: '2014-02-13 01:56:32 -0600'
+body: |
+  <p><a href="http://blog.turntablelab.com/ph/2014/02/straight-arms-full-hearts/">straight arms. full hearts.</a></p>
+---

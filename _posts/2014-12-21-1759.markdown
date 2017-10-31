@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1759
+wordpress_url: http://noesbueno.com/archives/1759
+date: '2014-12-21 19:30:46 -0600'
+date_gmt: '2014-12-22 00:30:46 -0600'
+body: |
+  <p><a href="http://www.whatevs.net/post/105651987346">Greg Rutter's Definitive List of The Things You Should Have Already Experienced On The Internet In 2014 Unless You're a Loser or Old or Something</a></p>
+---

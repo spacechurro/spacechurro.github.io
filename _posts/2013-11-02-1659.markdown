@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1659
+wordpress_url: http://noesbueno.com/archives/1659
+date: '2013-11-02 09:33:15 -0500'
+date_gmt: '2013-11-02 14:33:15 -0500'
+body: |
+  <p><a href="http://kottke.org/13/11/amazing-new-robot-dances-to-dubstep">Amazing new robot dances to dubstep</a></p>
+---

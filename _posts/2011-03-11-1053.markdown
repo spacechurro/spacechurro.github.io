@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1053
+wordpress_url: http://noesbueno.com/archives/1053
+date: '2011-03-11 10:59:35 -0600'
+date_gmt: '2011-03-11 15:59:35 -0600'
+body: |
+  <p><a href="http://laughingmeme.org/2011/03/10/long-form-tweet-anti-social-sxsw/">Kellan predicts the year of the anti-social SXSW</a></p>
+---

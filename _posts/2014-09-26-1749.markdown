@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1749
+wordpress_url: http://noesbueno.com/archives/1749
+date: '2014-09-26 22:46:42 -0500'
+date_gmt: '2014-09-27 03:46:42 -0500'
+body: |
+  <p><a href="http://kottke.org/14/09/entangled">Entangled</a></p>
+---

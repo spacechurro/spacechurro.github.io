@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1591
+wordpress_url: http://noesbueno.com/archives/1591
+date: '2013-03-14 16:00:19 -0500'
+date_gmt: '2013-03-14 21:00:19 -0500'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2013/03/st-peters-square-2005-2013/">St. Peter's Square: 2005 & 2013</a></p>
+---

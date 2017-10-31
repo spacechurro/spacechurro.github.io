@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1722
+wordpress_url: http://noesbueno.com/archives/1722
+date: '2014-06-20 23:22:00 -0500'
+date_gmt: '2014-06-21 04:22:00 -0500'
+body: |
+  <p><a href="http://blog.turntablelab.com/prince-klassen/2014/06/hangover/">#Hangover</a></p>
+---

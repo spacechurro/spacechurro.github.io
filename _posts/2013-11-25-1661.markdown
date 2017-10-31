@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1661
+wordpress_url: http://noesbueno.com/archives/1661
+date: '2013-11-25 20:13:35 -0600'
+date_gmt: '2013-11-26 01:13:35 -0600'
+body: |
+  <p><a href="http://kottke.org/13/11/nirvana-punks-top-of-the-pops-in-1991">Nirvana punks Top of the Pops in 1991</a></p>
+---

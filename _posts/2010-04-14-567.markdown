@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 567
+wordpress_url: http://noesbueno.com/archives/567
+date: '2010-04-14 16:57:22 -0500'
+date_gmt: '2010-04-14 21:57:22 -0500'
+body: |
+  <p><a href="http://lifehacker.com/5517207/kylo-is-a-big+screen-tv+optimized-web-browser">Kylo Is a Big-Screen, TV-Optimized Web Browser [Downloads]</a></p>
+---

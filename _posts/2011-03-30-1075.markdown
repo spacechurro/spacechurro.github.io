@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1075
+wordpress_url: http://noesbueno.com/archives/1075
+date: '2011-03-30 09:01:03 -0500'
+date_gmt: '2011-03-30 14:01:03 -0500'
+body: |
+  <p><a href="http://www.buzzfeed.com/gavon/twin-babies-talk-about-the-bronx-zoo-cobra">Twin Babies Talk About The Bronx Zoo Cobra</a></p>
+---

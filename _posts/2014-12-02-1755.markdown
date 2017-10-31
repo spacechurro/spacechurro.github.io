@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1755
+wordpress_url: http://noesbueno.com/archives/1755
+date: '2014-12-02 15:57:22 -0600'
+date_gmt: '2014-12-02 20:57:22 -0600'
+body: |
+  <p><a href="http://culturepopped.blogspot.com/2014/11/batman-time.html">Batman Time!</a></p>
+---

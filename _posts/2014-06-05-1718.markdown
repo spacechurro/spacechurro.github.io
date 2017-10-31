@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1718
+wordpress_url: http://noesbueno.com/archives/1718
+date: '2014-06-05 09:36:11 -0500'
+date_gmt: '2014-06-05 14:36:11 -0500'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2014/06/the-burlington-bar-reacts-to-the-mountain-the-viper/">The Burlington Bar Reacts To The Mountain & The Viper</a></p>
+---

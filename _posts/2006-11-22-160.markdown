@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 160
+wordpress_url: http://noesbueno.com/archives/160
+date: '2006-11-22 13:31:48 -0600'
+date_gmt: '2006-11-22 18:31:48 -0600'
+body: |
+  <p><a href="http://pdl.warnerbros.com/wbmovies/orderofthephoenix/teaser/teaser_500.mov">New teaser trailer for Harry Potter and the Order of the Phoenix</a> <span class="via">(via <a href="http://www.iwatchstuff.com">I Watch Stuff!</a>)</span></p>
+---

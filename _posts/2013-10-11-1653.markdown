@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1653
+wordpress_url: http://noesbueno.com/archives/1653
+date: '2013-10-11 08:12:16 -0500'
+date_gmt: '2013-10-11 13:12:16 -0500'
+body: |
+  <p><a href="http://kottke.org/13/10/the-myth-of-nasas-expensive-space-pens">The myth of NASA's expensive space pens</a></p>
+---

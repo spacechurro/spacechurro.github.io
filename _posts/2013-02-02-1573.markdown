@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1573
+wordpress_url: http://noesbueno.com/archives/1573
+date: '2013-02-02 19:04:40 -0600'
+date_gmt: '2013-02-03 00:04:40 -0600'
+body: |
+  <p><a href="http://fuckingkrang.tumblr.com/post/42037476166">Fucking Krang. Fucking honey boo-boo</a></p>
+---

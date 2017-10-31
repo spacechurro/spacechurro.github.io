@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 214
+wordpress_url: http://noesbueno.com/archives/214
+date: '2007-11-06 22:25:45 -0600'
+date_gmt: '2007-11-07 03:25:45 -0600'
+body: |
+  <p><a href="http://www.theghostfacedoll.com/">Get your Ghostface doll.</a>Â  It's only $499.</p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1734
+wordpress_url: http://noesbueno.com/archives/1734
+date: '2014-07-27 17:54:03 -0500'
+date_gmt: '2014-07-27 22:54:03 -0500'
+body: |
+  <p><a href="http://kottke.org/14/07/12-monkeys-tv-series-trailer">12 Monkeys TV series trailer</a></p>
+---

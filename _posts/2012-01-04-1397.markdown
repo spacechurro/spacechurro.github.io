@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1397
+wordpress_url: http://noesbueno.com/archives/1397
+date: '2012-01-04 16:05:02 -0600'
+date_gmt: '2012-01-04 21:05:02 -0600'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2012/01/quadron-ex-factor-lauryn-hill-cover/">Quadron - Ex-Factor (Lauryn Hill Cover)</a></p>
+---

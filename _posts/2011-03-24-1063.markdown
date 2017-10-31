@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1063
+wordpress_url: http://noesbueno.com/archives/1063
+date: '2011-03-24 22:59:20 -0500'
+date_gmt: '2011-03-25 03:59:20 -0500'
+body: |
+  <p><a href="http://feedproxy.google.com/~r/PitchforkLatestNews/~3/4-iAE3F3gp8/">Flaming Lips, Neon Indian Release Collaboration</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 146
+wordpress_url: http://noesbueno.com/archives/146
+date: '2006-08-30 22:23:00 -0500'
+date_gmt: '2006-08-31 03:23:00 -0500'
+body: |
+  <p><a href="http://www.youtube.com/watch?v=NteMiImPn90">Wicked Mega Man Suit in Dead Rising for xbox 360.</a> <span class="via">(via <a href="htttp://www.xbox360fanboy.com">XBOX 360 Fanboy</a>)</span></p>
+---

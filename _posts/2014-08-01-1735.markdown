@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1735
+wordpress_url: http://noesbueno.com/archives/1735
+date: '2014-08-01 22:08:05 -0500'
+date_gmt: '2014-08-02 03:08:05 -0500'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2014/07/dmx-rides-orlandos-sling-shot-ride/">DMX Rides Orlando's Sling Shot Ride</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1015
+wordpress_url: http://noesbueno.com/archives/1015
+date: '2011-02-18 11:42:51 -0600'
+date_gmt: '2011-02-18 16:42:51 -0600'
+body: |
+  <p><a href="http://thedailywh.at/2011/02/17/street-art-of-the-day-3/">Mayor</a></p>
+---

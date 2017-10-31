@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1418
+wordpress_url: http://noesbueno.com/archives/1418
+date: '2012-02-12 01:01:05 -0600'
+date_gmt: '2012-02-12 06:01:05 -0600'
+body: |
+  <p><a href="http://nerdcityonline.com/2011/10/17/graffiti-artist-kid-nes-has-guts/">Graffiti Artist Kid NES Has Guts</a></p>
+---

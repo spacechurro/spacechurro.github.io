@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1097
+wordpress_url: http://noesbueno.com/archives/1097
+date: '2011-04-17 22:00:47 -0500'
+date_gmt: '2011-04-18 03:00:47 -0500'
+body: |
+  <p><a href="http://www.epicponyz.com/2011/04/trolling-justin-bieber-fans.html">Trolling Justin Bieber Fans</a></p>
+---

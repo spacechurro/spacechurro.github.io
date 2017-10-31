@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1771
+wordpress_url: http://noesbueno.com/archives/1771
+date: '2015-02-01 12:26:16 -0600'
+date_gmt: '2015-02-01 17:26:16 -0600'
+body: |
+  <p><a href="http://fivethirtyeight.com/features/the-queen-of-code/">The Queen of Code</a></p>
+---

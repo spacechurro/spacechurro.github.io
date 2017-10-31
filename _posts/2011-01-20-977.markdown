@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 977
+wordpress_url: http://noesbueno.com/archives/977
+date: '2011-01-20 12:00:30 -0600'
+date_gmt: '2011-01-20 17:00:30 -0600'
+body: |
+  <p><a href="http://feedproxy.google.com/~r/nymag/vulture/~3/2RcnjYfgeyk/tim_heidecker_wedding_song.html">Tim and Eric's Tim Heidecker Debuts His New Seventies Soft-Rock Side Project on Vulture</a></p>
+---

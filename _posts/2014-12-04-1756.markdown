@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1756
+wordpress_url: http://noesbueno.com/archives/1756
+date: '2014-12-04 11:33:58 -0600'
+date_gmt: '2014-12-04 16:33:58 -0600'
+body: |
+  <p><a href="http://kottke.org/14/12/the-typography-of-alien">The typography of Alien</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1205
+wordpress_url: http://noesbueno.com/archives/1205
+date: '2011-07-30 17:01:15 -0500'
+date_gmt: '2011-07-30 22:01:15 -0500'
+body: |
+  <p><a href="http://ratsoff.com/post/8198368489">Big Boi Explains Jeggings and Jorts to a Man in...</a></p>
+---

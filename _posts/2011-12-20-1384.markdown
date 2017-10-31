@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1384
+wordpress_url: http://noesbueno.com/archives/1384
+date: '2011-12-20 15:21:57 -0600'
+date_gmt: '2011-12-20 20:21:57 -0600'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2011/12/kim-jong-il-dropping-the-bass/">Kim Jong-il Dropping The Bass</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 327
+wordpress_url: http://noesbueno.com/archives/327
+date: '2009-10-30 14:01:00 -0500'
+date_gmt: '2009-10-30 19:01:00 -0500'
+body: |
+  <p><a href="http://www.uncrate.com/men/gear/cell-phones/inpulse-blackberry-smartwatch/">InPulse Blackberry Smartwatch</a></p>
+---

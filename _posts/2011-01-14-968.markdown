@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 968
+wordpress_url: http://noesbueno.com/archives/968
+date: '2011-01-14 13:00:37 -0600'
+date_gmt: '2011-01-14 18:00:37 -0600'
+body: |
+  <p><a href="http://feedproxy.google.com/~r/hackaday/LgoM/~3/CkUxAVOiAgY/">Macintosh Plus DJ Helmet with an iPad</a></p>
+---

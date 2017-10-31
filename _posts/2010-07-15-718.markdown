@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 718
+wordpress_url: http://noesbueno.com/archives/718
+date: '2010-07-15 23:00:21 -0500'
+date_gmt: '2010-07-16 04:00:21 -0500'
+body: |
+  <p><a href="http://feedproxy.google.com/~r/apartmenttherapy/thekitchn/~3/iHlRIcE2kMk/look-crispy-creamy-avocado-fries-121614">Look! Crispy, Creamy Avocado Fries</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1263
+wordpress_url: http://noesbueno.com/archives/1263
+date: '2011-10-06 13:03:00 -0500'
+date_gmt: '2011-10-06 18:03:00 -0500'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2011/10/aberrican-me-ross-capicchioni/">ABERRICAN ME: Ross Capicchioni</a></p>
+---

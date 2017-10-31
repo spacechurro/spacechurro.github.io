@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 811
+wordpress_url: http://noesbueno.com/archives/811
+date: '2010-10-18 09:59:34 -0500'
+date_gmt: '2010-10-18 14:59:34 -0500'
+body: |
+  <p><a href="http://feedproxy.google.com/~r/feedburner/oicv/~3/ti4cGzDYjhM/1338636110">BAMF of the Day: Bill Murray accepts the Scream Award for best...</a></p>
+---

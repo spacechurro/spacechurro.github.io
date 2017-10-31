@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 948
+wordpress_url: http://noesbueno.com/archives/948
+date: '2011-01-03 11:00:45 -0600'
+date_gmt: '2011-01-03 16:00:45 -0600'
+body: |
+  <p><a href="http://kottke.org/11/01/boardwalk-empire-visual-effects">Boardwalk Empire visual effects</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 446
+wordpress_url: http://noesbueno.com/archives/446
+date: '2010-02-03 10:09:10 -0600'
+date_gmt: '2010-02-03 15:09:10 -0600'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2010/02/how-to-get-cuba-gooding-jr-in-your-straight-to-dvd-movie/">How To Get Cuba Gooding Jr. In Your Straight To DVD Movie</a></p>
+---

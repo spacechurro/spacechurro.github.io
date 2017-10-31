@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 338
+wordpress_url: http://noesbueno.com/archives/338
+date: '2009-11-12 17:00:57 -0600'
+date_gmt: '2009-11-12 22:00:57 -0600'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2009/11/charlie-bit-me-autotuned/">"Charlie Bit Me" Auto-Tuned</a></p>
+---

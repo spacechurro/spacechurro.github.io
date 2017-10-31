@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1582
+wordpress_url: http://noesbueno.com/archives/1582
+date: '2013-02-18 18:13:33 -0600'
+date_gmt: '2013-02-18 23:13:33 -0600'
+body: |
+  <p><a href="http://www.comicsbackissues.com/timeline-of-events-in-x-men-comics-1963-2012/">Timeline of Events in X-Men Comics - 1963-2012 </a> <span class="via">(via <a href="http://www.kungfugrippe.com/">kung fu grippe</a>)</span></p>
+---

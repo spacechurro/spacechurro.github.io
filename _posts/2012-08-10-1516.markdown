@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1516
+wordpress_url: http://noesbueno.com/archives/1516
+date: '2012-08-10 12:51:08 -0500'
+date_gmt: '2012-08-10 17:51:08 -0500'
+body: |
+  <p><a href="http://feedproxy.google.com/~r/37signals/beMH/~3/zVb_qbnT8sg/3225-what-are-questions">What are questions?</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1351
+wordpress_url: http://noesbueno.com/archives/1351
+date: '2011-11-30 13:49:10 -0600'
+date_gmt: '2011-11-30 18:49:10 -0600'
+body: |
+  <p><a href="http://kottke.org/11/11/golden-rules-to-live-by-while-travelling-the-world">Golden rules to live by while travelling the world</a></p>
+---

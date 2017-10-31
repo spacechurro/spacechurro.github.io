@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 33
+wordpress_url: http://noesbueno.com/?p=33
+date: '2005-12-05 19:37:59 -0600'
+date_gmt: '2005-12-06 00:37:59 -0600'
+body: |
+  <p><a href="http://www.aldifoods.com/wine/">Aldi sells six packs of their own special beer for $3.99</a>.  Winos around the country rejoice. <span class="via">(via <a href="http://www.gapersblock.com/">Gapers Block</a>)</span></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1038
+wordpress_url: http://noesbueno.com/archives/1038
+date: '2011-03-02 11:59:52 -0600'
+date_gmt: '2011-03-02 16:59:52 -0600'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2011/03/blind-fight/">Blind Fight</a></p>
+---

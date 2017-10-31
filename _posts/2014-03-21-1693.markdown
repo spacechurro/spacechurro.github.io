@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1693
+wordpress_url: http://noesbueno.com/archives/1693
+date: '2014-03-21 11:53:27 -0500'
+date_gmt: '2014-03-21 16:53:27 -0500'
+body: |
+  <p><a href="http://kottke.org/14/03/the-overprotected-kid">The overprotected kid</a></p>
+---

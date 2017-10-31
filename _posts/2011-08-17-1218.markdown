@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1218
+wordpress_url: http://noesbueno.com/archives/1218
+date: '2011-08-17 18:01:34 -0500'
+date_gmt: '2011-08-17 23:01:34 -0500'
+body: |
+  <p><a href="http://blog.mondotees.com/2011/08/15/check-out-jason-edmistons-trophies/">Check Out Jason Edmiston's Trophies</a></p>
+---

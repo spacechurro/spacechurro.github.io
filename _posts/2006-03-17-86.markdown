@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 86
+wordpress_url: http://noesbueno.com/archives/86
+date: '2006-03-17 17:56:08 -0600'
+date_gmt: '2006-03-17 22:56:08 -0600'
+body: |
+  <p><a href="http://youtube.com/watch?v=8aAkHGCuQT4&search=snakes%20plane%20trailer%20sam%2%200samuel%20jackson">Snakes on a Plane trailer</a>.</p>
+---

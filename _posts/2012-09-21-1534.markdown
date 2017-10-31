@@ -1,0 +1,11 @@
+---
+layout: post
+wordpress_id: 1534
+wordpress_url: http://noesbueno.com/archives/1534
+date: '2012-09-21 13:00:37 -0500'
+date_gmt: '2012-09-21 18:00:37 -0500'
+body: |
+  <p><a href="http://ratsoff.com/post/31961859909">DMX Learns Google<br />
+  Most valid YouTube comment:</p>
+  <p>(via videogum.)</a></p>
+---

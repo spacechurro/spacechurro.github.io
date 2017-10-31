@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1658
+wordpress_url: http://noesbueno.com/archives/1658
+date: '2013-10-24 11:35:45 -0500'
+date_gmt: '2013-10-24 16:35:45 -0500'
+body: |
+  <p><a href="http://thechangelog.com/drop-psd-page-preview/?utm_source=rss&utm_medium=rss&utm_campaign=drop-psd-page-preview">Drop a PSD on this page to preview it</a></p>
+---

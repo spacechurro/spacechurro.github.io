@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1478
+wordpress_url: http://noesbueno.com/archives/1478
+date: '2012-05-25 14:23:40 -0500'
+date_gmt: '2012-05-25 19:23:40 -0500'
+body: |
+  <p><a href="http://feedproxy.google.com/~r/PitchforkLatestNews/~3/UbgXzNXZvXQ/">Giorgio Moroder Recorded With Daft Punk for New LP</a></p>
+---

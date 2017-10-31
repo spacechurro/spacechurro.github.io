@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1246
+wordpress_url: http://noesbueno.com/archives/1246
+date: '2011-09-06 13:01:15 -0500'
+date_gmt: '2011-09-06 18:01:15 -0500'
+body: |
+  <p><a href="http://www.epicponyz.com/2011/09/saying-michael-cane.html">Saying Michael Cane</a></p>
+---

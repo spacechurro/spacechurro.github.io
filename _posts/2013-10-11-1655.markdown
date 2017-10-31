@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1655
+wordpress_url: http://noesbueno.com/archives/1655
+date: '2013-10-11 16:49:29 -0500'
+date_gmt: '2013-10-11 21:49:29 -0500'
+body: |
+  <p><a href="http://blog.turntablelab.com/prince-klassen/2013/10/boiler-room-x-busy-p-making-sense-of-his-record-collection/">Boiler Room x Busy P: Making Sense Of His Record Collection</a></p>
+---

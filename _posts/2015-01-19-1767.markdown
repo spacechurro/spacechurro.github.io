@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1767
+wordpress_url: http://noesbueno.com/?p=1767
+date: '2015-01-19 23:29:36 -0600'
+date_gmt: '2015-01-20 04:29:36 -0600'
+body: |
+  <p><a href="http://luckypeach.com/making-ramen-in-japan-vs-america/">Ramen in Japan, Ramen in America</a></p>
+---

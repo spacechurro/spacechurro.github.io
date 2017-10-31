@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1538
+wordpress_url: http://noesbueno.com/archives/1538
+date: '2012-10-10 13:34:06 -0500'
+date_gmt: '2012-10-10 18:34:06 -0500'
+body: |
+  <p><a href="http://venuspatrol.com/2012/10/flooping-rad-adventure-time-fans-produce-real-card-wars-game/?utm_source=rss&utm_medium=rss&utm_campaign=flooping-rad-adventure-time-fans-produce-real-card-wars-game">Flooping Rad: Adventure Time Fans Produce Real â€˜Card Wars' Game</a></p>
+---

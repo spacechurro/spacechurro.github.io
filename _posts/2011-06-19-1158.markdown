@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1158
+wordpress_url: http://noesbueno.com/archives/1158
+date: '2011-06-19 17:19:39 -0500'
+date_gmt: '2011-06-19 22:19:39 -0500'
+body: |
+  <p><a href="http://willzone.tumblr.com/post/6658047481/sirmitchell-if-you-didnt-have-this-shirt-in">If you didn't have this shirt in the early 90's, you weren't cool.</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 587
+wordpress_url: http://noesbueno.com/archives/587
+date: '2010-04-24 10:01:04 -0500'
+date_gmt: '2010-04-24 15:01:04 -0500'
+body: |
+  <p><a href="http://en.wikipedia.org/wiki/Timeline_of_the_burrito">Timeline of the Burrito</a></p>
+---

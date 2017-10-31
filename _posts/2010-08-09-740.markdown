@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 740
+wordpress_url: http://noesbueno.com/archives/740
+date: '2010-08-09 11:00:11 -0500'
+date_gmt: '2010-08-09 16:00:11 -0500'
+body: |
+  <p><a href="http://aboutfoursquare.com/track-the-beers-you-drink-and-check-in-on-foursquare-at-the-same-time/">Track the beers you drink and check in on foursquare at the same time</a></p>
+---

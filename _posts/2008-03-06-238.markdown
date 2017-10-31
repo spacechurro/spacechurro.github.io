@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 238
+wordpress_url: http://noesbueno.com/archives/238
+date: '2008-03-06 02:39:57 -0600'
+date_gmt: '2008-03-06 07:39:57 -0600'
+body: |
+  <p><a href="http://www.hackaday.com/2008/03/05/bad-ass-modular-snake-robot/">I, for one, welcome our new robot snake overlords.</a></p>
+---

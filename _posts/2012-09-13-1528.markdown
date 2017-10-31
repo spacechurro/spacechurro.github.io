@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1528
+wordpress_url: http://noesbueno.com/archives/1528
+date: '2012-09-13 16:15:15 -0500'
+date_gmt: '2012-09-13 21:15:15 -0500'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2012/09/bizarre-tribe-a-quest-to-the-pharcyde-mixtape/">Bizarre Tribe: A Quest to The Pharcyde (Mixtape)</a></p>
+---

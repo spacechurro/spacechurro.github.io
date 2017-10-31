@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1324
+wordpress_url: http://noesbueno.com/archives/1324
+date: '2011-11-08 15:25:45 -0600'
+date_gmt: '2011-11-08 20:25:45 -0600'
+body: |
+  <p><a href="http://www.andamosarmados.com/?p=108151">The Kinect Effect.‹</a></p>
+---

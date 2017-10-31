@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 737
+wordpress_url: http://noesbueno.com/archives/737
+date: '2010-08-02 10:00:13 -0500'
+date_gmt: '2010-08-02 15:00:13 -0500'
+body: |
+  <p><a href="http://feedproxy.google.com/~r/feedburner/oicv/~3/eIhRff5vHf4/893264860">OMG! Adorbz of the Day: Meet Lil' Raver Fred: He's...</a></p>
+---

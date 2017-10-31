@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1333
+wordpress_url: http://noesbueno.com/archives/1333
+date: '2011-11-14 13:29:56 -0600'
+date_gmt: '2011-11-14 18:29:56 -0600'
+body: |
+  <p><a href="http://www.lostateminor.com/2011/11/14/evil-robot-designs-lamps-made-from-classic-toys/">Evil Robot Designs lamps made from classic toys</a></p>
+---

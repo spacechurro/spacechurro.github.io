@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1073
+wordpress_url: http://noesbueno.com/archives/1073
+date: '2011-03-28 18:01:06 -0500'
+date_gmt: '2011-03-28 23:01:06 -0500'
+body: |
+  <p><a href="http://nerdcityonline.com/2011/03/28/supernintendo-segagenesis-new-album-by-team-teamwork/">Supernintendo Segagenesis, New Album by Team Teamwork</a></p>
+---

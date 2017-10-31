@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 705
+wordpress_url: http://noesbueno.com/archives/705
+date: '2010-07-06 13:00:27 -0500'
+date_gmt: '2010-07-06 18:00:27 -0500'
+body: |
+  <p><a href="http://www.psychologytoday.com/blog/sleep-newzzz/201007/short-fat-and-fast-the-long-and-short-it">Short, Fat, and Fast: The Long and Short of It</a></p>
+---

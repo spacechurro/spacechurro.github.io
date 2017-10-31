@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 40
+wordpress_url: http://noesbueno.com/archives/40
+date: '2005-12-12 17:28:21 -0600'
+date_gmt: '2005-12-12 22:28:21 -0600'
+body: |
+  <p>Sofia Coppola's new joint - <a href="http://progressive.stream.aol.com//aol/us/moviefone/movies/2005/marieantoinette_023756/marieantoinette_trlr_01_fhywet_dl.mov">Marie Antoinette</a>.  I really gotta put New Order back on my ipod.  <span class="via">(via <a href="http://www.coudal.com">Coudal</a>)</span></p>
+---

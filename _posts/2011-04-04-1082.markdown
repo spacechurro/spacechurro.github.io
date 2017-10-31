@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1082
+wordpress_url: http://noesbueno.com/archives/1082
+date: '2011-04-04 13:00:58 -0500'
+date_gmt: '2011-04-04 18:00:58 -0500'
+body: |
+  <p><a href="http://usanaco.wordpress.com/2011/03/30/pecsi/">PECSI</a></p>
+---

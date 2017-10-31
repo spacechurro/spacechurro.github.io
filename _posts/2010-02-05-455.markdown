@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 455
+wordpress_url: http://noesbueno.com/archives/455
+date: '2010-02-05 11:59:34 -0600'
+date_gmt: '2010-02-05 16:59:34 -0600'
+body: |
+  <p><a href="http://feedproxy.google.com/~r/nymag/vulture/~3/qv9YkRet5jI/worlds_collide_see_snooki_inte.html">Worlds Collide: See Snooki Interview Phoenix</a></p>
+---

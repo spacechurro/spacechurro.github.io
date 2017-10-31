@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1422
+wordpress_url: http://noesbueno.com/archives/1422
+date: '2012-02-22 18:33:56 -0600'
+date_gmt: '2012-02-22 23:33:56 -0600'
+body: |
+  <p><a href="http://kottke.org/12/02/how-to-make-an-old-fashioned">How to make an Old Fashioned</a></p>
+---

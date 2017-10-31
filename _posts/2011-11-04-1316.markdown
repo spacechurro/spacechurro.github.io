@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1316
+wordpress_url: http://noesbueno.com/?p=1316
+date: '2011-11-04 16:53:13 -0500'
+date_gmt: '2011-11-04 21:53:13 -0500'
+body: |
+  <p>"<a href="http://vimeo.com/29999445">Skinemax</a> is Koyaanisqatsi for a generation raised on late night television and B-movie VHS tapes. It's long form entertainment for short attention spans. An hour long VJ odyssey, it will move your body and warp your mind." <span class="via">(via <a href="http://ratsoff.com">Rats Off!</a>)</span></p>
+---

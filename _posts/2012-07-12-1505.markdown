@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1505
+wordpress_url: http://noesbueno.com/archives/1505
+date: '2012-07-12 16:58:49 -0500'
+date_gmt: '2012-07-12 21:58:49 -0500'
+body: |
+  <p><a href="http://kottke.org/12/07/3-d-printed-shoes-that-could-help-sprinters-shatter-records">3-D printed shoes that could help sprinters shatter records</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1673
+wordpress_url: http://noesbueno.com/archives/1673
+date: '2014-01-13 18:30:05 -0600'
+date_gmt: '2014-01-13 23:30:05 -0600'
+body: |
+  <p><a href="http://venuspatrol.com/2014/01/beast-emerges-qa-nidhogg-creator-messhof/?utm_source=rss&utm_medium=rss&utm_campaign=beast-emerges-qa-nidhogg-creator-messhof">The Great Beast Emerges: A Q&A With Nidhogg Creator Messhof</a></p>
+---

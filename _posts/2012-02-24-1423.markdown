@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1423
+wordpress_url: http://noesbueno.com/archives/1423
+date: '2012-02-24 17:38:46 -0600'
+date_gmt: '2012-02-24 22:38:46 -0600'
+body: "<p><a href=\"http://www.thehighdefinite.com/2012/02/apples-rock-god-commercial-improved/\">Apple's
+  \"Rock God\" Commercial: Improved</a></p>\n"
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1308
+wordpress_url: http://noesbueno.com/?p=1308
+date: '2011-11-01 17:41:50 -0500'
+date_gmt: '2011-11-01 22:41:50 -0500'
+body: |
+  <p><a href="http://keggersofyore.com">Keggers of Yore</a> <span class="via">(via <a href="http://ratsoff.com">Rats Off!</a>)</span></p>
+---

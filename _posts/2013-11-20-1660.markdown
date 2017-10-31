@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1660
+wordpress_url: http://noesbueno.com/archives/1660
+date: '2013-11-20 16:47:24 -0600'
+date_gmt: '2013-11-20 21:47:24 -0600'
+body: |
+  <p><a href="http://kottke.org/13/11/r-kelly-improvised-love-songs">R. Kelly improvised love songs</a></p>
+---

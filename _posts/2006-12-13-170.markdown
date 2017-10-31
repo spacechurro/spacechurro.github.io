@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 170
+wordpress_url: http://noesbueno.com/archives/170
+date: '2006-12-13 11:11:27 -0600'
+date_gmt: '2006-12-13 16:11:27 -0600'
+body: |
+  <p><a href="http://www.filter-mag.com/news/interior.3691.html">Eddie Argos of Art Brut gives us his top ten list for 2006.</a></p>
+---

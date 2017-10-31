@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1210
+wordpress_url: http://noesbueno.com/archives/1210
+date: '2011-08-15 16:01:26 -0500'
+date_gmt: '2011-08-15 21:01:26 -0500'
+body: |
+  <p><a href="http://culturepopped.blogspot.com/2011/08/it-sucks-to-be-weegie.html">It Sucks To Be Weegie</a></p>
+---

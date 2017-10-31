@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 642
+wordpress_url: http://noesbueno.com/archives/642
+date: '2010-05-27 18:00:49 -0500'
+date_gmt: '2010-05-27 23:00:49 -0500'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2010/05/jerry-oconnell-is-the-worst-wedding-dj-ever/">Jerry O'Connell Is The Worst Wedding DJ Ever</a></p>
+---

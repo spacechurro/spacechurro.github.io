@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1284
+wordpress_url: http://noesbueno.com/archives/1284
+date: '2011-10-18 12:38:14 -0500'
+date_gmt: '2011-10-18 17:38:14 -0500'
+body: |
+  <p><a href="http://www.emptyage.com/post/11591863916/generation-x-doesnt-want-to-hear-it">Generation X Doesn't Want to Hear It</a> <span class="via">(via <a href="http://www.waxy.org">waxy!</a>)</span></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 760
+wordpress_url: http://noesbueno.com/archives/760
+date: '2010-08-25 12:00:05 -0500'
+date_gmt: '2010-08-25 17:00:05 -0500'
+body: |
+  <p><a href="http://feedproxy.google.com/~r/feedburner/oicv/~3/5QWTm_4e4RU/1009213031">Letter Of Note of the Day: An internal memo from 1987 forwarded...</a></p>
+---

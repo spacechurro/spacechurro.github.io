@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 175
+wordpress_url: http://noesbueno.com/archives/175
+date: '2007-01-13 14:43:38 -0600'
+date_gmt: '2007-01-13 19:43:38 -0600'
+body: |
+  <p><a href="http://www.slashfood.com/2007/01/11/tiger-beer-produces-champagne-lager/">This champange beer sounds delicious.</a></p>
+---

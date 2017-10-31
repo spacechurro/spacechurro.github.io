@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 94
+wordpress_url: http://noesbueno.com/archives/94
+date: '2006-03-25 11:46:13 -0600'
+date_gmt: '2006-03-25 16:46:13 -0600'
+body: |
+  <p><a href="http://www.joedevivre.com/art.html">hardy har art</a> - the disco ghost is excellent. <span class="via">(via <a href="http://www.gapersblock.com/">gapers block</a>)</span></p>
+---

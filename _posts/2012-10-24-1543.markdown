@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1543
+wordpress_url: http://noesbueno.com/archives/1543
+date: '2012-10-24 20:13:19 -0500'
+date_gmt: '2012-10-25 01:13:19 -0500'
+body: |
+  <p><a href="http://www.kickstarter.com/projects/martinkallstrom/memoto-lifelogging-camera">Memoto Lifelogging Camera</a></p>
+---

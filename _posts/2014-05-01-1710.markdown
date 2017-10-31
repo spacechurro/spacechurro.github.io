@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1710
+wordpress_url: http://noesbueno.com/archives/1710
+date: '2014-05-01 21:27:58 -0500'
+date_gmt: '2014-05-02 02:27:58 -0500'
+body: |
+  <p><a href="http://tinysubversions.com/essays/dontcry/">Darius Kazemi interactive essay on J. Dilla's "Don't Cry"</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 909
+wordpress_url: http://noesbueno.com/archives/909
+date: '2010-12-22 17:19:05 -0600'
+date_gmt: '2010-12-22 22:19:05 -0600'
+body: |
+  <p><a href="http://flufftronix.com/2010/12/22/luvstep-2-trailer/">Luvstep 2 Trailer</a></p>
+---

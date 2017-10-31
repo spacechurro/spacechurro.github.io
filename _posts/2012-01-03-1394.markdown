@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1394
+wordpress_url: http://noesbueno.com/archives/1394
+date: '2012-01-03 12:53:39 -0600'
+date_gmt: '2012-01-03 17:53:39 -0600'
+body: |
+  <p><a href="http://ratsoff.com/post/15208225594">a haiku for the bus driver who deliberately drove past me</a></p>
+---

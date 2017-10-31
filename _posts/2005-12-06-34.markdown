@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 34
+wordpress_url: http://noesbueno.com/archives/34
+date: '2005-12-06 17:52:35 -0600'
+date_gmt: '2005-12-06 22:52:35 -0600'
+body: |
+  <p><a href="http://www.macromedia.com">Macromedia.com</a> - redesigned to reflect its acquisition by Adobe.  It's hideous.</p>
+---

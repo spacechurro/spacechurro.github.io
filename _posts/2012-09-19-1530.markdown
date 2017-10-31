@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1530
+wordpress_url: http://noesbueno.com/archives/1530
+date: '2012-09-19 10:53:15 -0500'
+date_gmt: '2012-09-19 15:53:15 -0500'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2012/09/big-ghost-chronicles-reviews-cruel-summer/">Big Ghost Chronicles Reviews Cruel Summer</a></p>
+---

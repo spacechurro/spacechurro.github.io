@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1187
+wordpress_url: http://noesbueno.com/?p=1187
+date: '2011-07-24 19:22:09 -0500'
+date_gmt: '2011-07-25 00:22:09 -0500'
+body: |
+  <p><a href="http://www.youtube.com/watch?v=LPS45PzUvBM">Excellent Daft Punk medley.</a> <span class="via">(via <a href="http://busyp.coolcats.fr/">RAINBOW MAN Diaries</a>)</span> </p>
+---

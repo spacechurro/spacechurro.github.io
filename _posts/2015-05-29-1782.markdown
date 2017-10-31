@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1782
+wordpress_url: http://noesbueno.com/archives/1782
+date: '2015-05-29 21:18:53 -0500'
+date_gmt: '2015-05-30 02:18:53 -0500'
+body: |
+  <p><a href="http://kottke.org/15/05/google-and-the-amazing-touch-sensitive-dreampants">Google and the amazing touch-sensitive dreampants</a></p>
+---

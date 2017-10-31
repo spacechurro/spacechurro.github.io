@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1370
+wordpress_url: http://noesbueno.com/archives/1370
+date: '2011-12-12 15:18:53 -0600'
+date_gmt: '2011-12-12 20:18:53 -0600'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2011/12/shit-girls-say/">Shit Girls Say</a></p>
+---

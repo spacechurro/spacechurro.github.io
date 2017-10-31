@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 486
+wordpress_url: http://noesbueno.com/archives/486
+date: '2010-02-16 10:59:36 -0600'
+date_gmt: '2010-02-16 15:59:36 -0600'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2010/02/demarcus-chang/">Demarcus &amp; Chang</a></p>
+---

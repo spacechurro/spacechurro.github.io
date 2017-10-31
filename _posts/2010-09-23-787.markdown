@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 787
+wordpress_url: http://noesbueno.com/?p=787
+date: '2010-09-23 09:44:42 -0500'
+date_gmt: '2010-09-23 14:44:42 -0500'
+body: |
+  <p><a href="http://pi4nobl4ck.tumblr.com/post/1170854807/the-love-that-dares-speak-its-name">The love that dares speak its name.</a> <span class="via">(via <a href="http://eduardos.tumblr.com/">eduÃ¤rdo's scrapbook</a>)</span></p>
+---

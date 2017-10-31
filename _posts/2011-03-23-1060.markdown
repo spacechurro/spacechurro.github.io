@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1060
+wordpress_url: http://noesbueno.com/archives/1060
+date: '2011-03-23 17:59:24 -0500'
+date_gmt: '2011-03-23 22:59:24 -0500'
+body: |
+  <p><a href="http://feeds.ign.com/click.phdo?i=fc18b23e392dd1c6f310f80e7f2d4f27">More Damn Dirty Apes</a></p>
+---

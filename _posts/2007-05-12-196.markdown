@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 196
+wordpress_url: http://noesbueno.com/archives/196
+date: '2007-05-12 12:40:58 -0500'
+date_gmt: '2007-05-12 17:40:58 -0500'
+body: |
+  <p><a href="http://acceptable.tv/videos/2010-Kosbees">Kosbees, episode 1</a> <span class="via">(via <a href="http://www.waxy.org">waxy!</a>)</span></p>
+---

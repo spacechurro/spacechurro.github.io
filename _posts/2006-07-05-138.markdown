@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 138
+wordpress_url: http://noesbueno.com/archives/138
+date: '2006-07-05 23:11:55 -0500'
+date_gmt: '2006-07-06 04:11:55 -0500'
+body: |
+  <p><a href="http://www.iwatchstuff.com/2006/07/daft_punks_electroma_teaser_tr_1.html">Daft Punk's Electroma Teaser Trailer.</a>  It doesn't answer any questions.</p>
+---

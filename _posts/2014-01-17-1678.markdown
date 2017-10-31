@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1678
+wordpress_url: http://noesbueno.com/archives/1678
+date: '2014-01-17 13:54:01 -0600'
+date_gmt: '2014-01-17 18:54:01 -0600'
+body: |
+  <p><a href="http://blog.turntablelab.com/prince-klassen/2014/01/dj-gant-man-history-of-ghetto-house/">DJ Gant-Man History Of Ghetto House</a></p>
+---

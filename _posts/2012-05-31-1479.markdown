@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1479
+wordpress_url: http://noesbueno.com/archives/1479
+date: '2012-05-31 12:15:45 -0500'
+date_gmt: '2012-05-31 17:15:45 -0500'
+body: |
+  <p><a href="http://kottke.org/12/05/the-unified-theory-of-quentin-tarantinos-movie-universe">The unified theory of Quentin Tarantino's movie universe</a></p>
+---

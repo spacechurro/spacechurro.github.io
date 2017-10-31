@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 174
+wordpress_url: http://noesbueno.com/archives/174
+date: '2006-12-15 11:41:49 -0600'
+date_gmt: '2006-12-15 16:41:49 -0600'
+body: |
+  <p><a href="http://www.helveticafilm.com/clips.html">Clips from the upcoming documentary on Helvetica are up.</a> <span class="via">(via <a href="http://www.thearcherbus.com">the archer bus</a>)</span></p>
+---

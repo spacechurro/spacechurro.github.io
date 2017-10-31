@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 754
+wordpress_url: http://noesbueno.com/archives/754
+date: '2010-08-17 20:00:13 -0500'
+date_gmt: '2010-08-18 01:00:13 -0500'
+body: |
+  <p><a href="http://www.epicponyz.com/2010/08/shredders-dinner-plans.html">Shredder's Dinner Plans</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 533
+wordpress_url: http://noesbueno.com/?p=533
+date: '2010-03-27 09:54:14 -0500'
+date_gmt: '2010-03-27 14:54:14 -0500'
+body: |
+  <p><a href="http://www.zefrank.com/youngmenowme/permalink.html?717">Geordi on young me / now me</a></p>
+---

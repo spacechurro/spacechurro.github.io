@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1382
+wordpress_url: http://noesbueno.com/archives/1382
+date: '2011-12-15 11:30:13 -0600'
+date_gmt: '2011-12-15 16:30:13 -0600'
+body: |
+  <p><a href="http://culturepopped.blogspot.com/2011/12/marvel-vs-christmas-story-youll-shoot.html">Marvel Vs. A Christmas Story: You'll Shoot Your Adamantium Eye Out!</a></p>
+---

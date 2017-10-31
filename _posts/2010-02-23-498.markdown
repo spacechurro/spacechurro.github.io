@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 498
+wordpress_url: http://noesbueno.com/archives/498
+date: '2010-02-23 10:58:51 -0600'
+date_gmt: '2010-02-23 15:58:51 -0600'
+body: |
+  <p><a href="http://feedproxy.google.com/~r/nymag/vulture/~3/MMXIsccIgak/watch_the_ed_hardy_boyz_in_the.html">Watch the Ed Hardy Boyz in 'The Case of When That Hot Filipina Girl Lost Her Tramp Stamp at Mini-Golf'</a></p>
+---

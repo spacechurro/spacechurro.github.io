@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 395
+wordpress_url: http://noesbueno.com/archives/395
+date: '2009-12-31 15:00:24 -0600'
+date_gmt: '2009-12-31 20:00:24 -0600'
+body: |
+  <p><a href="http://pjkh.com/articles/2008/07/09/osx-iterm-screen-vim-256-colors">OSX + iTerm + screen + vim + 256 colors - philip hallstrom</a></p>
+---

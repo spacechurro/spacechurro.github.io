@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 52
+wordpress_url: http://noesbueno.com/archives/52
+date: '2006-01-05 17:43:57 -0600'
+date_gmt: '2006-01-05 22:43:57 -0600'
+body: |
+  <p><a href="http://xbox360fanboy.com/2006/01/05/ces-street-fighter-2-coming-to-live-arcade-by-march/">Street Fighter 2 coming to Xbox Live Arcade</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1121
+wordpress_url: http://noesbueno.com/archives/1121
+date: '2011-05-05 17:00:27 -0500'
+date_gmt: '2011-05-05 22:00:27 -0500'
+body: |
+  <p><a href="http://kottke.org/11/05/dont-cross-the-streams">Don't cross the streams</a></p>
+---

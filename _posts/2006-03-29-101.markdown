@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 101
+wordpress_url: http://noesbueno.com/archives/101
+date: '2006-03-29 17:44:13 -0600'
+date_gmt: '2006-03-29 22:44:13 -0600'
+body: |
+  <p><a href="http://www.codinghorror.com/blog/archives/000372.html">Typing of the Dead</a> uses flesh-eating zombies to teach you to how to type. <span class="via">(via <a href="http://kottke.org">kottke</a>)</span></p>
+---

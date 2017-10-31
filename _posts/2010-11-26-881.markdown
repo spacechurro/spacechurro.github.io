@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 881
+wordpress_url: http://noesbueno.com/archives/881
+date: '2010-11-26 14:00:58 -0600'
+date_gmt: '2010-11-26 19:00:58 -0600'
+body: |
+  <p><a href="http://www.whatevs.net/post/1669508813">Surprise inspection!</a></p>
+---

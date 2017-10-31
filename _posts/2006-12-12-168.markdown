@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 168
+wordpress_url: http://noesbueno.com/archives/168
+date: '2006-12-12 19:26:41 -0600'
+date_gmt: '2006-12-13 00:26:41 -0600'
+body: |
+  <p><a href="http://www.youtube.com/watch?v=4xxvmT7NgDk&eurl=">MSTRKRFT video for 'Work On You'</a>Â  - The song is great and the video makes it even better.</p>
+---

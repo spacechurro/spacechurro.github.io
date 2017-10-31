@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1620
+wordpress_url: http://noesbueno.com/archives/1620
+date: '2013-06-26 16:13:21 -0500'
+date_gmt: '2013-06-26 21:13:21 -0500'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2013/06/neverwet-spray-now-available-magic/">NeverWet Spray Now Available, Magic</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1040
+wordpress_url: http://noesbueno.com/archives/1040
+date: '2011-03-03 12:59:46 -0600'
+date_gmt: '2011-03-03 17:59:46 -0600'
+body: |
+  <p><a href="http://blog.signalnoise.com/2011/03/03/masters-of-the-universe-paintings/">Masters of the Universe paintings</a></p>
+---

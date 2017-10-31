@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1778
+wordpress_url: http://noesbueno.com/archives/1778
+date: '2015-05-19 14:43:34 -0500'
+date_gmt: '2015-05-19 19:43:34 -0500'
+body: |
+  <p><a href="http://soundcloud.com/bjork/bjork-tri-angle-records-birthday-dj-set">björk : tri angle records birthday dj set by Björk</a></p>
+---

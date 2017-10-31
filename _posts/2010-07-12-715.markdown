@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 715
+wordpress_url: http://noesbueno.com/archives/715
+date: '2010-07-12 13:00:26 -0500'
+date_gmt: '2010-07-12 18:00:26 -0500'
+body: |
+  <p><a href="http://www.epicponyz.com/2010/07/jollibee-mascot-dance.html">Jollibee Mascot Dance</a></p>
+---

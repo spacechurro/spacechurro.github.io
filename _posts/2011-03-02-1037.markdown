@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1037
+wordpress_url: http://noesbueno.com/archives/1037
+date: '2011-03-02 11:59:50 -0600'
+date_gmt: '2011-03-02 16:59:50 -0600'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2011/03/dance-assassin/">Dance Assassin</a></p>
+---

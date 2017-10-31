@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 426
+wordpress_url: http://noesbueno.com/?p=426
+date: '2010-01-26 15:47:30 -0600'
+date_gmt: '2010-01-26 20:47:30 -0600'
+body: |
+  <p><a href="http://ihavethepowerart.blogspot.com/">Under The Influence: He-Man & The Masters Of The Universe</a></p>
+---

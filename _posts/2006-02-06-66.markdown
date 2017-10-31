@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 66
+wordpress_url: http://noesbueno.com/archives/66
+date: '2006-02-06 15:27:30 -0600'
+date_gmt: '2006-02-06 20:27:30 -0600'
+body: |
+  <p><a href="http://www.flickr.com/photos/giltron">Tea-bone</a> achieves celebrity status on <a href="http://www.kotaku.com/gaming/oddities/god-made-street-fighter-152838.php">kotaku</a>.</p>
+---

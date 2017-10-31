@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 219
+wordpress_url: http://noesbueno.com/archives/219
+date: '2007-12-12 17:51:39 -0600'
+date_gmt: '2007-12-12 22:51:39 -0600'
+body: |
+  <p><a href="http://lolbots.com/?p=788">Please Jean-Luc, Don't Hurt 'Em</a></p>
+---

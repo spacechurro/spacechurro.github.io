@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 131
+wordpress_url: http://noesbueno.com/archives/131
+date: '2006-06-26 17:49:36 -0500'
+date_gmt: '2006-06-26 22:49:36 -0500'
+body: |
+  <p>Whoa! <a href="http://www.tvsquad.com/2006/06/22/new-episodes-of-futurama-coming-to-comedy-central-for-real/">13 new episodes of Futurama are coming to Comedy Central.</a>  That show had a shakey start, but I thought it was great.  I don't know why it got sucha bad rap. <span class="via">(via <a href="http://www.airbagindustries.com/">Airbag</a>)</span></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 867
+wordpress_url: http://noesbueno.com/archives/867
+date: '2010-11-21 17:00:59 -0600'
+date_gmt: '2010-11-21 22:00:59 -0600'
+body: |
+  <p><a href="http://ratsoff.tumblr.com/post/1638025110">"People say, 'I'm going to sleep now,' as if it were nothing. But it's really a bizarre activity...."</a></p>
+---

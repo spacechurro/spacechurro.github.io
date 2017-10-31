@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1437
+wordpress_url: http://noesbueno.com/archives/1437
+date: '2012-03-20 10:33:05 -0500'
+date_gmt: '2012-03-20 15:33:05 -0500'
+body: |
+  <p><a href="http://kottke.org/12/03/liquid-ascii">Liquid ASCII</a></p>
+---

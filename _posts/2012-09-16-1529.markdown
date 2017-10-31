@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1529
+wordpress_url: http://noesbueno.com/archives/1529
+date: '2012-09-16 10:55:33 -0500'
+date_gmt: '2012-09-16 15:55:33 -0500'
+body: |
+  <p><a href="http://blog.turntablelab.com/the-voice/2012/08/serato-icon-artist-series-d-styles/">Serato Icon Artist Series - D-Styles</a></p>
+---

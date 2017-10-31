@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1211
+wordpress_url: http://noesbueno.com/archives/1211
+date: '2011-08-15 19:01:24 -0500'
+date_gmt: '2011-08-16 00:01:24 -0500'
+body: |
+  <p><a href="http://feeds.boston.com/click.phdo?i=daf48a473b491ed365b1ad2684624d02">Sleepers</a></p>
+---

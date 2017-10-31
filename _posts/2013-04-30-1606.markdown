@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1606
+wordpress_url: http://noesbueno.com/archives/1606
+date: '2013-04-30 09:44:01 -0500'
+date_gmt: '2013-04-30 14:44:01 -0500'
+body: |
+  <p><a href="http://hints.macworld.com/article.php?story=20130429032708579">Sync files across computers with BitTorrent Sync</a></p>
+---

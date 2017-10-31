@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 563
+wordpress_url: http://noesbueno.com/archives/563
+date: '2010-04-12 09:57:24 -0500'
+date_gmt: '2010-04-12 14:57:24 -0500'
+body: |
+  <p><a href="http://kottke.org/10/04/tweetie-bought-by-twitter">Tweetie bought by Twitter</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1751
+wordpress_url: http://noesbueno.com/archives/1751
+date: '2014-10-08 13:14:26 -0500'
+date_gmt: '2014-10-08 18:14:26 -0500'
+body: |
+  <p><a href="http://playbook.thoughtbot.com/">thoughtbot playbook</a></p>
+---

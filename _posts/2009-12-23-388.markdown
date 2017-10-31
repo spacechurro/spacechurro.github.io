@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 388
+wordpress_url: http://noesbueno.com/archives/388
+date: '2009-12-23 18:00:15 -0600'
+date_gmt: '2009-12-23 23:00:15 -0600'
+body: |
+  <p><a href="http://www.wired.com/magazine/2009/12/fail_duke_nukem/">Wired on the Duke Nukem Forever saga</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1669
+wordpress_url: http://noesbueno.com/archives/1669
+date: '2013-12-27 18:39:27 -0600'
+date_gmt: '2013-12-27 23:39:27 -0600'
+body: |
+  <p><a href="http://blog.turntablelab.com/prince-klassen/2013/12/madlib-vs-radio-frances-record-library/">Madlib vs Radio France's Record Library</a></p>
+---

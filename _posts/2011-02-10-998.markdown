@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 998
+wordpress_url: http://noesbueno.com/?p=998
+date: '2011-02-10 11:55:52 -0600'
+date_gmt: '2011-02-10 16:55:52 -0600'
+body: |
+  <p><a href="http://www.whatevs.net/post/3207185912/theradness-so-stoked-on-this-photo-right-now">so stoked on this photo right now</a> -- <span class="via">(<a href="http://i.imgur.com/3UMRy.jpg">reference</a>)</span></p>
+---

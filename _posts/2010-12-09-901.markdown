@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 901
+wordpress_url: http://noesbueno.com/archives/901
+date: '2010-12-09 12:00:47 -0600'
+date_gmt: '2010-12-09 17:00:47 -0600'
+body: |
+  <p><a href="http://culturepopped.blogspot.com/2010/12/susan-boyle-vs-paddington-bears.html">Susan Boyle Vs. Paddington Bears</a></p>
+---

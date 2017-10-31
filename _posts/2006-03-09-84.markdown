@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 84
+wordpress_url: http://noesbueno.com/archives/84
+date: '2006-03-09 11:20:55 -0600'
+date_gmt: '2006-03-09 16:20:55 -0600'
+body: |
+  <p>Head over to <a href="http://20jazzfunkgreats.blogspot.com/2006/03/black-goo-flicked-pop.html">20 Jazz Funk Greats</a> and snag some tracks from a group called <a href="http://www.mitmitmit.net/">Mit</a>.  I was in need of some crazy lazer effects in a song and they filled the void.</p>
+---

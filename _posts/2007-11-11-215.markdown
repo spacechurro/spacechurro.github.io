@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 215
+wordpress_url: http://noesbueno.com/archives/215
+date: '2007-11-11 18:52:02 -0600'
+date_gmt: '2007-11-11 23:52:02 -0600'
+body: |
+  <p>Hasbro releases <a href="http://www.hasbrotoyshop.com/ProductsByBrand.htm?BR=520&SBR=539&ST=SO&ID=20176&PG=1">G.I. Joe 25th Anniversary Sets</a>.  The <a href="http://www.hasbrotoyshop.com/ProductsByBrand.htm?BR=520&SBR=539&ST=SO&ID=20175&PG=1">Cobra line-up</a> includes Destro, Baroness, Storm Shadow, and Cobra Commander. <span class="via">(via <a href="http://www.uncrate.com">uncrate</a>)</span></p>
+---

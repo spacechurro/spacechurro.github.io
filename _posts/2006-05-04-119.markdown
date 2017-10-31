@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 119
+wordpress_url: http://noesbueno.com/archives/119
+date: '2006-05-04 20:12:34 -0500'
+date_gmt: '2006-05-05 01:12:34 -0500'
+body: |
+  <p><a href="http://ohr.edu/ask_db/ask_main.php/30/Q1/">In case you were wondering, it is permissible  to use velcro on the the Shabbat.</a> <span class="via">(via <a href="http://waxy.org">waxy</a>)</span></p>
+---

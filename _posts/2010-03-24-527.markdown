@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 527
+wordpress_url: http://noesbueno.com/archives/527
+date: '2010-03-24 12:57:55 -0500'
+date_gmt: '2010-03-24 17:57:55 -0500'
+body: |
+  <p><a href="http://feeds.macosxhints.com/click.phdo?i=23df57f36b373ab63c0770c19eb31500">Use Spotlight to speed up grep searches</a></p>
+---

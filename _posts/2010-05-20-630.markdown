@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 630
+wordpress_url: http://noesbueno.com/archives/630
+date: '2010-05-20 09:00:56 -0500'
+date_gmt: '2010-05-20 14:00:56 -0500'
+body: |
+  <p><a href="http://www.epicponyz.com/2010/05/wolves-auto-tuned.html">Wolves Auto-Tuned</a></p>
+---

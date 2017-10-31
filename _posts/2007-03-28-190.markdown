@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 190
+wordpress_url: http://noesbueno.com/archives/190
+date: '2007-03-28 16:28:37 -0500'
+date_gmt: '2007-03-28 21:28:37 -0500'
+body: |
+  <p><a href="http://politics.slashdot.org/politics/07/03/28/0236232.shtml">Mike Davidson punks out John McCain's myspace page.</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 393
+wordpress_url: http://noesbueno.com/archives/393
+date: '2009-12-31 11:11:28 -0600'
+date_gmt: '2009-12-31 16:11:28 -0600'
+body: |
+  <p><a href="http://nastynets.com/?p=2536">The Promise (89/09)</a></p>
+---

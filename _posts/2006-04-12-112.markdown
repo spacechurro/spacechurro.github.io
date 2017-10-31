@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 112
+wordpress_url: http://noesbueno.com/archives/112
+date: '2006-04-12 17:11:55 -0500'
+date_gmt: '2006-04-12 22:11:55 -0500'
+body: |
+  <p><a href="http://games.ign.com/articles/700/700977p1.html">I Am 8-bit Contest Winners</a></p>
+---

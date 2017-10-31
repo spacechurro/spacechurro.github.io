@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1027
+wordpress_url: http://noesbueno.com/archives/1027
+date: '2011-02-25 14:59:49 -0600'
+date_gmt: '2011-02-25 19:59:49 -0600'
+body: |
+  <p><a href="http://www.lostateminor.com/2011/02/25/video-dating-montage-from-the-1980s/">Video Dating montage from the 1980s</a></p>
+---

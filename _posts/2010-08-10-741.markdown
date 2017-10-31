@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 741
+wordpress_url: http://noesbueno.com/archives/741
+date: '2010-08-10 16:00:10 -0500'
+date_gmt: '2010-08-10 21:00:10 -0500'
+body: |
+  <p><a href="http://www.whatevs.net/post/932725696">Transcripts from Moot's (founder of 4chan, dummy)...</a></p>
+---

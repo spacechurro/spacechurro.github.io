@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1527
+wordpress_url: http://noesbueno.com/archives/1527
+date: '2012-09-10 15:45:10 -0500'
+date_gmt: '2012-09-10 20:45:10 -0500'
+body: |
+  <p><a href="http://blog.turntablelab.com/hrmmm/2012/09/anything-you-can-do/">Anything You Can Doâ€¦</a></p>
+---

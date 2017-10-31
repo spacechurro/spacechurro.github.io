@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1030
+wordpress_url: http://noesbueno.com/archives/1030
+date: '2011-02-25 18:59:49 -0600'
+date_gmt: '2011-02-25 23:59:49 -0600'
+body: |
+  <p><a href="http://feedproxy.google.com/~r/LostAtEMinor/~3/4ID8ohBsrE0/">Star Slinger's Mornin'</a></p>
+---

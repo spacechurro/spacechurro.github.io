@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1125
+wordpress_url: http://noesbueno.com/archives/1125
+date: '2011-05-09 09:00:23 -0500'
+date_gmt: '2011-05-09 14:00:23 -0500'
+body: |
+  <p><a href="http://kkovacs.eu/cool-but-obscure-unix-tools">Cool but Obscure Unix Tools</a></p>
+---

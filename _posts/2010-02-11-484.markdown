@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 484
+wordpress_url: http://noesbueno.com/archives/484
+date: '2010-02-11 10:59:09 -0600'
+date_gmt: '2010-02-11 15:59:09 -0600'
+body: |
+  <p><a href="http://www.youtube.com/watch?v=Z8Y1MalRrDc">YouTube - Cinnamon Chasers - Luv Deluxe (Music Video)</a></p>
+---

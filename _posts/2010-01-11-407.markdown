@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 407
+wordpress_url: http://noesbueno.com/archives/407
+date: '2010-01-11 20:00:11 -0600'
+date_gmt: '2010-01-12 01:00:11 -0600'
+body: |
+  <p><a href="http://www.networkworld.com/community/node/52422">Next-Gen iPhone to include significant camera improvements</a></p>
+---

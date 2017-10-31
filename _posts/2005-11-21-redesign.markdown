@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 27
+wordpress_url: http://noesbueno.com/tidbits/?p=27
+date: '2005-11-21 22:57:43 -0600'
+date_gmt: '2005-11-22 03:57:43 -0600'
+body: |
+  <p>Did I make the cutoff for the <a href="http://www.cssreboot.com/">CSS Reboot</a>? Crap.  Oh well.  I changed the focus of this site away from the calendar idea because I just wasn't inputting events anymore.   If you're looking for concert info, <a href="http://upcoming.org">Upcoming.org</a> is a good place to look.  You should also try <a href="http://chicago.ohmyrockness.com">Oh My Rockness</a>.  I think the site looks a lot cleaner, but there are still a couple of things I want to tweak and add.</p>
+---

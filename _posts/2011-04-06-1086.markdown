@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1086
+wordpress_url: http://noesbueno.com/?p=1086
+date: '2011-04-06 14:25:01 -0500'
+date_gmt: '2011-04-06 19:25:01 -0500'
+body: |
+  <p><a href="http://youthewhoa.blogspot.com/2011/04/yes_8784.html?zx=6bbd6fd942af60aa">Mecha Michael</a></p>
+---

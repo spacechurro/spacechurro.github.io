@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 576
+wordpress_url: http://noesbueno.com/archives/576
+date: '2010-04-19 23:57:12 -0500'
+date_gmt: '2010-04-20 04:57:12 -0500'
+body: |
+  <p><a href="http://gizmodo.com/5520438/how-apple-lost-the-next-iphone">How an Apple employee lost the iPhone 4G prototype</a></p>
+---

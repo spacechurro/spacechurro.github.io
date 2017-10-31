@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 122
+wordpress_url: http://noesbueno.com/archives/122
+date: '2006-05-09 07:37:05 -0500'
+date_gmt: '2006-05-09 12:37:05 -0500'
+body: |
+  <p><a href="http://www.mcsweeneys.net/2006/5/5bryan.html">Cookie Monster searches deep within himself and asks: Is me really monster?</a></p>
+---

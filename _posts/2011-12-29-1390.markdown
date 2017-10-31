@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1390
+wordpress_url: http://noesbueno.com/archives/1390
+date: '2011-12-29 13:40:59 -0600'
+date_gmt: '2011-12-29 18:40:59 -0600'
+body: |
+  <p><a href="http://vimeo.com/33976212">Sitting at other people's desks.</a></p>
+---

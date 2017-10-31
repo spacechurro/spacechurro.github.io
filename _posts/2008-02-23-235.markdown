@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 235
+wordpress_url: http://noesbueno.com/archives/235
+date: '2008-02-23 12:30:40 -0600'
+date_gmt: '2008-02-23 17:30:40 -0600'
+body: |
+  <p><a href="http://www.freakangels.com/">Freak Angels</a> - A dope web comic on its second episode. <span class="via">(via <a href="http://rstevens.livejournal.com/">rstevens</a>)</span></p>
+---

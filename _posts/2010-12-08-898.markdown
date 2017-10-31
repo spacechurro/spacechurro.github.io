@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 898
+wordpress_url: http://noesbueno.com/archives/898
+date: '2010-12-08 14:00:46 -0600'
+date_gmt: '2010-12-08 19:00:46 -0600'
+body: |
+  <p><a href="http://culturepopped.blogspot.com/2010/12/holy-check-ins-batman.html">Holy Check Ins, Batman!</a></p>
+---

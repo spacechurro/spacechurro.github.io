@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 608
+wordpress_url: http://noesbueno.com/archives/608
+date: '2010-05-11 13:00:54 -0500'
+date_gmt: '2010-05-11 18:00:54 -0500'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2010/05/total-recall-the-musical/">Total Recall: The Musical</a></p>
+---

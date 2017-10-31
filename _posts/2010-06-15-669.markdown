@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 669
+wordpress_url: http://noesbueno.com/archives/669
+date: '2010-06-15 08:00:40 -0500'
+date_gmt: '2010-06-15 13:00:40 -0500'
+body: |
+  <p><a href="http://www.epicponyz.com/2010/06/e3-star-wars-old-republic.html">E3: Star Wars: The Old Republic</a></p>
+---

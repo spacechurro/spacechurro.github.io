@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1201
+wordpress_url: http://noesbueno.com/archives/1201
+date: '2011-07-29 18:01:17 -0500'
+date_gmt: '2011-07-29 23:01:17 -0500'
+body: |
+  <p><a href="http://kottke.org/11/07/super-freaky-dancing-squid-dish">Super freaky dancing squid dish</a></p>
+---

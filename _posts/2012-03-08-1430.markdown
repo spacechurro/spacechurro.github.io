@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1430
+wordpress_url: http://noesbueno.com/archives/1430
+date: '2012-03-08 13:07:13 -0600'
+date_gmt: '2012-03-08 18:07:13 -0600'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2012/03/fresh-guacamole/">Fresh Guacamole</a></p>
+---

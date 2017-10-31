@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1465
+wordpress_url: http://noesbueno.com/archives/1465
+date: '2012-05-12 13:48:15 -0500'
+date_gmt: '2012-05-12 18:48:15 -0500'
+body: |
+  <p><a href="http://www.fecalface.com/SF/index.php/good-stuff/4384-six-months-in-the-merchant-marine">Six Months In The Merchant Marine</a></p>
+---

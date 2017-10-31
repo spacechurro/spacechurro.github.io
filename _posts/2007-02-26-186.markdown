@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 186
+wordpress_url: http://noesbueno.com/archives/186
+date: '2007-02-26 22:33:11 -0600'
+date_gmt: '2007-02-27 03:33:11 -0600'
+body: |
+  <p><a href="http://www.uncrate.com/men/gear/office/star-wars-r2d2-trashcan-009587.php">R2-D2 Trashcan</a></p>
+---

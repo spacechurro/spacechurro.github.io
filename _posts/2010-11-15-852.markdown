@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 852
+wordpress_url: http://noesbueno.com/?p=852
+date: '2010-11-15 11:27:27 -0600'
+date_gmt: '2010-11-15 16:27:27 -0600'
+body: |
+  <p><a href="http://www.illegal-art.net/allday/">The new Girl Talk album, All Day, is out and available for free.</a> <span class="via">(via <a href="http://thedailywh.at">the daily what</a>)</span></p>
+---

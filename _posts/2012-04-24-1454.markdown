@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1454
+wordpress_url: http://noesbueno.com/archives/1454
+date: '2012-04-24 11:09:52 -0500'
+date_gmt: '2012-04-24 16:09:52 -0500'
+body: |
+  <p><a href="http://kottke.org/12/04/super-mario-bros-the-abridged-version">Super Mario Bros, the abridged version</a></p>
+---

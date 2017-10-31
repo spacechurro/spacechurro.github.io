@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 135
+wordpress_url: http://noesbueno.com/archives/135
+date: '2006-06-29 12:26:11 -0500'
+date_gmt: '2006-06-29 17:26:11 -0500'
+body: |
+  <p><a href="http://www.cs.unm.edu/~dlchao/flake/doom/">Doom as a tool for system administration.</a>Â  Every process spawns a soldier.Â  Kill the solider to kill his associated process.</p>
+---

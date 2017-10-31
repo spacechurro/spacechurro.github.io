@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1499
+wordpress_url: http://noesbueno.com/archives/1499
+date: '2012-07-03 10:12:32 -0500'
+date_gmt: '2012-07-03 15:12:32 -0500'
+body: |
+  <p><a href="http://kottke.org/12/07/bill-clinton-playing-m83">Bill Clinton playing M83</a></p>
+---

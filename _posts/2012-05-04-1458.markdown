@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1458
+wordpress_url: http://noesbueno.com/archives/1458
+date: '2012-05-04 15:17:01 -0500'
+date_gmt: '2012-05-04 20:17:01 -0500'
+body: |
+  <p><a href="http://culturepopped.blogspot.com/2012/04/whats-inside-ears-of-batmans-cowl.html">What's Inside The Ears Of Batman's Cowl?</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 675
+wordpress_url: http://noesbueno.com/?p=675
+date: '2010-06-17 12:29:06 -0500'
+date_gmt: '2010-06-17 17:29:06 -0500'
+body: |
+  <p><a href="http://adage.com/article?article_id=144493">We had a good run Bros.</a> - Smirnoff kills brosicingbros.com <span class="via">(via <a href="http://www.thehighdefinite.com/">thehighdefinite</a>)</span></p>
+---

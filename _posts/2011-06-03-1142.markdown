@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1142
+wordpress_url: http://noesbueno.com/archives/1142
+date: '2011-06-03 13:01:13 -0500'
+date_gmt: '2011-06-03 18:01:13 -0500'
+body: |
+  <p><a href="http://www.absolut-ism.com/?p=4140">TiRon &amp; Ayomari ??? T &amp; A (Mixtape)</a></p>
+---

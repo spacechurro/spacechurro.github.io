@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 50
+wordpress_url: http://noesbueno.com/archives/50
+date: '2006-01-03 17:30:34 -0600'
+date_gmt: '2006-01-03 22:30:34 -0600'
+body: |
+  <p>this <a href="http://www.cynical-c.com/archives/2006_01.html#004323">blonde joke</a> had me rollin...</p>
+---

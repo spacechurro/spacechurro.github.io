@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 225
+wordpress_url: http://noesbueno.com/archives/225
+date: '2008-01-18 08:46:18 -0600'
+date_gmt: '2008-01-18 13:46:18 -0600'
+body: |
+  <p><a href="http://glumbert.com/media/wherehitler">Where the Hitler at?</a> <span class="via">(via pump boy lee)</span></p>
+---

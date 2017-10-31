@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 68
+wordpress_url: http://noesbueno.com/?p=68
+date: '2006-02-08 17:44:00 -0600'
+date_gmt: '2006-02-08 22:44:00 -0600'
+body: |
+  <p><a href="http://www.pistolwimp.com/media/40930/">Toei Japanese Spiderman</a> - You can't beat cyborg lizard monster things. <span class="via">(via <a href="http://www.airbagindustries.com">Airbag</a>)</span></p>
+---

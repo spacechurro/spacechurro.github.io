@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 31
+wordpress_url: http://noesbueno.com/?p=31
+date: '2005-11-30 17:58:31 -0600'
+date_gmt: '2005-11-30 22:58:31 -0600'
+body: |
+  <p><a href="http://www.psychologytoday.com/articles/pto-19990501-000014.html">Why we sometimes wake up a minute before the alarm rings</a></p>
+---

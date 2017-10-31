@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 46
+wordpress_url: http://noesbueno.com/archives/46
+date: '2005-12-15 17:26:27 -0600'
+date_gmt: '2005-12-15 22:26:27 -0600'
+body: |
+  <p>How to <a href="http://www.joystiq.com/videos/striker-2m.wmv">rack up 2.1 million points</a> in Geometry Wars for the xbox 360. <span class="via">(via <a href="http://www.joystiq.com">joystiq</a>)</span></p>
+---

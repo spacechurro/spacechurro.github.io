@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1096
+wordpress_url: http://noesbueno.com/archives/1096
+date: '2011-04-14 11:00:49 -0500'
+date_gmt: '2011-04-14 16:00:49 -0500'
+body: |
+  <p><a href="http://cooleycooley.blogspot.com/2011/04/scooby-doo-cooley-episodes.html">Scooby Doo: The COOLEY! episodes</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1569
+wordpress_url: http://noesbueno.com/archives/1569
+date: '2013-01-12 11:53:41 -0600'
+date_gmt: '2013-01-12 16:53:41 -0600'
+body: |
+  <p><a href="http://blog.turntablelab.com/prince-klassen/2013/01/introducing-brkft-club-julian-malone/">Introducing: BRKF$T Club / Julian Malone</a></p>
+---

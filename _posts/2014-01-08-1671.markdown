@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1671
+wordpress_url: http://noesbueno.com/archives/1671
+date: '2014-01-08 18:24:05 -0600'
+date_gmt: '2014-01-08 23:24:05 -0600'
+body: |
+  <p><a href="http://vimeo.com/83498102">One Minute in Mexico</a></p>
+---

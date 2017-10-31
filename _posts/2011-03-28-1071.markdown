@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1071
+wordpress_url: http://noesbueno.com/archives/1071
+date: '2011-03-28 15:01:05 -0500'
+date_gmt: '2011-03-28 20:01:05 -0500'
+body: |
+  <p><a href="http://feedproxy.google.com/~r/PitchforkLatestNews/~3/kAhTThq8Cl8/">Read the Radiohead Newspaper</a></p>
+---

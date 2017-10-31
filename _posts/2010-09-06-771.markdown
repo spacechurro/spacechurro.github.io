@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 771
+wordpress_url: http://noesbueno.com/archives/771
+date: '2010-09-06 20:59:57 -0500'
+date_gmt: '2010-09-07 01:59:57 -0500'
+body: |
+  <p><a href="http://www.epicponyz.com/2010/09/obese-disney-princesses.html">Obese Disney Princesses</a></p>
+---

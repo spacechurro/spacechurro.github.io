@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 956
+wordpress_url: http://noesbueno.com/archives/956
+date: '2011-01-11 23:00:43 -0600'
+date_gmt: '2011-01-12 04:00:43 -0600'
+body: |
+  <p><a href="http://kottke.org/11/01/photoshop-rap-with-cmykiller">Photoshop rap with CMYKiller</a></p>
+---

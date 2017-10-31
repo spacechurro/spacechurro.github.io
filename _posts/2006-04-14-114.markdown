@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 114
+wordpress_url: http://noesbueno.com/archives/114
+date: '2006-04-14 10:19:46 -0500'
+date_gmt: '2006-04-14 15:19:46 -0500'
+body: |
+  <p><a href="http://www.youtube.com/watch?v=UQakz9-kvfI&search=ghostface%20doomv">Dangerdoom video for 'The Mask' featuring the ultimate tag team, Santo and Blue Demon.</a></p>
+---

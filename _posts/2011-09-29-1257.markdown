@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1257
+wordpress_url: http://noesbueno.com/archives/1257
+date: '2011-09-29 13:02:51 -0500'
+date_gmt: '2011-09-29 18:02:51 -0500'
+body: |
+  <p><a href="http://culturepopped.blogspot.com/2011/09/we-named-dog-indiana.html">We Named The DOG Indiana!</a></p>
+---

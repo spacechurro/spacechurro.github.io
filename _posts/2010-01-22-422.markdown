@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 422
+wordpress_url: http://noesbueno.com/archives/422
+date: '2010-01-22 18:59:45 -0600'
+date_gmt: '2010-01-22 23:59:45 -0600'
+body: |
+  <p><a href="http://lifehacker.com/5454709/replace-your-lost-cellphone-charger-for-free">Replace Your Lost Cellphone Charger for Free</a></p>
+---

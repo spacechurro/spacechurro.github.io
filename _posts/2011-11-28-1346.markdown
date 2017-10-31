@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1346
+wordpress_url: http://noesbueno.com/archives/1346
+date: '2011-11-28 18:42:14 -0600'
+date_gmt: '2011-11-28 23:42:14 -0600'
+body: |
+  <p><a href="http://blog.turntablelab.com/ph/2011/11/my-goal-of-the-year/">my goal of the year</a></p>
+---

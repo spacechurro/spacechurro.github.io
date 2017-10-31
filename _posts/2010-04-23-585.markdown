@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 585
+wordpress_url: http://noesbueno.com/archives/585
+date: '2010-04-23 17:01:08 -0500'
+date_gmt: '2010-04-23 22:01:08 -0500'
+body: |
+  <p><a href="http://kottke.org/10/04/today-only-99-dna-test">Today only: $99 DNA test</a></p>
+---

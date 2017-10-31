@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 857
+wordpress_url: http://noesbueno.com/archives/857
+date: '2010-11-17 20:00:58 -0600'
+date_gmt: '2010-11-18 01:00:58 -0600'
+body: |
+  <p><a href="http://io9.com/5691060/spacetime-invisibility-cloaks-can-hide-entire-events-inside-temporal-voids">Spacetime invisibility cloaks can hide entire events inside temporal voids [Superpowers]</a></p>
+---

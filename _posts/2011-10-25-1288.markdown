@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1288
+wordpress_url: http://noesbueno.com/archives/1288
+date: '2011-10-25 17:03:29 -0500'
+date_gmt: '2011-10-25 22:03:29 -0500'
+body: |
+  <p><a href="http://www.nest.com/">Nest</a></p>
+---

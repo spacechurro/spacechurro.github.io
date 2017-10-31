@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1777
+wordpress_url: http://noesbueno.com/archives/1777
+date: '2015-05-06 22:02:59 -0500'
+date_gmt: '2015-05-07 03:02:59 -0500'
+body: |
+  <p><a href="https://www.youtube.com/watch?v=n8yAfHU-0JI&list=PLthKojOtRS30fUV6Q_ruQJwWQlORJ57P4">Super Dino Boys</a></p>
+---

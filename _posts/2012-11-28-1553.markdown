@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1553
+wordpress_url: http://noesbueno.com/archives/1553
+date: '2012-11-28 10:39:45 -0600'
+date_gmt: '2012-11-28 15:39:45 -0600'
+body: |
+  <p><a href="http://blog.turntablelab.com/hrmmm/2012/11/nosaj-x-daito/">Nosaj x Daito</a></p>
+---

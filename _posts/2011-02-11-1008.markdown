@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1008
+wordpress_url: http://noesbueno.com/archives/1008
+date: '2011-02-11 19:00:08 -0600'
+date_gmt: '2011-02-12 00:00:08 -0600'
+body: |
+  <p><a href="http://www.lostateminor.com/2011/02/11/argentinian-street-artist-pum-pum/">Argentinian street artist Pum Pum</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 598
+wordpress_url: http://noesbueno.com/archives/598
+date: '2010-05-05 19:00:22 -0500'
+date_gmt: '2010-05-06 00:00:22 -0500'
+body: |
+  <p><a href="http://kottke.org/10/05/nevermind-baby-shepard-fairey">The Nevermind baby works for the Obama poster guy</a></p>
+---

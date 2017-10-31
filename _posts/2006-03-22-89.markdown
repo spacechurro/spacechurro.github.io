@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 89
+wordpress_url: http://noesbueno.com/archives/89
+date: '2006-03-22 17:23:02 -0600'
+date_gmt: '2006-03-22 22:23:02 -0600'
+body: |
+  <p>Bug Eyed Monster has some <a href="http://www.bugeyedmonster.com/art.shtml">nice wallpapers</a>.  My favorite is the one with <a href="http://www.bugeyedmonster.com/desktops/movies/bigtroublelittlechina.jpg">Lo Pan</a>.</p>
+---

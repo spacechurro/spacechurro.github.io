@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 862
+wordpress_url: http://noesbueno.com/archives/862
+date: '2010-11-19 01:00:56 -0600'
+date_gmt: '2010-11-19 06:00:56 -0600'
+body: |
+  <p><a href="http://feedproxy.google.com/~r/wondertonic/~3/uODcYYZ8iq0/1615669113">Check Out What's New On Friendster!</a></p>
+---

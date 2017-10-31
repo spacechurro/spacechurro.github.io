@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 206
+wordpress_url: http://noesbueno.com/archives/206
+date: '2007-08-14 21:54:06 -0500'
+date_gmt: '2007-08-15 02:54:06 -0500'
+body: |
+  <p><a href="http://www.woostercollective.com/2007/08/the_red_guys_take_on_the_green_guys.html">The Red Guys Take On The Green Guys</a></p>
+---

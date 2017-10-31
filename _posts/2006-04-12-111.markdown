@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 111
+wordpress_url: http://noesbueno.com/archives/111
+date: '2006-04-12 17:51:39 -0500'
+date_gmt: '2006-04-12 22:51:39 -0500'
+body: |
+  <p><a href="http://www.woostercollective.com/2006/04/secret_friends.html">Caper puts posters up around town of his friends for them to find when they're going about their bidness.</a></p>
+---

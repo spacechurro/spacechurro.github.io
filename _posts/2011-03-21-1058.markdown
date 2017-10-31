@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1058
+wordpress_url: http://noesbueno.com/archives/1058
+date: '2011-03-21 12:59:26 -0500'
+date_gmt: '2011-03-21 17:59:26 -0500'
+body: |
+  <p><a href="http://culturepopped.blogspot.com/2011/03/cross-stitch-pop-culture.html">Cross Stitch Pop Culture</a></p>
+---

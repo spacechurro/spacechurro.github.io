@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1450
+wordpress_url: http://noesbueno.com/archives/1450
+date: '2012-04-16 19:33:20 -0500'
+date_gmt: '2012-04-17 00:33:20 -0500'
+body: |
+  <p><a href="http://kottke.org/12/04/valve-softwares-usual-approach-to-building-a-creative-business">Valve Software's usual approach to building a creative business</a></p>
+---

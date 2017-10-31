@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 611
+wordpress_url: http://noesbueno.com/archives/611
+date: '2010-05-12 22:55:37 -0500'
+date_gmt: '2010-05-13 03:55:37 -0500'
+body: |
+  <p><a href="http://www.flickr.com/photos/notocajrs/4364378230/">This could have been the cover for the new Radio Dept. album.</a> </p>
+---

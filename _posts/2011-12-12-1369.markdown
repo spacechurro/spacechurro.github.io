@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1369
+wordpress_url: http://noesbueno.com/archives/1369
+date: '2011-12-12 12:18:53 -0600'
+date_gmt: '2011-12-12 17:18:53 -0600'
+body: |
+  <p><a href="http://kottke.org/11/12/sherlock-returns-in-january">Sherlock returns in January</a></p>
+---

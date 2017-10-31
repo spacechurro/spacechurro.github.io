@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 452
+wordpress_url: http://noesbueno.com/archives/452
+date: '2010-02-03 19:59:23 -0600'
+date_gmt: '2010-02-04 00:59:23 -0600'
+body: |
+  <p><a href="http://www.technologyreview.com/blog/arxiv/24759/">Physicist Discovers How to Teleport Energy</a></p>
+---

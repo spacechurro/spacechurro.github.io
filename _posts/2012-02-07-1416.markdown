@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1416
+wordpress_url: http://noesbueno.com/archives/1416
+date: '2012-02-07 15:51:39 -0600'
+date_gmt: '2012-02-07 20:51:39 -0600'
+body: |
+  <p><a href="http://feeds.coolhunting.com/~r/ch/~3/srPbo59qyLo/bourbon-barrel-foods.php">Bourbon Barrel Foods</a></p>
+---

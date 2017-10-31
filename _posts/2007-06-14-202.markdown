@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 202
+wordpress_url: http://noesbueno.com/archives/202
+date: '2007-06-14 22:08:43 -0500'
+date_gmt: '2007-06-15 03:08:43 -0500'
+body: |
+  <p><a href="http://badspock.blogspot.com/">bad spock drawings</a></p>
+---

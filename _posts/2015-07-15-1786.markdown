@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1786
+wordpress_url: http://noesbueno.com/archives/1786
+date: '2015-07-15 22:13:08 -0500'
+date_gmt: '2015-07-16 03:13:08 -0500'
+body: |
+  <p><a href="https://github.com/tessalt/echo-chamber-js">Echochamber.js</a></p>
+---

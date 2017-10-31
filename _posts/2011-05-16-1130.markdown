@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1130
+wordpress_url: http://noesbueno.com/?p=1130
+date: '2011-05-16 17:07:56 -0500'
+date_gmt: '2011-05-16 22:07:56 -0500'
+body: |
+  <p><a href="http://launch.is/blog/l019-bitcoin-p2p-currency-the-most-dangerous-project-weve-ev.html">Jason Calacanis on BitCoin</a> <span class="via">(via <a href="http://waxy.org/">waxy!</a>)</span></p>
+---

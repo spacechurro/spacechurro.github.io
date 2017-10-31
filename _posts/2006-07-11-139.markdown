@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 139
+wordpress_url: http://noesbueno.com/archives/139
+date: '2006-07-11 18:17:56 -0500'
+date_gmt: '2006-07-11 23:17:56 -0500'
+body: |
+  <p><a href="http://www.dashes.com/anil/2006/07/11/zidane_world_cu">Zidane World Cup Headbutt Animation Festival</a> <span class="via">(via <a href="http://www.waxy.org">waxy</a>)</span></p>
+---

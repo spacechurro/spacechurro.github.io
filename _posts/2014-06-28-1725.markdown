@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1725
+wordpress_url: http://noesbueno.com/?p=1725
+date: '2014-06-28 22:47:57 -0500'
+date_gmt: '2014-06-29 03:47:57 -0500'
+body: |
+  <p><a href="https://www.youtube.com/watch?v=a9KZ3jgbbmI">Fireworks filmed with a drone</a> - Is this what people watch when they're high nowadays?  </p>
+---

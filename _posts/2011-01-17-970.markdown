@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 970
+wordpress_url: http://noesbueno.com/?p=970
+date: '2011-01-17 11:13:42 -0600'
+date_gmt: '2011-01-17 16:13:42 -0600'
+body: |
+  <p><a href="http://chemicaljump.com/2011/01/14/tokimonsta-mileenas-theme/">Tokimonsta does Mileena's theme for upcoming Mortal Kombat album.</a> Her Midnight Menu album is good stuff.</p>
+---

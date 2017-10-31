@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 90
+wordpress_url: http://noesbueno.com/archives/90
+date: '2006-03-23 17:18:42 -0600'
+date_gmt: '2006-03-23 22:18:42 -0600'
+body: |
+  <p><a href="http://www.apple.com/trailers/fox_searchlight/littlemisssunshine/trailer/">Little Miss Sunshine trailer</a> - and so begins an era of arrested development-style tv shows and movies.  I'm just glad we're out of the natural disaster phase. </p>
+---

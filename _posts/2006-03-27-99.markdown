@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 99
+wordpress_url: http://noesbueno.com/archives/99
+date: '2006-03-27 20:58:53 -0600'
+date_gmt: '2006-03-28 01:58:53 -0600'
+body: |
+  <p><a href="http://www.youtube.com/profile_videos?user=ArtieTSMITW">Brandon Hardesty re-enacts movie scenes by himself</a>.  His renditions are excellent.</p>
+---

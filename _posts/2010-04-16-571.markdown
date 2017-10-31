@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 571
+wordpress_url: http://noesbueno.com/archives/571
+date: '2010-04-16 17:57:20 -0500'
+date_gmt: '2010-04-16 22:57:20 -0500'
+body: |
+  <p><a href="http://hackaday.com/2010/03/25/polaroid-instant-film-reborn/">Polaroid instant film, reborn.</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1411
+wordpress_url: http://noesbueno.com/?p=1411
+date: '2012-02-07 10:09:48 -0600'
+date_gmt: '2012-02-07 15:09:48 -0600'
+body: |
+  <p><a href="http://officialhomework.tumblr.com/post/17027441277/the-trailblazing-force-behind-the-emergence-of">Yellow Magic Orchestra - Behind The Mask</a> -  This is like 80s hair salon art come to life.</p>
+---

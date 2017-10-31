@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 159
+wordpress_url: http://noesbueno.com/archives/159
+date: '2006-11-16 09:23:57 -0600'
+date_gmt: '2006-11-16 14:23:57 -0600'
+body: |
+  <p><a href="http://www.youtube.com/watch?v=IklKX_lm27I">mexican robocop</a> <span class="via">(via bernardino pan y vino)</span></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 73
+wordpress_url: http://noesbueno.com/?p=73
+date: '2006-02-10 17:14:26 -0600'
+date_gmt: '2006-02-10 22:14:26 -0600'
+body: |
+  <p><a href="http://www.youtube.com/w/Touch-The-Sky?v=dcmWzK0pmLY&">Kanye West's 'Touch the Sky" video</a> <span class="via">(via <a href="http://www.coudal.com">Coudal</a>)</span></p>
+---

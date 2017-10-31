@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 707
+wordpress_url: http://noesbueno.com/archives/707
+date: '2010-07-07 10:00:27 -0500'
+date_gmt: '2010-07-07 15:00:27 -0500'
+body: |
+  <p><a href="http://cooleycooley.blogspot.com/2010/07/let-me-tell-you-something-inappropriate.html">"Let me tell you something (inappropriate), pendejo....."</a></p>
+---

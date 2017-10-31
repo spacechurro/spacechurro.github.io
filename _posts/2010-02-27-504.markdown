@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 504
+wordpress_url: http://noesbueno.com/archives/504
+date: '2010-02-27 23:58:39 -0600'
+date_gmt: '2010-02-28 04:58:39 -0600'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2010/02/epic-beard-mans-punchout/">Epic Beard Man's Punchout</a></p>
+---

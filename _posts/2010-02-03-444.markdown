@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 444
+wordpress_url: http://noesbueno.com/archives/444
+date: '2010-02-03 10:09:06 -0600'
+date_gmt: '2010-02-03 15:09:06 -0600'
+body: |
+  <p><a href="http://feedproxy.google.com/~r/nymag/vulture/~3/0Udj6aX1pi8/and_now_the_iranian_movie_adap.html">The Iranian Film Adaptation of Franny and Zooey That J.D. Salinger Didn't Want You to See</a></p>
+---

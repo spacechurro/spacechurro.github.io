@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 993
+wordpress_url: http://noesbueno.com/archives/993
+date: '2011-02-04 14:00:12 -0600'
+date_gmt: '2011-02-04 19:00:12 -0600'
+body: |
+  <p><a href="http://soupsoup.tumblr.com/post/3106578250">NBC Fires Guy Who Posted The Bryant Gumbel/Katie Couric 'What Is Internet' Video</a></p>
+---

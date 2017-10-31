@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1711
+wordpress_url: http://noesbueno.com/archives/1711
+date: '2014-05-08 21:42:02 -0500'
+date_gmt: '2014-05-09 02:42:02 -0500'
+body: |
+  <p><a href="http://kottke.org/14/05/how-to-build-a-time-machine-1">How to Build a Time Machine</a></p>
+---

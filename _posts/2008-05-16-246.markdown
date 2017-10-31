@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 246
+wordpress_url: http://noesbueno.com/archives/246
+date: '2008-05-16 07:48:46 -0500'
+date_gmt: '2008-05-16 12:48:46 -0500'
+body: |
+  <p><a href="http://tpmcafe.talkingpointsmemo.com/talk/2008/05/i-lieutenant-worf-endorse-bara.php">Lt. Worf endorses Obama</a></p>
+---

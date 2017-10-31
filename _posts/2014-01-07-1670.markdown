@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1670
+wordpress_url: http://noesbueno.com/archives/1670
+date: '2014-01-07 23:23:43 -0600'
+date_gmt: '2014-01-08 04:23:43 -0600'
+body: |
+  <p><a href="http://kk.org/cooltools/archives/13780">Butterick's Practical Typography</a></p>
+---

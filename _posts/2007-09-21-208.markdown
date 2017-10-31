@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 208
+wordpress_url: http://noesbueno.com/archives/208
+date: '2007-09-21 14:55:35 -0500'
+date_gmt: '2007-09-21 19:55:35 -0500'
+body: |
+  <p><a href="http://www.papelcontinuo.net/523/musica-francesa-de-los-60-para-descargar/">Papel Continuo</a> has a couple of links to some nice French pop from the 60s. The post is in Spanish, so just look for links next to the word 'Descargar'.</p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 982
+wordpress_url: http://noesbueno.com/archives/982
+date: '2011-01-24 18:00:35 -0600'
+date_gmt: '2011-01-24 23:00:35 -0600'
+body: |
+  <p><a href="http://blog.signalnoise.com/2011/01/23/the-art-of-kilian-eng/">The art of Kilian Eng</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1408
+wordpress_url: http://noesbueno.com/archives/1408
+date: '2012-01-27 11:38:02 -0600'
+date_gmt: '2012-01-27 16:38:02 -0600'
+body: |
+  <p><a href="http://feedproxy.google.com/~r/37signals/beMH/~3/rRn74zE_6Ac/3090-basecamp-nexts-caching-hardware">Basecamp Next's caching hardware</a></p>
+---

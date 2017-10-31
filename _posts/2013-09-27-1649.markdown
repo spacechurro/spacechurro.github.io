@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1649
+wordpress_url: http://noesbueno.com/?p=1649
+date: '2013-09-27 14:08:30 -0500'
+date_gmt: '2013-09-27 19:08:30 -0500'
+body: |
+  <p><a href="http://www.youtube.com/watch?v=ZF2lZesYZo0">Jessy Lanza - Kathy Lee</a>  Currently on repeat.  I think this is the kind of music I would want to listen to all the time if I were Acid Burn in Hackers.</p>
+---

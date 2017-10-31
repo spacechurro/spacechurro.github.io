@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 137
+wordpress_url: http://noesbueno.com/archives/137
+date: '2006-07-05 23:07:29 -0500'
+date_gmt: '2006-07-06 04:07:29 -0500'
+body: |
+  <p><a href="http://moo.d1tv.net/index.html">Moo & Oink</a> ran a contest for a new jingle.  The entries were stupendous.  <a href="http://moo.d1tv.net/promotions/jingle_winners.html">The "Put it in my mouth" one is the best by far.</a> <span class="via">(via <a href="http://www.gapersblock.com/">Gapers Block</a>)</span><a href="http://moo.d1tv.net/promotions/jingle_winners.html">  </a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1091
+wordpress_url: http://noesbueno.com/archives/1091
+date: '2011-04-07 14:24:48 -0500'
+date_gmt: '2011-04-07 19:24:48 -0500'
+body: |
+  <p><a href="http://blog.beastieboys.com/post/4420469387/heres-the-trailer-for-the-long-ass-video-thing">The trailer for Beastie Boys short film is out.</a>  I like it.</p>
+---

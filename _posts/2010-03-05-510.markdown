@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 510
+wordpress_url: http://noesbueno.com/archives/510
+date: '2010-03-05 00:58:33 -0600'
+date_gmt: '2010-03-05 05:58:33 -0600'
+body: |
+  <p><a href="http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2010/03/01/BAK21C9544.DTL">Company reaps $25,000,000 hacking TicketMaster &amp; others . . .</a></p>
+---

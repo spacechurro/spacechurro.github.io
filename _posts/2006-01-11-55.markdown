@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 55
+wordpress_url: http://noesbueno.com/archives/55
+date: '2006-01-11 17:22:40 -0600'
+date_gmt: '2006-01-11 22:22:40 -0600'
+body: |
+  <p><a href="http://www.iheartpixels.com">i heart pixels</a> - a new site from <a href="http://www.dieselsweeties.com">diesel sweeties</a> creator, Richard Stevens.</p>
+---

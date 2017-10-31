@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 140
+wordpress_url: http://noesbueno.com/archives/140
+date: '2006-07-21 17:31:57 -0500'
+date_gmt: '2006-07-21 22:31:57 -0500'
+body: |
+  <p><a href="http://www.woostercollective.com/2006/07/amazing_car_dust_art.html">Car Dust Art.</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 799
+wordpress_url: http://noesbueno.com/archives/799
+date: '2010-10-05 17:48:35 -0500'
+date_gmt: '2010-10-05 22:48:35 -0500'
+body: |
+  <p><a href="http://www.whatevs.net/post/1250309061/it-takes-a-village">Three Men</a></p>
+---

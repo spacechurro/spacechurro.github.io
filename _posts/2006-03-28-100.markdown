@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 100
+wordpress_url: http://noesbueno.com/archives/100
+date: '2006-03-28 17:26:59 -0600'
+date_gmt: '2006-03-28 22:26:59 -0600'
+body: |
+  <p><a href="http://www3.ocn.ne.jp/~tenmyoya/">Hisashi Tenmyouya's illustrations</a> mix traditional Japanese style with modern ideas and images.  I like this <a href="http://www3.ocn.ne.jp/~tenmyoya/art_new/shinki1.html">fighting game painting</a> on gold leaf. <span class="via">(via <a href="http://drawn.ca/">Drawn!</a>)</span></p>
+---

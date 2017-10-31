@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 679
+wordpress_url: http://noesbueno.com/archives/679
+date: '2010-06-18 19:00:36 -0500'
+date_gmt: '2010-06-19 00:00:36 -0500'
+body: |
+  <p><a href="http://lifehacker.com/5567258/googlecl-brings-google-services-to-the-command-line">GoogleCL Brings Google Services to the Command Line [Downloads]</a></p>
+---

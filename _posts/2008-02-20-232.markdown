@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 232
+wordpress_url: http://noesbueno.com/archives/232
+date: '2008-02-20 12:07:04 -0600'
+date_gmt: '2008-02-20 17:07:04 -0600'
+body: |
+  <p><a href="http://www.youtube.com/watch?v=Ix081prSiNc">Let's ram it!</a> <span class="via">(via ttl <a href="http://blog.turntablelab.com/">estoy con estupido</a>)</span></p>
+---

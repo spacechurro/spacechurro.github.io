@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1190
+wordpress_url: http://noesbueno.com/archives/1190
+date: '2011-07-24 21:00:46 -0500'
+date_gmt: '2011-07-25 02:00:46 -0500'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2011/07/cowboys-freddiew-ft-jon-favreau/">Cowboys &amp; FreddieW (Ft. Jon Favreau)</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 584
+wordpress_url: http://noesbueno.com/archives/584
+date: '2010-04-23 17:01:05 -0500'
+date_gmt: '2010-04-23 22:01:05 -0500'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2010/04/statik-selektahs-2-hour-guru-tribute/">Statik Selektah's 2 Hour Guru Tribute</a></p>
+---

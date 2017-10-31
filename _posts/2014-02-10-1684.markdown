@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1684
+wordpress_url: http://noesbueno.com/archives/1684
+date: '2014-02-10 18:58:17 -0600'
+date_gmt: '2014-02-10 23:58:17 -0600'
+body: |
+  <p><a href="http://kottke.org/14/02/the-motorbike-girl-gangs-of-morocco">The motorbike girl gangs of Morocco</a></p>
+---

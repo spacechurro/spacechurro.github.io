@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 878
+wordpress_url: http://noesbueno.com/archives/878
+date: '2010-11-26 13:00:53 -0600'
+date_gmt: '2010-11-26 18:00:53 -0600'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2010/11/kids-pull-off-the-darndest-victories/">Kids Pull Off The Darndest Victories</a></p>
+---

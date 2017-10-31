@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 173
+wordpress_url: http://noesbueno.com/archives/173
+date: '2006-12-15 10:53:03 -0600'
+date_gmt: '2006-12-15 15:53:03 -0600'
+body: |
+  <p><a href="http://blogsarefordogs.com/?p=281">The Best Music Videos of 2006</a> - The video for 'Cheated Hearts' is superb.</p>
+---

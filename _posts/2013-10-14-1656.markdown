@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1656
+wordpress_url: http://noesbueno.com/archives/1656
+date: '2013-10-14 22:18:22 -0500'
+date_gmt: '2013-10-15 03:18:22 -0500'
+body: |
+  <p><a href="http://youtube.com/watch?v=zMc25iLrpE8">El mejor D.J. de Rioverde, S. L. P.</a></p>
+---

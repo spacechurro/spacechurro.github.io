@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 324
+wordpress_url: http://noesbueno.com/archives/324
+date: '2009-10-26 22:21:30 -0500'
+date_gmt: '2009-10-27 03:21:30 -0500'
+body: |
+  <p><a href="http://www.ilovelocalcommercials.com">I Love Local Commercials</a></p>
+---

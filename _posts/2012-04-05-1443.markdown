@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1443
+wordpress_url: http://noesbueno.com/archives/1443
+date: '2012-04-05 12:58:38 -0500'
+date_gmt: '2012-04-05 17:58:38 -0500'
+body: |
+  <p><a href="http://kottke.org/12/04/arsenic-and-old-poultry">Arsenic and old poultry</a></p>
+---

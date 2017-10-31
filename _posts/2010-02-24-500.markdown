@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 500
+wordpress_url: http://noesbueno.com/archives/500
+date: '2010-02-24 09:59:12 -0600'
+date_gmt: '2010-02-24 14:59:12 -0600'
+body: |
+  <p><a href="http://kottke.org/10/02/bob-dylan-sings-mama-said-knock-you-out">Bob Dylan sings Mama Said Knock You Out</a></p>
+---

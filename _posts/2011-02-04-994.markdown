@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 994
+wordpress_url: http://noesbueno.com/archives/994
+date: '2011-02-04 15:00:22 -0600'
+date_gmt: '2011-02-04 20:00:22 -0600'
+body: |
+  <p><a href="http://kottke.org/11/02/noteslate">NoteSlate</a></p>
+---

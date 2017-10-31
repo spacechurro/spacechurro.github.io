@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1628
+wordpress_url: http://noesbueno.com/?p=1628
+date: '2013-07-24 16:50:39 -0500'
+date_gmt: '2013-07-24 21:50:39 -0500'
+body: |
+  <p><a href="http://fnk4.wordpress.com/2009/09/16/doc-delay-eastern-block-party-2008-mixtape/">Doc Delay - Eastern Block Party [2008]</a>.   "On Eastern Block Party, Delay uses 1970s hard rock albums from Czechoslovakia, Poland, Hungary and other Eastern European countries (Eastern Bloc/Block, get it?) as sonic fodder for a series of rap remixes. "  WTF?  I'm impressed.</p>
+---

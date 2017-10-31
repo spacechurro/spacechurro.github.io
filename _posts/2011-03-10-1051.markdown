@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1051
+wordpress_url: http://noesbueno.com/archives/1051
+date: '2011-03-10 10:59:47 -0600'
+date_gmt: '2011-03-10 15:59:47 -0600'
+body: |
+  <p><a href="http://culturepopped.blogspot.com/2011/03/mario-gets-offer-he-cant-refuse.html">Mario Gets An Offer He Can't Refuse</a></p>
+---

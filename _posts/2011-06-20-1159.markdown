@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1159
+wordpress_url: http://noesbueno.com/archives/1159
+date: '2011-06-20 09:01:05 -0500'
+date_gmt: '2011-06-20 14:01:05 -0500'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2011/06/kid-breakdancers-for-american-apparel/">Kid Breakdancers For American Apparel</a></p>
+---

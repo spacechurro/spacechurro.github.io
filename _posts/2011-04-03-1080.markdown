@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1080
+wordpress_url: http://noesbueno.com/archives/1080
+date: '2011-04-03 21:01:09 -0500'
+date_gmt: '2011-04-04 02:01:09 -0500'
+body: |
+  <p><a href="http://willzone.tumblr.com/post/4238184029">this has happened to me when texting my folks.</a></p>
+---

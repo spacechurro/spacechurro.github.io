@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1081
+wordpress_url: http://noesbueno.com/archives/1081
+date: '2011-04-03 21:01:11 -0500'
+date_gmt: '2011-04-04 02:01:11 -0500'
+body: |
+  <p><a href="http://www.marriedtothesea.com/040211">ultrasound a look inside the body</a></p>
+---

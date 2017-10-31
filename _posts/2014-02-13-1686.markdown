@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1686
+wordpress_url: http://noesbueno.com/archives/1686
+date: '2014-02-13 16:29:19 -0600'
+date_gmt: '2014-02-13 21:29:19 -0600'
+body: |
+  <p><a href="http://blog.turntablelab.com/prince-klassen/2014/02/dear-dilla-by-phife-dawg/">Dear Dilla by Phife Dawg</a></p>
+---

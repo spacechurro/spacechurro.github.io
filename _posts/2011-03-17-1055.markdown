@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1055
+wordpress_url: http://noesbueno.com/archives/1055
+date: '2011-03-17 13:59:28 -0500'
+date_gmt: '2011-03-17 18:59:28 -0500'
+body: |
+  <p><a href="http://www.thehoodinternet.com/2011/03/warren-g-nate-dogg-vs-toro-y-moi.html">WARREN G &amp; NATE DOGG vs TORO Y MOI</a></p>
+---

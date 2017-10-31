@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 229
+wordpress_url: http://noesbueno.com/archives/229
+date: '2008-01-26 13:11:46 -0600'
+date_gmt: '2008-01-26 18:11:46 -0600'
+body: |
+  <p><a href="http://www.coolhunting.com/archives/2008/01/monome.php">Oh Monome, you so crazy.</a></p>
+---

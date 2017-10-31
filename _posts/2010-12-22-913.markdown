@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 913
+wordpress_url: http://noesbueno.com/archives/913
+date: '2010-12-22 19:01:29 -0600'
+date_gmt: '2010-12-23 00:01:29 -0600'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2010/12/home-is-where-the-heart-is/">Home Is Where The Heart Is</a></p>
+---

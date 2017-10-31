@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1386
+wordpress_url: http://noesbueno.com/archives/1386
+date: '2011-12-21 11:44:13 -0600'
+date_gmt: '2011-12-21 16:44:13 -0600'
+body: |
+  <p><a href="http://www.whatevs.net/post/14544744446/my-buddy-john-made-these-patron-saints-of-time">Patron Saints of Time Travel</a></p>
+---

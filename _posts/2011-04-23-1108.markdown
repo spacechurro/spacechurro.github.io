@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1108
+wordpress_url: http://noesbueno.com/archives/1108
+date: '2011-04-23 15:52:52 -0500'
+date_gmt: '2011-04-23 20:52:52 -0500'
+body: |
+  <p><a href="http://www.youtube.com/watch?v=tkYs6MMwjLM">The Singer/Song Writer</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 792
+wordpress_url: http://noesbueno.com/archives/792
+date: '2010-09-26 10:59:47 -0500'
+date_gmt: '2010-09-26 15:59:47 -0500'
+body: |
+  <p><a href="http://www.epicponyz.com/2010/09/laundry-day.html">Laundry Day</a></p>
+---

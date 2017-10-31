@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1535
+wordpress_url: http://noesbueno.com/archives/1535
+date: '2012-09-27 19:46:46 -0500'
+date_gmt: '2012-09-28 00:46:46 -0500'
+body: |
+  <p><a href="http://kottke.org/12/09/mario-goes-berserk">Mario goes berserk</a></p>
+---

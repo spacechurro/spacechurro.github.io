@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 72
+wordpress_url: http://noesbueno.com/?p=72
+date: '2006-02-10 17:28:08 -0600'
+date_gmt: '2006-02-10 22:28:08 -0600'
+body: |
+  <p><a href="http://www.channel101.com/shows/show.php?show_id=152">yacht rock</a>  -  telling the story behind the smoothest hits from the 70s and 80s</p>
+---

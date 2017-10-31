@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 151
+wordpress_url: http://noesbueno.com/archives/151
+date: '2006-09-14 05:56:44 -0500'
+date_gmt: '2006-09-14 10:56:44 -0500'
+body: |
+  <p><a href="http://youtube.com/watch?v=MXIzyquw-kc">Architechture in Helsinki video for "Do the Whirlwind"</a> -  It kinda looks like an SNES version of that T & C Surf Design game. (via <a href="http://www.waxy.org">waxy</a>)</p>
+---

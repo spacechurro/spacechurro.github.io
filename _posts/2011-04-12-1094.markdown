@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1094
+wordpress_url: http://noesbueno.com/archives/1094
+date: '2011-04-12 18:00:51 -0500'
+date_gmt: '2011-04-12 23:00:51 -0500'
+body: |
+  <p><a href="http://dfarecords.com/main/archives/1734">murphy???s future days</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 602
+wordpress_url: http://noesbueno.com/archives/602
+date: '2010-05-09 13:00:55 -0500'
+date_gmt: '2010-05-09 18:00:55 -0500'
+body: |
+  <p><a href="http://www.popsci.com/gadgets/article/2010-05/cellphone-robot-dances-cries-and-throws-tantrums">Robots Made Out of Cell Phones Dance, Cry, Throw Tantrums, and Talk to Each Other</a></p>
+---

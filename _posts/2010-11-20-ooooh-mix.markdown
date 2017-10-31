@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 864
+wordpress_url: http://noesbueno.com/?p=864
+date: '2010-11-20 19:54:27 -0600'
+date_gmt: '2010-11-21 00:54:27 -0600'
+body: |
+  <p>Made a mini mix today and I think it turned out decent.  I'm pretty sure the korean tacos in my belly from <a href="http://www.delseoul.com/">Del Seoul</a> helped. <a href="http://soundcloud.com/spacechurro/sergio-ooooh-mix">Download it on SoundCloud</a>.</p>
+---

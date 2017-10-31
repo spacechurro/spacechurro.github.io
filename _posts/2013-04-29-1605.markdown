@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1605
+wordpress_url: http://noesbueno.com/archives/1605
+date: '2013-04-29 14:03:11 -0500'
+date_gmt: '2013-04-29 19:03:11 -0500'
+body: |
+  <p><a href="http://culturepopped.blogspot.com/2013/04/dont-tell-me-what-i-cant-do.html">Don't Tell Me What I Can't Do!</a></p>
+---

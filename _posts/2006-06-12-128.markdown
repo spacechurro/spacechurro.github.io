@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 128
+wordpress_url: http://noesbueno.com/archives/128
+date: '2006-06-12 21:11:40 -0500'
+date_gmt: '2006-06-13 02:11:40 -0500'
+body: |
+  <p><a href="http://www.nytimes.com/2006/06/12/technology/12ring.html?_r=3&oref=slogin&oref=slogin&oref=slogin">Teenagers are starting to use a ringtone thats mostly inaudible to Adults.</a></p>
+---

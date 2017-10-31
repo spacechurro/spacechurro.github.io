@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 734
+wordpress_url: http://noesbueno.com/archives/734
+date: '2010-07-31 12:00:15 -0500'
+date_gmt: '2010-07-31 17:00:15 -0500'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2010/07/the-chairmans-grocery-list/">The Chairman's Grocery List</a></p>
+---

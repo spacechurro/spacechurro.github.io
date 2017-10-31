@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1662
+wordpress_url: http://noesbueno.com/archives/1662
+date: '2013-12-04 15:29:28 -0600'
+date_gmt: '2013-12-04 20:29:28 -0600'
+body: |
+  <p><a href="http://cooleycooley.blogspot.com/2013/11/run-go-git-to-da-new-prints.html">Run! Go! Git to da new prints!</a></p>
+---

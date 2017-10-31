@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 124
+wordpress_url: http://noesbueno.com/archives/124
+date: '2006-05-15 23:23:25 -0500'
+date_gmt: '2006-05-16 04:23:25 -0500'
+body: |
+  <p><a href="http://www.youtube.com/watch?v=quFlsFkKarE">Morrissey and Johnny Marr on Charlie's bus.</a> The dialog is superbly cheesy.</p>
+---

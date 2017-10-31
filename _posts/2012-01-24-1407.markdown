@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1407
+wordpress_url: http://noesbueno.com/archives/1407
+date: '2012-01-24 18:07:41 -0600'
+date_gmt: '2012-01-24 23:07:41 -0600'
+body: |
+  <p><a href="http://willzone.tumblr.com/post/16419312324/laughterkey-i-think-this-is-much-more-important">Red Velvet Fried Chicken</a></p>
+---

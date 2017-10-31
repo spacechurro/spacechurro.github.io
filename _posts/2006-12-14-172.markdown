@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 172
+wordpress_url: http://noesbueno.com/archives/172
+date: '2006-12-14 15:06:14 -0600'
+date_gmt: '2006-12-14 20:06:14 -0600'
+body: |
+  <p><a href="http://www.apple.com/trailers/universal/childrenofmen/">Alfonso Cuaron's 'Children of Men' trailer</a></p>
+---

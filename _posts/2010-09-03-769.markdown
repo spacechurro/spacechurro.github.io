@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 769
+wordpress_url: http://noesbueno.com/archives/769
+date: '2010-09-03 15:59:55 -0500'
+date_gmt: '2010-09-03 20:59:55 -0500'
+body: |
+  <p><a href="http://blog.turntablelab.com/2010/09/mi_done.html">mi done!</a></p>
+---

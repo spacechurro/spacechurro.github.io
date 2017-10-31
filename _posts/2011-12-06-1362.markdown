@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1362
+wordpress_url: http://noesbueno.com/archives/1362
+date: '2011-12-06 11:53:29 -0600'
+date_gmt: '2011-12-06 16:53:29 -0600'
+body: |
+  <p><a href="http://ratsoff.com/post/13806023474/khaliyl-rapping-at-2-years-old-with-alim-kamara">Khaliyl Rapping At 2 Years Old With Alim Kamara</a></p>
+---

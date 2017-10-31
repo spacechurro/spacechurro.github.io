@@ -1,0 +1,10 @@
+---
+layout: post
+wordpress_id: 1029
+wordpress_url: http://noesbueno.com/archives/1029
+date: '2011-02-25 17:59:49 -0600'
+date_gmt: '2011-02-25 22:59:49 -0600'
+body: |
+  <p><a href="http://www.whatevs.net/post/3509183025">Wait, Charlie Sheen was an alien?<br />
+  (videogum)</a></p>
+---

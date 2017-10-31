@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1398
+wordpress_url: http://noesbueno.com/archives/1398
+date: '2012-01-05 18:29:28 -0600'
+date_gmt: '2012-01-05 23:29:28 -0600'
+body: |
+  <p><a href="http://thedailywh.at/2012/01/04/lights-out-243/">Thin Wall Challenge</a></p>
+---

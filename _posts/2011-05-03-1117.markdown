@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1117
+wordpress_url: http://noesbueno.com/?p=1117
+date: '2011-05-03 08:48:34 -0500'
+date_gmt: '2011-05-03 13:48:34 -0500'
+body: |
+  <p><a href="http://www.flickr.com/photos/maxwellcolette/sets/72157626593825102/with/5670186482/">Shepard Fairey in Chicago</a> <span class="via">(via <a href="http://chicago.neighborhoodr.com">neighborhoodr</a>)</span></p>
+---

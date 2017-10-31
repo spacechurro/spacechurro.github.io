@@ -1,0 +1,12 @@
+---
+layout: post
+wordpress_id: 575
+wordpress_url: http://noesbueno.com/archives/575
+date: '2010-04-19 18:57:13 -0500'
+date_gmt: '2010-04-19 23:57:13 -0500'
+body: |
+  <p><a href="http://ennuipartie.tumblr.com/post/533826620">tylercoates:</p>
+  <p>5500:</p>
+  <p>LCD Soundsystem - Drunk Girls<br />
+  This is like...</a></p>
+---

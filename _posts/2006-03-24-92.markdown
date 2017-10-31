@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 92
+wordpress_url: http://noesbueno.com/archives/92
+date: '2006-03-24 15:07:42 -0600'
+date_gmt: '2006-03-24 20:07:42 -0600'
+body: |
+  <p><a href="http://www.youtube.com/watch?v=aIAjoNYgXHU">finger breakdancing</a> <span class="via">(via <a href="http://www.kottke.org">kottke</a>)</span></p>
+---

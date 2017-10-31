@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1677
+wordpress_url: http://noesbueno.com/archives/1677
+date: '2014-01-15 20:29:07 -0600'
+date_gmt: '2014-01-16 01:29:07 -0600'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2014/01/10-year-old-bboy-shosei-in-namba-osaka/">10-Year-Old Bboy Shosei In Namba Osaka</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1365
+wordpress_url: http://noesbueno.com/archives/1365
+date: '2011-12-09 17:24:00 -0600'
+date_gmt: '2011-12-09 22:24:00 -0600'
+body: |
+  <p><a href="http://feeds.coolhunting.com/~r/ch/~3/NUKL6c1pyRo/public-hotel-chicago.php">Public Hotel Chicago</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 483
+wordpress_url: http://noesbueno.com/archives/483
+date: '2010-02-10 19:59:13 -0600'
+date_gmt: '2010-02-11 00:59:13 -0600'
+body: |
+  <p><a href="http://www.engadget.com/2010/02/10/ps3-getting-3d-firmware-update-this-summer/">PS3 getting 3D firmware update this Summer</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 958
+wordpress_url: http://noesbueno.com/archives/958
+date: '2011-01-12 14:00:44 -0600'
+date_gmt: '2011-01-12 19:00:44 -0600'
+body: |
+  <p><a href="http://www.epicponyz.com/2011/01/mcdonalds-fry-skull.html">McDonald's Fry Skull</a></p>
+---

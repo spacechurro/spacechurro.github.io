@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 367
+wordpress_url: http://noesbueno.com/archives/367
+date: '2009-12-03 16:01:05 -0600'
+date_gmt: '2009-12-03 21:01:05 -0600'
+body: |
+  <p><a href="http://blog.signalnoise.com/?p=2099">VIPs - Very Important Pixels</a></p>
+---

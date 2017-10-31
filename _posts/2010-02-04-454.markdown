@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 454
+wordpress_url: http://noesbueno.com/archives/454
+date: '2010-02-04 17:37:55 -0600'
+date_gmt: '2010-02-04 22:37:55 -0600'
+body: |
+  <p><a href="http://www.wired.com/gamelife/2010/02/vinyl-fantasy-7-bandcamp/">Team Teamwork pulls Vinyl Fantasy 7</a></p>
+---

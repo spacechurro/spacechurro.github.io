@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 70
+wordpress_url: http://noesbueno.com/archives/70
+date: '2006-02-08 17:54:41 -0600'
+date_gmt: '2006-02-08 22:54:41 -0600'
+body: |
+  <p><a href="http://mrl.nyu.edu/~jhan/ftirtouch/">Multi-Touch Interaction Research</a> - That opening scene from minority report isn't too far off.</p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 218
+wordpress_url: http://noesbueno.com/archives/218
+date: '2007-12-05 22:17:26 -0600'
+date_gmt: '2007-12-06 03:17:26 -0600'
+body: |
+  <p><a href="http://www.uncrate.com/men/gear/misc-gadgets/flux-capacitor/">Buy your own Flux Capacitor.</a></p>
+---

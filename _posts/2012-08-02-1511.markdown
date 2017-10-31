@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1511
+wordpress_url: http://noesbueno.com/archives/1511
+date: '2012-08-02 15:48:11 -0500'
+date_gmt: '2012-08-02 20:48:11 -0500'
+body: |
+  <p><a href="http://www.nytimes.com/2012/07/15/fashion/the-challenge-of-making-friends-as-an-adult.html">Why Is it So Hard to Make Friends Over 30?</a> <span class="via">(via <a href="http://ratsoff.com">Rats Off!</a>)</span></p>
+---

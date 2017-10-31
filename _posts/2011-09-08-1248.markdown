@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1248
+wordpress_url: http://noesbueno.com/archives/1248
+date: '2011-09-08 17:02:16 -0500'
+date_gmt: '2011-09-08 22:02:16 -0500'
+body: |
+  <p><a href="http://feedproxy.google.com/~r/37signals/beMH/~3/bucHHd6m0fM/3001-your-attention-please">Your attention please</a></p>
+---

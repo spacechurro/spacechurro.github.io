@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 192
+wordpress_url: http://noesbueno.com/archives/192
+date: '2007-04-28 11:19:20 -0500'
+date_gmt: '2007-04-28 16:19:20 -0500'
+body: |
+  <p><a href="http://www.yonkis.com/w.php?id=234200712145.jpg">Evolution</a> <span class="via">(via <a href="http://www.woostercollective.com/">wooster collective</a>)</span></p>
+---

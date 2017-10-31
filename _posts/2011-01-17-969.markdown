@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 969
+wordpress_url: http://noesbueno.com/archives/969
+date: '2011-01-17 10:00:33 -0600'
+date_gmt: '2011-01-17 15:00:33 -0600'
+body: |
+  <p><a href="http://culturepopped.blogspot.com/2011/01/disneys-lost.html">Disney's Lost</a></p>
+---

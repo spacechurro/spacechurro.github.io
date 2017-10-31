@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1138
+wordpress_url: http://noesbueno.com/archives/1138
+date: '2011-05-31 11:01:07 -0500'
+date_gmt: '2011-05-31 16:01:07 -0500'
+body: |
+  <p><a href="http://culturepopped.blogspot.com/2011/05/breakfast-club-vs-x-men.html">The Breakfast Club Vs. The X-Men</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1536
+wordpress_url: http://noesbueno.com/archives/1536
+date: '2012-10-02 10:31:43 -0500'
+date_gmt: '2012-10-02 15:31:43 -0500'
+body: |
+  <p><a href="http://culturepopped.blogspot.com/2012/09/arkham-mad-men.html">Arkham Mad Men</a></p>
+---

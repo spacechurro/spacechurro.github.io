@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1410
+wordpress_url: http://noesbueno.com/archives/1410
+date: '2012-02-02 12:05:11 -0600'
+date_gmt: '2012-02-02 17:05:11 -0600'
+body: |
+  <p><a href="http://djnodj.com/?p=3189">Thursday Shocker: Funky Headnodic</a></p>
+---

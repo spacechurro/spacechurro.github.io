@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 586
+wordpress_url: http://noesbueno.com/archives/586
+date: '2010-04-23 18:01:04 -0500'
+date_gmt: '2010-04-23 23:01:04 -0500'
+body: |
+  <p><a href="http://lifehacker.com/5523024/google-reader-full-feed-expands-truncated-feeds-with-a-keystroke">Google Reader Full Feed Expands Truncated Feeds with a Keystroke [Downloads]</a></p>
+---

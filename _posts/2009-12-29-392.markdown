@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 392
+wordpress_url: http://noesbueno.com/archives/392
+date: '2009-12-29 18:00:29 -0600'
+date_gmt: '2009-12-29 23:00:29 -0600'
+body: |
+  <p><a href="http://feeds.macosxhints.com/click.phdo?i=ec4abbe6597bb51580611d1218a3b90e">Lock and unlock a Mac using Bluetooth detection</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1057
+wordpress_url: http://noesbueno.com/archives/1057
+date: '2011-03-21 11:59:25 -0500'
+date_gmt: '2011-03-21 16:59:25 -0500'
+body: |
+  <p><a href="http://www.epicponyz.com/2011/03/meanwhile-at-mcdonalds.html">Meanwhile at McDonalds</a></p>
+---

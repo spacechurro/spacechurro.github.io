@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1326
+wordpress_url: http://noesbueno.com/archives/1326
+date: '2011-11-09 16:28:14 -0600'
+date_gmt: '2011-11-09 21:28:14 -0600'
+body: |
+  <p><a href="http://www.lostateminor.com/2011/11/10/super-hero-poster-design-by-greg-guillemin/">Super hero poster design by Greg Guillemin</a></p>
+---

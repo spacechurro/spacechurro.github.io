@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 866
+wordpress_url: http://noesbueno.com/archives/866
+date: '2010-11-20 20:00:56 -0600'
+date_gmt: '2010-11-21 01:00:56 -0600'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2010/11/5-minutes-of-oprahs-audience-losing-their-friggin-minds/">5 Minutes Of Oprah's Audience Losing Their Friggin Minds</a></p>
+---

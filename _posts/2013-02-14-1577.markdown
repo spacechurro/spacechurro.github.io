@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1577
+wordpress_url: http://noesbueno.com/archives/1577
+date: '2013-02-14 14:49:58 -0600'
+date_gmt: '2013-02-14 19:49:58 -0600'
+body: |
+  <p><a href="http://gametoilet.venuspatrol.com/2013/02/gametoilet-501-super-kuato-bros-bank-heists-are-easier-with-a-man-on-the-inside/">Super Kuato Bros</a></p>
+---

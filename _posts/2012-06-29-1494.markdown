@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1494
+wordpress_url: http://noesbueno.com/archives/1494
+date: '2012-06-29 12:09:13 -0500'
+date_gmt: '2012-06-29 17:09:13 -0500'
+body: |
+  <p><a href="http://youtube.com/watch?v=QpcoOTXdQbk">Star Trek - Gaseous Anomalies</a></p>
+---

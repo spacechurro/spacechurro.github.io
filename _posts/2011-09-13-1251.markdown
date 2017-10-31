@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1251
+wordpress_url: http://noesbueno.com/archives/1251
+date: '2011-09-13 11:02:24 -0500'
+date_gmt: '2011-09-13 16:02:24 -0500'
+body: |
+  <p><a href="http://supersonicelectronic.com/post/10126331912">Aaron Smith.</a></p>
+---

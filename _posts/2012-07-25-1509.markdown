@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1509
+wordpress_url: http://noesbueno.com/archives/1509
+date: '2012-07-25 12:40:31 -0500'
+date_gmt: '2012-07-25 17:40:31 -0500'
+body: |
+  <p><a href="http://kottke.org/12/07/what-cricket-looks-like-to-americans">What cricket looks like to Americans</a></p>
+---

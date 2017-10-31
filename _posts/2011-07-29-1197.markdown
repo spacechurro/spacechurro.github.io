@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1197
+wordpress_url: http://noesbueno.com/?p=1197
+date: '2011-07-29 13:59:37 -0500'
+date_gmt: '2011-07-29 18:59:37 -0500'
+body: |
+  <p><a href="http://www.youtube.com/watch?v=_eeZnLX_XBM">Twin Sister - Bad Street</a> <span class="via">(via <a href="http://www.hipsterrunoff.com/">HIPSTER RUNOFF</a>)</span></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 605
+wordpress_url: http://noesbueno.com/archives/605
+date: '2010-05-11 10:00:55 -0500'
+date_gmt: '2010-05-11 15:00:55 -0500'
+body: |
+  <p><a href="http://feedproxy.google.com/~r/wondertonic/~3/juMuqIxDVVA/586627578">Resort To Cannibalism: The Game!</a></p>
+---

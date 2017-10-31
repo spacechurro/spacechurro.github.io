@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1084
+wordpress_url: http://noesbueno.com/archives/1084
+date: '2011-04-05 11:01:00 -0500'
+date_gmt: '2011-04-05 16:01:00 -0500'
+body: |
+  <p><a href="http://kottke.org/11/04/perhaps-the-best-reddit-question-ever">Perhaps the best Reddit question ever</a></p>
+---

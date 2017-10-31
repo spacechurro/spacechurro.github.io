@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1345
+wordpress_url: http://noesbueno.com/archives/1345
+date: '2011-11-27 20:19:17 -0600'
+date_gmt: '2011-11-28 01:19:17 -0600'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2011/11/braun-battle-of-the-year-2011-1-on-1-recap/">Braun Battle Of The Year 2011: 1 On 1 Recap</a></p>
+---

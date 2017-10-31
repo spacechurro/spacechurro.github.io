@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1762
+wordpress_url: http://noesbueno.com/archives/1762
+date: '2014-12-24 12:56:45 -0600'
+date_gmt: '2014-12-24 17:56:45 -0600'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2014/12/twelfth-man/">Twelfth Man</a></p>
+---

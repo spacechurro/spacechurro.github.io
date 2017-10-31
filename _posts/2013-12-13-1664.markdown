@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1664
+wordpress_url: http://noesbueno.com/archives/1664
+date: '2013-12-13 16:38:11 -0600'
+date_gmt: '2013-12-13 21:38:11 -0600'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2013/12/chicagos-magical-piano/">Chicago's Magical Piano</a></p>
+---

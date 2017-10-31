@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 815
+wordpress_url: http://noesbueno.com/?p=815
+date: '2010-10-19 16:23:52 -0500'
+date_gmt: '2010-10-19 21:23:52 -0500'
+body: |
+  <p><a href="http://soupsoup.tumblr.com/post/1345767197/zachlinder-im-really-looking-forward-to">Dear Catastrophe Witness</a></p>
+---

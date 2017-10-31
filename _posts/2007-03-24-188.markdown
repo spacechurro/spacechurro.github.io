@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 188
+wordpress_url: http://noesbueno.com/archives/188
+date: '2007-03-24 11:05:17 -0500'
+date_gmt: '2007-03-24 16:05:17 -0500'
+body: |
+  <p><a href="http://www.lifehacker.com/software/beverages/video-demonstration--open-a-beer-bottle-with-a-piece-of-paper-243642.php">Open a beer bottle with a piece of paper</a></p>
+---

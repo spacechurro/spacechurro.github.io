@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1765
+wordpress_url: http://noesbueno.com/archives/1765
+date: '2015-01-15 00:29:31 -0600'
+date_gmt: '2015-01-15 05:29:31 -0600'
+body: |
+  <p><a href="http://www.thisiscolossal.com/2015/01/power-glove-stop-motion/">Dillon Markey's stop-motion animation with the Nintendo Power Glove</a></p>
+---

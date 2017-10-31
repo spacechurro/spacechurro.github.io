@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 116
+wordpress_url: http://noesbueno.com/?p=116
+date: '2006-04-21 17:25:25 -0500'
+date_gmt: '2006-04-21 22:25:25 -0500'
+body: |
+  <p>A flash mob  <a href="http://www.youtube.com/watch?v=yoXwFcBmlpw">recreated the banned Xbox 360 gunfight commercial</a> on campus at the University of Florida.  It looks like the crowd around them doesn't even flinch.  <a href="http://www.youtube.com/watch?v=cS1xyR2w7pg">Here is the original</a>. <span class="via">(via <a href="http://www.xbox360fanboy.com">Xbox 360 fanboy</a>)</span></p>
+---

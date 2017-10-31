@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1072
+wordpress_url: http://noesbueno.com/archives/1072
+date: '2011-03-28 15:01:10 -0500'
+date_gmt: '2011-03-28 20:01:10 -0500'
+body: |
+  <p><a href="http://chicago.neighborhoodr.com/post/4161382996">Goose Island selling to Anheuser-Busch</a></p>
+---

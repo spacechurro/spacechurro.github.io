@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1372
+wordpress_url: http://noesbueno.com/archives/1372
+date: '2011-12-12 16:00:35 -0600'
+date_gmt: '2011-12-12 21:00:35 -0600'
+body: "<p><a href=\"http://www.thehighdefinite.com/2011/12/bad-lip-reading-rick-perrys-strong-ad/\">Bad
+  Lip Reading: Rick Perry's \"Strong\" Ad</a></p>\n"
+---

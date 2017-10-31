@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1277
+wordpress_url: http://noesbueno.com/archives/1277
+date: '2011-10-13 18:03:10 -0500'
+date_gmt: '2011-10-13 23:03:10 -0500'
+body: |
+  <p><a href="http://www.epicponyz.com/2011/10/pumpkin-eating-pumpkin.html">Pumpkin Eating Pumpkin</a></p>
+---

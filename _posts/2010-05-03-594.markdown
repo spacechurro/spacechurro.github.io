@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 594
+wordpress_url: http://noesbueno.com/archives/594
+date: '2010-05-03 13:00:49 -0500'
+date_gmt: '2010-05-03 18:00:49 -0500'
+body: |
+  <p><a href="http://tongodeon.livejournal.com/890323.html">Fun with secret questions &amp; answers</a></p>
+---

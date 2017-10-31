@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1593
+wordpress_url: http://noesbueno.com/archives/1593
+date: '2013-03-21 17:39:35 -0500'
+date_gmt: '2013-03-21 22:39:35 -0500'
+body: |
+  <p><a href="http://kottke.org/13/03/the-music-that-inspired-daft-punk">The music that inspired Daft Punk</a></p>
+---

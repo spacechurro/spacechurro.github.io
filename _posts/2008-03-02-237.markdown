@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 237
+wordpress_url: http://noesbueno.com/archives/237
+date: '2008-03-02 18:04:33 -0600'
+date_gmt: '2008-03-02 23:04:33 -0600'
+body: |
+  <p><a href="http://haxxx.alienmelon.com/">Haxed</a>.  This game gives me seizures, but it's the good kind so it's okay. <span class="via">(via <a href="http://www.deadtech.net/">deadtech</a>)</span></p>
+---

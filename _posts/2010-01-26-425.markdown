@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 425
+wordpress_url: http://noesbueno.com/archives/425
+date: '2010-01-26 15:28:33 -0600'
+date_gmt: '2010-01-26 20:28:33 -0600'
+body: |
+  <p><a href="http://www.amazon.com/Transformers-Takara-Music-Player-Soundwave/dp/B000NVIM74/ref=pd_sim_t_8">Soundwave MP3 Player</a></p>
+---

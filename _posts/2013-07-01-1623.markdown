@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1623
+wordpress_url: http://noesbueno.com/archives/1623
+date: '2013-07-01 15:36:17 -0500'
+date_gmt: '2013-07-01 20:36:17 -0500'
+body: |
+  <p><a href="http://www.lostateminor.com/2013/07/01/francesco-francavillas-70s-batman-art/">Francesco Francavilla's Batploitation: 1970â€²s style Batman art</a></p>
+---

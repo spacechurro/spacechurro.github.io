@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1761
+wordpress_url: http://noesbueno.com/archives/1761
+date: '2014-12-24 12:42:07 -0600'
+date_gmt: '2014-12-24 17:42:07 -0600'
+body: |
+  <p><a href="http://www.kungfugrippe.com/post/105655733079/kylemetcalf-fuller-go-easy-on-the-pepsi">Fuller, Go easy on the Pepsi!</a></p>
+---

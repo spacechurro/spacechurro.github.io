@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 223
+wordpress_url: http://noesbueno.com/archives/223
+date: '2008-01-11 21:57:32 -0600'
+date_gmt: '2008-01-12 02:57:32 -0600'
+body: |
+  <p><a href="http://raw.channelfrederator.com/group/throwbackthursdays">G.I. Joe drawing contest.</a>  Some of the stuff they got up is pretty dope. <span class="via">(via <a href="http://drawn.ca/">drawn!</a>)</span></p>
+---

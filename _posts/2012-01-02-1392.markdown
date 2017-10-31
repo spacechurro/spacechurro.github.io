@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1392
+wordpress_url: http://noesbueno.com/archives/1392
+date: '2012-01-02 16:32:59 -0600'
+date_gmt: '2012-01-02 21:32:59 -0600'
+body: |
+  <p><a href="http://soupsoup.tumblr.com/post/15186743190/huffpostcomedy-bill-murray-on-gilda-radner">Bill Murray on Gilda Radner</a></p>
+---

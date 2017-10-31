@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 45
+wordpress_url: http://noesbueno.com/archives/45
+date: '2005-12-15 17:07:39 -0600'
+date_gmt: '2005-12-15 22:07:39 -0600'
+body: |
+  <p><a href="http://www.panic.com/goods/#katamari">Official Katamari Damacy shirts</a> <span class="via">(via <a href="http://www.waxy.org">waxy</a>)</span></p>
+---

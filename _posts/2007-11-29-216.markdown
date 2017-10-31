@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 216
+wordpress_url: http://noesbueno.com/archives/216
+date: '2007-11-29 23:52:46 -0600'
+date_gmt: '2007-11-30 04:52:46 -0600'
+body: |
+  <p><a href="http://www.youtube.com/watch?v=2x2W12A8Qow">Cherry Chocolate Rain</a></p>
+---

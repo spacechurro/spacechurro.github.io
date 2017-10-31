@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 430
+wordpress_url: http://noesbueno.com/archives/430
+date: '2010-01-29 19:59:33 -0600'
+date_gmt: '2010-01-30 00:59:33 -0600'
+body: |
+  <p><a href="http://maddecent.com/blog/2010/01/26/nine/">NINE</a></p>
+---

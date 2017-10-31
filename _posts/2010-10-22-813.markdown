@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 813
+wordpress_url: http://noesbueno.com/?p=813
+date: '2010-10-22 11:39:01 -0500'
+date_gmt: '2010-10-22 16:39:01 -0500'
+body: |
+  <p><a href="http://lyingtomykids.com/">Lying to my Kids</a> <span class="via">(via <a href="http://thedailywh.at/">the daily wh.at</a>)</span></p>
+---

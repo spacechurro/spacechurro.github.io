@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 241
+wordpress_url: http://noesbueno.com/archives/241
+date: '2008-03-16 22:07:31 -0500'
+date_gmt: '2008-03-17 03:07:31 -0500'
+body: |
+  <p><a href="http://www.surfthechannel.com/info/documentaries/Worlds_most_important_6-sec_drum_loop%2C_The/36955/World%27s+most+important+6-sec+drum+loop%2C+The.html#">the world's most important 6 second drum loop</a> <span class="via">(via MDB)</span></p>
+---

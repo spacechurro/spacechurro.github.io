@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1787
+wordpress_url: http://noesbueno.com/archives/1787
+date: '2015-10-08 13:33:52 -0500'
+date_gmt: '2015-10-08 18:33:52 -0500'
+body: |
+  <p><a href="http://blog.turntablelab.com/prince-klassen/2015/10/hannibal-buress-unemployable/">Hannibal Buress Unemployable</a></p>
+---

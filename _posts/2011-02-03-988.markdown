@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 988
+wordpress_url: http://noesbueno.com/?p=988
+date: '2011-02-03 16:04:01 -0600'
+date_gmt: '2011-02-03 21:04:01 -0600'
+body: |
+  <p><a href="http://www.flickr.com/photos/jannepaint/sets/72157625479849168/with/5357946226/">Light Skeletons</a> <span class="via">(via <a href="http://thedailywh.at/">The Daily What</a>)</span></p>
+---

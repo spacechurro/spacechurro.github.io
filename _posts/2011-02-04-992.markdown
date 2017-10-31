@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 992
+wordpress_url: http://noesbueno.com/archives/992
+date: '2011-02-04 13:00:11 -0600'
+date_gmt: '2011-02-04 18:00:11 -0600'
+body: |
+  <p><a href="http://feedproxy.google.com/~r/PitchforkLatestNews/~3/scyVDF5f4zU/">Listen: Toro Y Moi's FACT Mix</a></p>
+---

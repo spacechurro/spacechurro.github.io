@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 926
+wordpress_url: http://noesbueno.com/archives/926
+date: '2010-12-25 14:00:55 -0600'
+date_gmt: '2010-12-25 19:00:55 -0600'
+body: |
+  <p><a href="http://feedproxy.google.com/~r/LostAtEMinor/~3/tgl9u7JXecU/">No Limit rock album covers</a></p>
+---

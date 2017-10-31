@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 333
+wordpress_url: http://noesbueno.com/archives/333
+date: '2009-11-05 17:00:58 -0600'
+date_gmt: '2009-11-05 22:00:58 -0600'
+body: |
+  <p><a href="http://lifehacker.com/5396212/open-a-bottle-of-wine-with-your-shoe">Open a Bottle of Wine with Your Shoe</a></p>
+---

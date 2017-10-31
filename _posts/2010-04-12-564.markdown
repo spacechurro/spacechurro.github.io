@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 564
+wordpress_url: http://noesbueno.com/archives/564
+date: '2010-04-12 22:57:23 -0500'
+date_gmt: '2010-04-13 03:57:23 -0500'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2010/04/the-roots-dilla-jawns-mixtape/">The Roots: Dilla Jawns (Mixtape)</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1687
+wordpress_url: http://noesbueno.com/archives/1687
+date: '2014-02-19 18:45:02 -0600'
+date_gmt: '2014-02-19 23:45:02 -0600'
+body: |
+  <p><a href="http://mattfraction.com/post/77093612466">GLOB SAVE THE VAMPIRE QUEEN</a></p>
+---

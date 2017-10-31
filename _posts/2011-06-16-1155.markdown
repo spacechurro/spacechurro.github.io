@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1155
+wordpress_url: http://noesbueno.com/archives/1155
+date: '2011-06-16 14:01:05 -0500'
+date_gmt: '2011-06-16 19:01:05 -0500'
+body: |
+  <p><a href="http://twitter.com/anildash/status/81150328124342273">The time when your tweet only had one favorite, that was when I carried you.</a></p>
+---

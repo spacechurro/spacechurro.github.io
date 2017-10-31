@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 960
+wordpress_url: http://noesbueno.com/archives/960
+date: '2011-01-12 20:00:41 -0600'
+date_gmt: '2011-01-13 01:00:41 -0600'
+body: |
+  <p><a href="http://feeds.coolhunting.com/~r/ch/~3/hTD6JhWCEaA/soundwagon.php">Soundwagon</a></p>
+---

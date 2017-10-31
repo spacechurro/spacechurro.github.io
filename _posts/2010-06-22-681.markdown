@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 681
+wordpress_url: http://noesbueno.com/archives/681
+date: '2010-06-22 08:00:33 -0500'
+date_gmt: '2010-06-22 13:00:33 -0500'
+body: |
+  <p><a href="http://nerdcityonline.com/2010/06/22/green-hornet-trailer/">"Green Hornet" Trailer</a></p>
+---

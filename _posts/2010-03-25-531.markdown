@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 531
+wordpress_url: http://noesbueno.com/archives/531
+date: '2010-03-25 14:57:55 -0500'
+date_gmt: '2010-03-25 19:57:55 -0500'
+body: |
+  <p><a href="http://kottke.org/10/03/photoshop-5s-magical-fill-tool">Photoshop 5's magical fill tool</a></p>
+---

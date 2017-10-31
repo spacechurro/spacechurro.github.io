@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1240
+wordpress_url: http://noesbueno.com/archives/1240
+date: '2011-08-31 16:54:56 -0500'
+date_gmt: '2011-08-31 21:54:56 -0500'
+body: |
+  <p><a href="http://www.xlr8r.com/podcast/2011/08/gui-boratto">XLR8R Podcast 213: Gui Boratto</a></p>
+---

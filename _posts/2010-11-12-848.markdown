@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 848
+wordpress_url: http://noesbueno.com/archives/848
+date: '2010-11-12 13:01:00 -0600'
+date_gmt: '2010-11-12 18:01:00 -0600'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2010/11/banksy-hits-number-10/">"Banksy" Hits Number 10</a></p>
+---

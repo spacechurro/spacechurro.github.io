@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 818
+wordpress_url: http://noesbueno.com/?p=818
+date: '2010-10-21 16:35:17 -0500'
+date_gmt: '2010-10-21 21:35:17 -0500'
+body: |
+  <p><a href="http://www.youtube.com/watch?v=9eF5c__8DFA">Creature Combat IV: Slaughter House</a>.  Kinda sounds like the guys who did <a href="http://www.youtube.com/watch?v=Lg-wRQdrSqo">Mario Twins</a>. <span class="via">(via <a href="http://www.epicponyz.com/">epicponyz</a>)</span></p>
+---

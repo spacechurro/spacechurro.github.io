@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 204
+wordpress_url: http://noesbueno.com/archives/204
+date: '2007-07-09 22:54:57 -0500'
+date_gmt: '2007-07-10 03:54:57 -0500'
+body: |
+  <p><a href="http://www.youtube.com/watch?v=NIGbhPLZmjY">walk it out, fosse</a></p>
+---

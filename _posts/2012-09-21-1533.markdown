@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1533
+wordpress_url: http://noesbueno.com/archives/1533
+date: '2012-09-21 12:46:11 -0500'
+date_gmt: '2012-09-21 17:46:11 -0500'
+body: |
+  <p><a href="http://kottke.org/12/09/the-soccer-in-iranis-explosive">The soccer in Iran...is explosive</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 76
+wordpress_url: http://noesbueno.com/archives/76
+date: '2006-02-23 17:32:59 -0600'
+date_gmt: '2006-02-23 22:32:59 -0600'
+body: |
+  <p>nice pics of an <a href="http://home.f01.itscom.net/spiral/t_rando/t_rando1.html">abandoned amusement park</a> <span class="via">(via <a href="http://blog.turntablelab.com/">ttl blog</a>)</span></p>
+---

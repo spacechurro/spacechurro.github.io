@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 698
+wordpress_url: http://noesbueno.com/archives/698
+date: '2010-06-29 08:00:34 -0500'
+date_gmt: '2010-06-29 13:00:34 -0500'
+body: |
+  <p><a href="http://feedproxy.google.com/~r/LostAtEMinor/~3/y1MDmwFPxNQ/">Japanese wave-shaping machine</a></p>
+---

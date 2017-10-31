@@ -1,0 +1,10 @@
+---
+layout: post
+wordpress_id: 1153
+wordpress_url: http://noesbueno.com/archives/1153
+date: '2011-06-14 19:01:06 -0500'
+date_gmt: '2011-06-15 00:01:06 -0500'
+body: |
+  <p><a href="http://chicago.neighborhoodr.com/post/6531005940">rickish:</p>
+  <p>This is Chicago in the 90s.</a></p>
+---

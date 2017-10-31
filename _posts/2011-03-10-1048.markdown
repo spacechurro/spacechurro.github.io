@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1048
+wordpress_url: http://noesbueno.com/?p=1048
+date: '2011-03-10 08:51:10 -0600'
+date_gmt: '2011-03-10 13:51:10 -0600'
+body: |
+  <p><a href="http://thedailywhat.tumblr.com/post/3734614586/mashup-of-the-day-in-the-grand-south-american">Faithtality</a></p>
+---

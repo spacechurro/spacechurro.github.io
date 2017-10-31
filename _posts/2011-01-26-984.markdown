@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 984
+wordpress_url: http://noesbueno.com/archives/984
+date: '2011-01-26 17:00:21 -0600'
+date_gmt: '2011-01-26 22:00:21 -0600'
+body: |
+  <p><a href="http://feedproxy.google.com/~r/nymag/vulture/~3/4yAt3UZB3RA/wonder_woman_lives.html">Wonder Woman Lives!</a></p>
+---

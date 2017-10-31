@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 85
+wordpress_url: http://noesbueno.com/archives/85
+date: '2006-03-16 19:32:25 -0600'
+date_gmt: '2006-03-17 00:32:25 -0600'
+body: |
+  <p><a href="http://www.gutterslide.com/boomboxpc/">Touchscreen Boombox PC</a></p>
+---

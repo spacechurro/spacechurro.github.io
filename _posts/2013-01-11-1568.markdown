@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1568
+wordpress_url: http://noesbueno.com/archives/1568
+date: '2013-01-11 10:00:34 -0600'
+date_gmt: '2013-01-11 15:00:34 -0600'
+body: |
+  <p><a href="http://www.lostateminor.com/2013/01/10/now-you-can-make-a-3d-paper-head-from-anyones-face/">Now you can make a 3D paper head from anyone's face</a></p>
+---

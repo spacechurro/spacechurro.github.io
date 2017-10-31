@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1541
+wordpress_url: http://noesbueno.com/archives/1541
+date: '2012-10-16 10:22:06 -0500'
+date_gmt: '2012-10-16 15:22:06 -0500'
+body: |
+  <p><a href="http://uncrate.com/stuff/bad-habits-made-to-order-dj-console/">Bad Habits Made-To-Order DJ Console</a></p>
+---

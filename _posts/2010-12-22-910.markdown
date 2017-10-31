@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 910
+wordpress_url: http://noesbueno.com/archives/910
+date: '2010-12-22 17:19:11 -0600'
+date_gmt: '2010-12-22 22:19:11 -0600'
+body: |
+  <p><a href="http://www.epicponyz.com/2010/12/girls-and-haircuts.html">Girls and Haircuts</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1446
+wordpress_url: http://noesbueno.com/archives/1446
+date: '2012-04-09 12:05:48 -0500'
+date_gmt: '2012-04-09 17:05:48 -0500'
+body: |
+  <p><a href="http://kottke.org/12/04/new-episode-of-a-show-with-ze-frank">New episode of A Show with Ze Frank</a></p>
+---

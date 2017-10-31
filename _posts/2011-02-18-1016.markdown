@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1016
+wordpress_url: http://noesbueno.com/archives/1016
+date: '2011-02-18 14:59:59 -0600'
+date_gmt: '2011-02-18 19:59:59 -0600'
+body: |
+  <p><a href="http://www.quora.com/Given-our-current-technology-and-with-the-proper-training-would-it-be-possible-for-someone-to-become-Batman">Given our current technology would it be possible for someone to become Batman?</a></p>
+---

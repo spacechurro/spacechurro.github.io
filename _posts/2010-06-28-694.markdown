@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 694
+wordpress_url: http://noesbueno.com/archives/694
+date: '2010-06-28 15:00:32 -0500'
+date_gmt: '2010-06-28 20:00:32 -0500'
+body: |
+  <p><a href="http://www.epicponyz.com/2010/06/admiral-ackbars-beer-rebellion.html">Admiral Ackbar's Beer Rebellion</a></p>
+---

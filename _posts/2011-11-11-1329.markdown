@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1329
+wordpress_url: http://noesbueno.com/?p=1329
+date: '2011-11-11 17:42:24 -0600'
+date_gmt: '2011-11-11 22:42:24 -0600'
+body: |
+  <p><a href="http://ratsoff.com/post/12651238532/seven-minutes-in-heaven-with-andy-samberg-best">Seven Minutes in Heaven with Andy Samberg</a></p>
+---

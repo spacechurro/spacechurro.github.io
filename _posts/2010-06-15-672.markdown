@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 672
+wordpress_url: http://noesbueno.com/archives/672
+date: '2010-06-15 19:00:40 -0500'
+date_gmt: '2010-06-16 00:00:40 -0500'
+body: |
+  <p><a href="http://www.epicponyz.com/2010/06/e3-kevin-butler-interviews-marcus.html">E3: Kevin Butler Interviews Marcus Rivers</a></p>
+---

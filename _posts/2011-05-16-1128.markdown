@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1128
+wordpress_url: http://noesbueno.com/archives/1128
+date: '2011-05-16 10:00:16 -0500'
+date_gmt: '2011-05-16 15:00:16 -0500'
+body: |
+  <p><a href="http://culturepopped.blogspot.com/2011/05/characters-favorite-musical-artists.html">Characters??? Favorite Musical Artists</a></p>
+---

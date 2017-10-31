@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 127
+wordpress_url: http://noesbueno.com/archives/127
+date: '2006-06-06 18:48:59 -0500'
+date_gmt: '2006-06-06 23:48:59 -0500'
+body: |
+  <p><a href="http://www.apple.com/trailers/fox_searchlight/littlemisssunshine/trailer2/">Little Miss Sunshine Trailer #2</a> - I had just finished listening to that Flaming Lips song when I queued it up.  Its that 6-6-06 I tells ya.</p>
+---

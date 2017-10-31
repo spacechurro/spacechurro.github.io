@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1522
+wordpress_url: http://noesbueno.com/archives/1522
+date: '2012-08-16 09:03:47 -0500'
+date_gmt: '2012-08-16 14:03:47 -0500'
+body: |
+  <p><a href="http://ratsoff.com/post/29490507421/trying-to-carry-groceries-in-one-trip-always">Trying to Carry Groceries In One Trip.</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1716
+wordpress_url: http://noesbueno.com/archives/1716
+date: '2014-06-02 22:38:46 -0500'
+date_gmt: '2014-06-03 03:38:46 -0500'
+body: |
+  <p><a href="http://www.lostateminor.com/2014/06/02/look-pissing/">To stop public urination, â€˜pissing tankers' now patrol the streets of Mumbai</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 631
+wordpress_url: http://noesbueno.com/?p=631
+date: '2010-05-21 11:06:54 -0500'
+date_gmt: '2010-05-21 16:06:54 -0500'
+body: |
+  <p><a href="http://vimeo.com/11848761">Flying Lotus talking about his influences and the state of music</a> <span class="via">(via <a href="http://blog.turntablelab.com/">ttl</a>)</span></p>
+---

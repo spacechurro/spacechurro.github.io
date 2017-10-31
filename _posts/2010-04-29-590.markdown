@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 590
+wordpress_url: http://noesbueno.com/archives/590
+date: '2010-04-29 13:01:02 -0500'
+date_gmt: '2010-04-29 18:01:02 -0500'
+body: |
+  <p><a href="http://feedproxy.google.com/~r/wondertonic/~3/N3XqM0wqYbM/557084710">The Opening Of My Newest Screenplay: TIME RIFT 4: GENESIS APOCALYPSE</a></p>
+---

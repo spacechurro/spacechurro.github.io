@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 197
+wordpress_url: http://noesbueno.com/archives/197
+date: '2007-05-28 21:26:20 -0500'
+date_gmt: '2007-05-29 02:26:20 -0500'
+body: |
+  <p><a href="http://www.apple.com/trailers/sony/paprika/">paprika</a></p>
+---

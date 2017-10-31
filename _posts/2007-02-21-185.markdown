@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 185
+wordpress_url: http://noesbueno.com/archives/185
+date: '2007-02-21 07:55:13 -0600'
+date_gmt: '2007-02-21 12:55:13 -0600'
+body: |
+  <p><a href="http://graffitiresearchlab.com/?page_id=76">L.A.S.E.R. Tag</a></p>
+---

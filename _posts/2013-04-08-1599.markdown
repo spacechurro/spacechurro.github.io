@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1599
+wordpress_url: http://noesbueno.com/?p=1599
+date: '2013-04-08 13:53:25 -0500'
+date_gmt: '2013-04-08 18:53:25 -0500'
+body: |
+  <p><a href="http://www.bbc.co.uk/programmes/b01nyvmm">Gaslamp Killer did an essential mix?</a>  I'm so behind on the times.  Here is a link to the mix from <a href="http://dnbshare.com/download/The_Gaslamp_Killer_-_Essential_Mix_BBC_Radio_1_12-01-2012.mp3.html">dnbshare</a>. Not sure how long it will last.</p>
+---

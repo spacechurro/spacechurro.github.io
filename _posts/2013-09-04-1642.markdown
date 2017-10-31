@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1642
+wordpress_url: http://noesbueno.com/archives/1642
+date: '2013-09-04 15:03:01 -0500'
+date_gmt: '2013-09-04 20:03:01 -0500'
+body: |
+  <p><a href="http://youtube.com/watch?v=2gZBITO5GwI">I Am Street Fighter - 25th Anniversary Documentary</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1431
+wordpress_url: http://noesbueno.com/archives/1431
+date: '2012-03-10 00:42:24 -0600'
+date_gmt: '2012-03-10 05:42:24 -0600'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2012/03/dj-charlie-white-it-was-all-a-dream-mixtape/">DJ Charlie White: It Was All A Dream (Mixtape)</a></p>
+---

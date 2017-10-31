@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 390
+wordpress_url: http://noesbueno.com/archives/390
+date: '2009-12-26 13:00:35 -0600'
+date_gmt: '2009-12-26 18:00:35 -0600'
+body: |
+  <p><a href="http://usanaco.wordpress.com/2009/12/24/rimas-y-razones-2009-2010/">RIMAS Y RAZONES 2009-2010</a></p>
+---

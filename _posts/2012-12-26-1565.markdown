@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1565
+wordpress_url: http://noesbueno.com/archives/1565
+date: '2012-12-26 19:01:27 -0600'
+date_gmt: '2012-12-27 00:01:27 -0600'
+body: |
+  <p><a href="http://culturepopped.blogspot.com/2012/12/fringe-question-answers.html">Fringe: Question The Answers</a></p>
+---

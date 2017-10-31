@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1341
+wordpress_url: http://noesbueno.com/archives/1341
+date: '2011-11-22 13:28:25 -0600'
+date_gmt: '2011-11-22 18:28:25 -0600'
+body: |
+  <p><a href="http://soupsoup.tumblr.com/post/12993642911">Triumph visits Occupy Wall Street</a></p>
+---

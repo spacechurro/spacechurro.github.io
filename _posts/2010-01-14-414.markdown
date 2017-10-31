@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 414
+wordpress_url: http://noesbueno.com/?p=414
+date: '2010-01-14 18:08:34 -0600'
+date_gmt: '2010-01-14 23:08:34 -0600'
+body: |
+  <p><a href="http://dippedindollars.com/2010/01/13/free-gucci/">Gucci Mane - Excuse Me (Diplo Remix)</a>  This track is hot.</p>
+---

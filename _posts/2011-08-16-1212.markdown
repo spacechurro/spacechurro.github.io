@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1212
+wordpress_url: http://noesbueno.com/archives/1212
+date: '2011-08-16 13:01:26 -0500'
+date_gmt: '2011-08-16 18:01:26 -0500'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2011/08/newscastle-in-san-diego/">Newscastle In San Diego</a></p>
+---

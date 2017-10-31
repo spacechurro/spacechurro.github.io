@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 588
+wordpress_url: http://noesbueno.com/archives/588
+date: '2010-04-27 13:01:02 -0500'
+date_gmt: '2010-04-27 18:01:02 -0500'
+body: |
+  <p><a href="http://waitingforbieber.com/">Waiting for Bieber</a></p>
+---

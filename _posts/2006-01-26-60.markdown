@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 60
+wordpress_url: http://noesbueno.com/archives/60
+date: '2006-01-26 21:06:50 -0600'
+date_gmt: '2006-01-27 02:06:50 -0600'
+body: |
+  <p><a href="http://www.transbuddha.com/index.php/buddha/suffer_well/">Tron vs. Depeche Mode</a></p>
+---

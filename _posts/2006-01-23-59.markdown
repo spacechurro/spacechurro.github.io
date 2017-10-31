@@ -1,0 +1,8 @@
+---
+layout: post
+wordpress_id: 59
+wordpress_url: http://noesbueno.com/archives/59
+date: '2006-01-23 17:12:46 -0600'
+date_gmt: '2006-01-23 22:12:46 -0600'
+body: <p><a href="http://www.youtube.com/w/Young-Chuck-Norris
+---

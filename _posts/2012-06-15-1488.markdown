@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1488
+wordpress_url: http://noesbueno.com/?p=1488
+date: '2012-06-15 10:43:00 -0500'
+date_gmt: '2012-06-15 15:43:00 -0500'
+body: |
+  <p><a href="http://www.youtube.com/watch?v=33zPlnhymCU">Jack McBrayer & Triumph Visit Chicago's Weiner's Circle</a></p>
+---

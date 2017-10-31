@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1580
+wordpress_url: http://noesbueno.com/archives/1580
+date: '2013-02-18 17:45:49 -0600'
+date_gmt: '2013-02-18 22:45:49 -0600'
+body: |
+  <p><a href="http://feeds.coolhunting.com/~r/ch/~3/5jRfj0VVbG4/interview-diego-luna.php">Interview: Diego Luna: The actor-director on his friendship with Gael GarcÃ­a Bernal, CANANA Films and his latest short</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 83
+wordpress_url: http://noesbueno.com/archives/83
+date: '2006-03-07 17:47:17 -0600'
+date_gmt: '2006-03-07 22:47:17 -0600'
+body: |
+  <p><a href="http://www.apple.com/trailers/fox/tls/trailer/">'X-MEN: The Last Stand' trailer</a></p>
+---

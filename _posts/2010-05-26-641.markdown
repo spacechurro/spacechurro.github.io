@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 641
+wordpress_url: http://noesbueno.com/archives/641
+date: '2010-05-26 11:51:00 -0500'
+date_gmt: '2010-05-26 16:51:00 -0500'
+body: |
+  <p><a href="http://blog.turntablelab.com/2010/05/post_781.html">Favela on Blast trailer</a></p>
+---

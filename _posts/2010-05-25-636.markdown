@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 636
+wordpress_url: http://noesbueno.com/archives/636
+date: '2010-05-25 14:00:46 -0500'
+date_gmt: '2010-05-25 19:00:46 -0500'
+body: |
+  <p><a href="http://kottke.org/10/05/apple-doesnt-want-a-monopoly">Apple doesn't want a monopoly</a></p>
+---

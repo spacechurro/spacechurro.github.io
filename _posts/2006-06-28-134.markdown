@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 134
+wordpress_url: http://noesbueno.com/archives/134
+date: '2006-06-28 18:30:38 -0500'
+date_gmt: '2006-06-28 23:30:38 -0500'
+body: |
+  <p><a href="http://www.apple.com/trailers/sony_pictures/spider-man_3/large.html">Spider-Man 3 Trailer</a></p>
+---

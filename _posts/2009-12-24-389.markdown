@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 389
+wordpress_url: http://noesbueno.com/archives/389
+date: '2009-12-24 12:00:40 -0600'
+date_gmt: '2009-12-24 17:00:40 -0600'
+body: |
+  <p><a href="http://lifehacker.com/5433329/get-your-camera-returned-with-a-great-photo-message">Get Your Camera Returned with a Great Photo Message</a></p>
+---

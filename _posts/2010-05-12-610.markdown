@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 610
+wordpress_url: http://noesbueno.com/archives/610
+date: '2010-05-12 17:56:12 -0500'
+date_gmt: '2010-05-12 22:56:12 -0500'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2010/05/try-to-control-yourselves-ladies/">Try To Control Yourselves, Ladies.</a></p>
+---

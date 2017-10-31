@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 997
+wordpress_url: http://noesbueno.com/archives/997
+date: '2011-02-09 13:00:06 -0600'
+date_gmt: '2011-02-09 18:00:06 -0600'
+body: |
+  <p><a href="http://kottke.org/11/02/playmobil-joy-division">Playmobil Joy Division</a></p>
+---

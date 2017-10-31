@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 522
+wordpress_url: http://noesbueno.com/archives/522
+date: '2010-03-22 10:57:59 -0500'
+date_gmt: '2010-03-22 15:57:59 -0500'
+body: |
+  <p><a href="http://www.lostateminor.com/2010/03/20/tiny-art-director-a-toddler-and-her-vision/">Tiny Art Director: A Toddler and Her Vision</a></p>
+---

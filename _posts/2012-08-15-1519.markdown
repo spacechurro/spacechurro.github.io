@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1519
+wordpress_url: http://noesbueno.com/?p=1519
+date: '2012-08-15 09:02:44 -0500'
+date_gmt: '2012-08-15 14:02:44 -0500'
+body: |
+  <p><a href="https://medium.com/p/9e53ca408c48"> Obvious announces Medium, a new blogging platform</a> <span class="via">(via <a href="http://waxy.org">waxy!</a>)</span></p>
+---

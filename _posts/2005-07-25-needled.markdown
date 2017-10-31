@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 6
+wordpress_url: http://noesbueno.com/tidbits/?p=6
+date: '2005-07-25 20:43:29 -0500'
+date_gmt: '2005-07-26 01:43:29 -0500'
+body: |
+  <p><a href="http://www.needled.com/">Needled</a> is a new site on body art with a some really good news and articles like this one on <a href="http://www.needled.com/archives/2005/07/wim_delvoyes_ar.php">pig tattoos</a>.  <span class="via">(via <a href="http://www.coolhunting.com/archives/2005/07/needled.php">cool hunting</a>)</span></p>
+---

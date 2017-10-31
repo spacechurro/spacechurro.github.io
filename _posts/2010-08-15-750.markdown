@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 750
+wordpress_url: http://noesbueno.com/?p=750
+date: '2010-08-15 21:42:04 -0500'
+date_gmt: '2010-08-16 02:42:04 -0500'
+body: |
+  <p><a href="http://www.youtube.com/watch?v=A6lPmv5g2sA">Kavinsky - Nightcall (Terminator video)</a></p>
+---

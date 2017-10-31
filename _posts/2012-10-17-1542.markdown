@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1542
+wordpress_url: http://noesbueno.com/archives/1542
+date: '2012-10-17 12:44:07 -0500'
+date_gmt: '2012-10-17 17:44:07 -0500'
+body: |
+  <p><a href="http://hints.macworld.com/article.php?story=20121002150618990">Send SMS to Messages and run commands with AppleScript</a></p>
+---

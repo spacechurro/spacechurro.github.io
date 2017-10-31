@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1357
+wordpress_url: http://noesbueno.com/archives/1357
+date: '2011-12-01 13:31:06 -0600'
+date_gmt: '2011-12-01 18:31:06 -0600'
+body: |
+  <p><a href="http://ratsoff.com/post/13569941642/via-theduty">New Horoscopes by Anna</a></p>
+---

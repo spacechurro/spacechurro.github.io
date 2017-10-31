@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1524
+wordpress_url: http://noesbueno.com/archives/1524
+date: '2012-09-05 11:11:24 -0500'
+date_gmt: '2012-09-05 16:11:24 -0500'
+body: |
+  <p><a href="http://kottke.org/12/09/magic-cooling-glove-better-than-steroids-for-athletic-performance-improvement">Magic cooling glove "better than steroids" for athletic performance improvement</a></p>
+---

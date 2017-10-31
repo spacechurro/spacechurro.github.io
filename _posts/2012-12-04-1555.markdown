@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1555
+wordpress_url: http://noesbueno.com/archives/1555
+date: '2012-12-04 16:39:30 -0600'
+date_gmt: '2012-12-04 21:39:30 -0600'
+body: |
+  <p><a href="http://www.spin.com/articles/history-video-games-rap-songs-samples-supercut">History of hip-hop sampling videogame soundtracks</a></p>
+---

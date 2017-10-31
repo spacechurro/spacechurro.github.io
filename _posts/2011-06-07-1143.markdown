@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1143
+wordpress_url: http://noesbueno.com/archives/1143
+date: '2011-06-07 11:01:07 -0500'
+date_gmt: '2011-06-07 16:01:07 -0500'
+body: |
+  <p><a href="http://kottke.org/11/06/neverending-shampoo">Neverending shampoo</a></p>
+---

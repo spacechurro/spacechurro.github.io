@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 198
+wordpress_url: http://noesbueno.com/archives/198
+date: '2007-05-30 09:51:10 -0500'
+date_gmt: '2007-05-30 14:51:10 -0500'
+body: |
+  <p><a href="http://www.microsoft.com/surface/">Microsoft Surface</a></p>
+---

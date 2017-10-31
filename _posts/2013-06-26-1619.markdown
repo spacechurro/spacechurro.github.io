@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1619
+wordpress_url: http://noesbueno.com/archives/1619
+date: '2013-06-26 09:36:59 -0500'
+date_gmt: '2013-06-26 14:36:59 -0500'
+body: |
+  <p><a href="http://kottke.org/13/06/duct-tape-surfing">Duct tape surfing</a></p>
+---

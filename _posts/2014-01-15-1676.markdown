@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1676
+wordpress_url: http://noesbueno.com/archives/1676
+date: '2014-01-15 09:56:28 -0600'
+date_gmt: '2014-01-15 14:56:28 -0600'
+body: |
+  <p><a href="http://www.lostateminor.com/2014/01/14/hero-glyphics-pop-culture-heroes-reimagined-egyptian-hieroglyphics/">Pop culture heroes reimagined as Egyptian hieroglyphics</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 150
+wordpress_url: http://noesbueno.com/archives/150
+date: '2006-09-12 05:55:43 -0500'
+date_gmt: '2006-09-12 10:55:43 -0500'
+body: |
+  <p><a href="http://www.dsicons.com/nintendo-ds/">DS icons</a> <span class="via">(via <a href="http://www.airbagindustries.com/">Airbag</a>)</span></p>
+---

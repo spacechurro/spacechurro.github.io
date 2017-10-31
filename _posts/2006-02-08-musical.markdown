@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 67
+wordpress_url: http://noesbueno.com/archives/67
+date: '2006-02-08 01:31:47 -0600'
+date_gmt: '2006-02-08 06:31:47 -0600'
+body: |
+  <p>I got a small piece of a <a href="http://www.noesbueno.com/musical/">web app called musiCal</a> I've been working on in <a href="http://www.rubyonrails.org">Ruby on Rails</a>.  It takes your top 50 artists from last.fm and checks to see if any of them are playing in your metro via upcoming.org. I'm still having issues switching it over to using FastCGI, so its running kinda slow right now, but hopefully I'll be able to figure it out soon.  I still have to add RSS feeds and a couple of other bells and whistles, so stay tuned.</p>
+---

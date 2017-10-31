@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 784
+wordpress_url: http://noesbueno.com/archives/784
+date: '2010-09-14 19:59:58 -0500'
+date_gmt: '2010-09-15 00:59:58 -0500'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2010/09/the-echo-park-time-travel-mart/">The Echo Park Time Travel Mart</a></p>
+---

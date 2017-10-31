@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 551
+wordpress_url: http://noesbueno.com/?p=551
+date: '2010-04-07 21:33:44 -0500'
+date_gmt: '2010-04-08 02:33:44 -0500'
+body: |
+  <p><a href="http://wtf.thebizzare.com/featured-articles/hand-painted-movie-posters-from-ghana/">Hand Painted Movie Posters from Ghana</a> </p>
+---

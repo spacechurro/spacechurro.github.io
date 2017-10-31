@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 48
+wordpress_url: http://noesbueno.com/?p=48
+date: '2005-12-30 17:02:22 -0600'
+date_gmt: '2005-12-30 22:02:22 -0600'
+body: |
+  <p><a href="http://docopenhagen.blogspot.com/2005/12/top-50-music-videos-of-2005.html">Top 50 music videos of 2005</a> <span class="via">(via <a href="http://www.gapersblock.com">Gapers Block</a>)</span></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1616
+wordpress_url: http://noesbueno.com/archives/1616
+date: '2013-06-01 10:08:03 -0500'
+date_gmt: '2013-06-01 15:08:03 -0500'
+body: |
+  <p><a href="http://vimeo.com/67135948">Lecture: James Murphy (New York, 2013)</a></p>
+---

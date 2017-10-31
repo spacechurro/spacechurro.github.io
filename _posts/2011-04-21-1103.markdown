@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1103
+wordpress_url: http://noesbueno.com/archives/1103
+date: '2011-04-21 13:00:43 -0500'
+date_gmt: '2011-04-21 18:00:43 -0500'
+body: |
+  <p><a href="http://www.swordandsworcery.com/news/2011/4/21/spoiler-alert.html">* * * * * spoiler alert</a></p>
+---

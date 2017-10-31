@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 328
+wordpress_url: http://noesbueno.com/archives/328
+date: '2009-10-30 20:01:00 -0500'
+date_gmt: '2009-10-31 01:01:00 -0500'
+body: |
+  <p><a href="http://feedproxy.google.com/~r/nymag/vulture/~3/O6nKBjweJfE/al_roker_humped_by_moonwalking.html">Al Roker Humped by Moonwalking Ewok</a></p>
+---

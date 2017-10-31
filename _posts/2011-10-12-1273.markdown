@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1273
+wordpress_url: http://noesbueno.com/archives/1273
+date: '2011-10-12 12:03:16 -0500'
+date_gmt: '2011-10-12 17:03:16 -0500'
+body: |
+  <p><a href="http://blog.signalnoise.com/2011/10/12/1983-apple-gift-catalog/">1983 Apple Gift Catalog</a></p>
+---

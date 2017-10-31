@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 47
+wordpress_url: http://noesbueno.com/archives/47
+date: '2005-12-28 11:06:06 -0600'
+date_gmt: '2005-12-28 16:06:06 -0600'
+body: |
+  <p><a href="http://cgi.ebay.com/Star-Wars-Custom-Darth-Vader-Mr-T-Very-Nice_W0QQitemZ6024884215">Star Wars custom figure</a>.  I pity the fool who messes with Darth Vader.</p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 167
+wordpress_url: http://noesbueno.com/archives/167
+date: '2006-12-12 15:33:33 -0600'
+date_gmt: '2006-12-12 20:33:33 -0600'
+body: |
+  <p><a href="http://www.iwatchstuff.com/2006/12/inland_empire_trailer.html">New trailer for David Lynch's 'Inland Empire'</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1532
+wordpress_url: http://noesbueno.com/archives/1532
+date: '2012-09-20 14:03:18 -0500'
+date_gmt: '2012-09-20 19:03:18 -0500'
+body: |
+  <p><a href="http://kottke.org/12/09/unlikely-aquatic-sculptor">Unlikely aquatic sculptor</a></p>
+---

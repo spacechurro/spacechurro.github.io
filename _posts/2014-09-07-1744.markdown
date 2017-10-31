@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1744
+wordpress_url: http://noesbueno.com/archives/1744
+date: '2014-09-07 09:39:33 -0500'
+date_gmt: '2014-09-07 14:39:33 -0500'
+body: |
+  <p><a href="http://kottke.org/14/09/the-history-of-japanese-video-game-music">The history of Japanese video game music</a></p>
+---

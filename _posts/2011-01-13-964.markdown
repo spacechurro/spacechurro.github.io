@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 964
+wordpress_url: http://noesbueno.com/archives/964
+date: '2011-01-13 19:00:34 -0600'
+date_gmt: '2011-01-14 00:00:34 -0600'
+body: |
+  <p><a href="http://www.uncrate.com/men/gear/ipod-iphone/beacon-universal-remote-system/">Beacon Universal Remote System</a></p>
+---

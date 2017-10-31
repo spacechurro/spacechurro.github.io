@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1023
+wordpress_url: http://noesbueno.com/archives/1023
+date: '2011-02-23 10:00:01 -0600'
+date_gmt: '2011-02-23 15:00:01 -0600'
+body: |
+  <p><a href="http://www.epicponyz.com/2011/02/camp-rules.html">Camp Rules</a></p>
+---

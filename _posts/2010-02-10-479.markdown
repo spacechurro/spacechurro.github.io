@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 479
+wordpress_url: http://noesbueno.com/?p=479
+date: '2010-02-10 19:45:53 -0600'
+date_gmt: '2010-02-11 00:45:53 -0600'
+body: |
+  <p><a href="http://nextround.net/2009/11/30/13-celebrities-caught-staring/">Celebrities Caught Staring</a> <span class="via">(via <a href="http://blog.turntablelab.com/">TTL Estoy Con Estupido Blog</a>)</span></p>
+---

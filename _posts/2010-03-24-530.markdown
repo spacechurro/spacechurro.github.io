@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 530
+wordpress_url: http://noesbueno.com/archives/530
+date: '2010-03-24 16:57:55 -0500'
+date_gmt: '2010-03-24 21:57:55 -0500'
+body: |
+  <p><a href="http://www.lostateminor.com/2010/03/25/gummi-bear-chandelier/">Gummi Bear Chandelier</a></p>
+---

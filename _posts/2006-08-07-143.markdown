@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 143
+wordpress_url: http://noesbueno.com/archives/143
+date: '2006-08-07 17:03:43 -0500'
+date_gmt: '2006-08-07 22:03:43 -0500'
+body: |
+  <p><a href="http://helveticafilm.com/">Helvetica: The Film</a> <span class="via">(via <a href="http://www.typographi.com/">Typographica</a>)</span></p>
+---

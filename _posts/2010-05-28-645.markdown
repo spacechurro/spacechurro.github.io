@@ -1,0 +1,11 @@
+---
+layout: post
+wordpress_id: 645
+wordpress_url: http://noesbueno.com/archives/645
+date: '2010-05-28 09:00:45 -0500'
+date_gmt: '2010-05-28 14:00:45 -0500'
+body: |
+  <p><a href="http://www.whatevs.net/post/637898891">waxandmilk:</p>
+  <p>Adult Swim Presents: 8 Singles 8 Weeks<br />
+  Madvillain -...</a></p>
+---

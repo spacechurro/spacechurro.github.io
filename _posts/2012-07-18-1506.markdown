@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1506
+wordpress_url: http://noesbueno.com/archives/1506
+date: '2012-07-18 11:39:06 -0500'
+date_gmt: '2012-07-18 16:39:06 -0500'
+body: |
+  <p><a href="http://kottke.org/12/07/mr-wizard-is-a-dick">Mr. Wizard is a dick</a></p>
+---

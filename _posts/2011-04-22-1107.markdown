@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1107
+wordpress_url: http://noesbueno.com/archives/1107
+date: '2011-04-22 18:00:40 -0500'
+date_gmt: '2011-04-22 23:00:40 -0500'
+body: |
+  <p><a href="http://redthreat.wordpress.com/2011/04/21/roni-size-new-forms-machinedrum-juke-edit/">Roni Size: New Forms (Machinedrum Juke Edit)</a></p>
+---

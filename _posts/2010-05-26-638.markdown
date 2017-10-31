@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 638
+wordpress_url: http://noesbueno.com/?p=638
+date: '2010-05-26 10:18:22 -0500'
+date_gmt: '2010-05-26 15:18:22 -0500'
+body: |
+  <p><a href="http://www.youtube.com/watch?v=agk2svo7svI">Azureus Rising</a> - Seems like it could have been written by Roman from Party Down. <span class="via">(via <a href="http://www.thehighdefinite.com">thehighdefinite</a>)</span></p>
+---

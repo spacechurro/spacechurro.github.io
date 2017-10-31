@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1344
+wordpress_url: http://noesbueno.com/archives/1344
+date: '2011-11-23 21:27:14 -0600'
+date_gmt: '2011-11-24 02:27:14 -0600'
+body: |
+  <p><a href="http://www.epicponyz.com/2011/11/x-men-cyclops-turkey.html">X-Men: Cyclops Turkey</a></p>
+---

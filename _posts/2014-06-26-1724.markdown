@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1724
+wordpress_url: http://noesbueno.com/archives/1724
+date: '2014-06-26 22:10:12 -0500'
+date_gmt: '2014-06-27 03:10:12 -0500'
+body: |
+  <p><a href="http://kottke.org/14/06/soccer-55-vs-2">Soccer: 55 vs. 2</a></p>
+---

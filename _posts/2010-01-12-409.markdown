@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 409
+wordpress_url: http://noesbueno.com/archives/409
+date: '2010-01-12 01:00:05 -0600'
+date_gmt: '2010-01-12 06:00:05 -0600'
+body: |
+  <p><a href="http://feedproxy.google.com/~r/nymag/vulture/~3/jlDaLA81F_4/hbo_will_air_12_weeks_of_funny.html">HBO to Air 12 Weeks of Funny Or Die Presents</a></p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1731
+wordpress_url: http://noesbueno.com/archives/1731
+date: '2014-07-11 11:23:57 -0500'
+date_gmt: '2014-07-11 16:23:57 -0500'
+body: |
+  <p><a href="http://thechangelog.com/command-line-karaoke-cli-aoke/?utm_source=rss&utm_medium=rss&utm_campaign=command-line-karaoke-cli-aoke">The Command Line meets Karaoke</a></p>
+---

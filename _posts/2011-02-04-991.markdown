@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 991
+wordpress_url: http://noesbueno.com/archives/991
+date: '2011-02-04 12:33:42 -0600'
+date_gmt: '2011-02-04 17:33:42 -0600'
+body: |
+  <p><a href="http://ratsoff.com/post/3096786870/sashimi-shimmy-ya-and-because-now-you-want-to">Sashimi Shimmy Ya!</a></p>
+---

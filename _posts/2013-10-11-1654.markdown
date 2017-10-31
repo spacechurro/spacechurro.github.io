@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1654
+wordpress_url: http://noesbueno.com/archives/1654
+date: '2013-10-11 16:11:13 -0500'
+date_gmt: '2013-10-11 21:11:13 -0500'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2013/10/banksy-rebel-rocket-attack/">Banksy: Rebel Rocket Attack</a></p>
+---

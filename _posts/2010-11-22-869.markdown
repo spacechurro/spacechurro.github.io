@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 869
+wordpress_url: http://noesbueno.com/?p=869
+date: '2010-11-22 17:33:15 -0600'
+date_gmt: '2010-11-22 22:33:15 -0600'
+body: |
+  <p><a href="http://natehillisnuts.com/home/punch-me-panda/">Punch Me Panda</a> <span class="via">(via <a href="http://thedailywh.at/">the daily wh.at</a>)</span> </p>
+---

@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1377
+wordpress_url: http://noesbueno.com/archives/1377
+date: '2011-12-13 17:39:45 -0600'
+date_gmt: '2011-12-13 22:39:45 -0600'
+body: |
+  <p><a href="http://www.thehighdefinite.com/2011/12/adopt-a-bro/">Adopt A Bro</a></p>
+---

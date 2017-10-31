@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 77
+wordpress_url: http://noesbueno.com/archives/77
+date: '2006-02-27 17:25:14 -0600'
+date_gmt: '2006-02-27 22:25:14 -0600'
+body: |
+  <p><a href="http://www.thesuperficial.com/archives/2006/02/24/peanut_butter_federline.html">It's Peanut Butter Federline Time</a></p>
+---
