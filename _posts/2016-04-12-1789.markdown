@@ -1,0 +1,9 @@
+---
+layout: post
+wordpress_id: 1789
+wordpress_url: http://noesbueno.com/archives/1789
+date: '2016-04-12 11:32:05 -0600'
+date_gmt: '2016-04-12 16:32:05 -0600'
+body: |
+  <p><a href="http://kottke.org/16/04/launching-a-fleet-of-nano-probes-toward-nearest-star">Launching a fleet of nano-probes toward nearest star</a></p>
+---
