@@ -14,3 +14,5 @@ github_username:  spacechurro
 
 # Build settings
 markdown: kramdown
+
+plugins: [jekyll-paginate]
